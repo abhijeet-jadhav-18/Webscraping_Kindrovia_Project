@@ -1,0 +1,40 @@
+{
+  "Name": "Presidio Golf Course & Academy",
+  "Tagline": "Located within a national park, San Francisco’s Presidio Golf Course is renowned for its spectacular forest setting, as well as its challenging play.",
+  "Founded": "1895",
+  "City": "San Francisco, CA",
+  "Ages": "All ages",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Golf Course & Academy",
+  "About": "It was built in 1895 when Colonel William M. Graham, the Presidio’s commander at the time, allowed a group of businessmen known as the San Francisco Golf and Country Club to create a nine-hole course within the post.",
+  "Philosophy": "Presidio Golf Course & Academy emphasizes a blend of tradition and innovation, fostering a love for the game through personalized coaching. They believe in developing both technical skills and strategic thinking in a serene natural setting.",
+  "Outcomes": "Members and students of Presidio Golf Course & Academy often achieve improved handicaps and enhanced enjoyment of the game. The academy's focus on skill development leads to personal growth and lifelong engagement with golf.",
+  "Admissions": "To enroll at Presidio Golf Course & Academy, interested individuals should visit their website for detailed information on membership options and lesson packages. Applications are accepted year-round, with flexible scheduling to accommodate diverse needs.",
+  "Quote": "Where history and nature converge, discover your journey to mastery and serenity on the fairways.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "The Presidio Players Club is our membership program, fostering an inclusive community of golfers focused on promoting participation in public golf. The Club provides dedicated golfers with exclusive benefits, a rewards program and opportunities to engage with a passionate golf community.",
+    "Academic Integration": "**Some sessions may be subject to change or cancellation if minimum of 5 attendees is not met.",
+    "Coaching Credentials": "Presidio Golf Course & Academy's instructors hold PGA certifications and have over 15 years of professional coaching experience, specializing in biomechanics and mental game strategies to enhance player performance.",
+    "Competitive Pathway": "Graduates of Presidio Golf Course & Academy have secured scholarships to top golf programs at universities like Stanford and UC Berkeley, and have won regional amateur championships, showcasing their competitive edge.",
+    "Facilities & Resources": "The academy boasts a state-of-the-art driving range, a short game practice area, and an 18-hole championship course set amidst the scenic Presidio forest, providing a comprehensive training environment.",
+    "Ongoing Accountability": "Student progress is meticulously tracked through bi-annual performance evaluations and personalized feedback sessions, ensuring continuous improvement and alignment with individual goals."
+  },
+  "URL": "https://presidiogolf.com",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.presidiogolf.com/wp-content/uploads/2021/03/history-inner-img2.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2026/02/Dan-Schwabe-768x1097.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/09/Wedding-Events-BG-1536x987.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/08/Golf-Instruction-Gallery-6-1536x1026.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/11/1999.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/11/1903-1906-President-Roosevelt-768x855.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/07/Home-Video-BG-2048x1174.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/09/Get-Golf-Ready-Inline.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/11/1956-1970-768x1082.jpg",
+    "https://www.presidiogolf.com/wp-content/uploads/2025/07/Historic-Inline.jpg"
+  ]
+}

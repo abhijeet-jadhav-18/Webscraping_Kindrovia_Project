@@ -1,0 +1,40 @@
+{
+  "Name": "San Francisco Ballet School",
+  "Tagline": "The oldest professional ballet school in the U.S., San Francisco Ballet School offers world-class training for all ages and levels. Learn more today!",
+  "Founded": "1933",
+  "City": "San Francisco, CA",
+  "Ages": "7–18",
+  "Students": "350",
+  "Ratio": "1:10",
+  "Fees": "See website",
+  "Type": "Ballet & Dance School",
+  "About": "San Francisco Ballet’s School Year Program trains students ages 8–18 through eight progressive levels, from foundational technique to pre-professional preparation. Students must be selected to enroll via a screening or audition, and requirements differ based on the age and skill level of the applicant.",
+  "Philosophy": "San Francisco Ballet stands at an extraordinary inflection point where artistic vision, organizational transition, cultural evolution, and civic renewal converge to create a unique window of opportunity. Since 1933, SF Ballet has been both a founding voice in American ballet and a creative engine for the art form globally.",
+  "Outcomes": "Graduates of San Francisco Ballet School often join prestigious ballet companies worldwide, including the San Francisco Ballet. The school has a strong track record of students winning top awards in international ballet competitions.",
+  "Admissions": "Prospective students must audition to gain admission, with auditions held annually. The selection process considers age, skill level, and potential, ensuring a tailored training experience for each student.",
+  "Quote": "Displays the current constituent who is logged in.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "March 1, so if you would like to be considered for the summe",
+  "Performance": {
+    "Coaching Credentials": "San Francisco Ballet School’s Summer Program welcomes dedicated ballet students, from those discovering dance to advanced students on a professional path. Classes, workshops, and sessions are led by distinguished faculty and skilled live accompanists in an environment that combines expert instruction with the energy of a world-leading ballet company.",
+    "Facilities & Resources": "Backstage like you’ve never seen it before. Join SF Ballet on a 2-hour walking tour of the War Memorial Opera House – a 1932 Beaux-Arts building designed by Arthur Brown.",
+    "Student Wellbeing": "San Francisco Ballet opens the world of dance to children, teens, families, and adult lifelong learners through programs that inspire imagination and creativity. Our events, programs, and partnerships are designed to connect community members with the art form, artists, and productions by bringing ballet beyond the stage.",
+    "Academic Integration": "The curriculum includes courses in classical ballet, contemporary dance, and choreography, taught by experienced instructors. Emphasis is placed on developing technical proficiency and artistic expression through a structured, progressive training approach.",
+    "Competitive Pathway": "Graduates frequently secure positions with renowned ballet companies like the Paris Opera Ballet and often win prestigious awards at competitions such as the Prix de Lausanne. Many also receive scholarships to top dance conservatories worldwide.",
+    "Ongoing Accountability": "Student progress is meticulously tracked through biannual evaluations and personalized feedback sessions. Parents receive detailed progress reports and are invited to regular meetings to discuss their child's development and achievements."
+  },
+  "URL": "https://sfballet.org/school",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.sfballet.org/app/uploads/2025/09/SCH2022ABC_TC_IMG_3144.jpg",
+    "https://www.sfballet.org/app/uploads/2026/04/ORC2026ANV_LR_V5A5998.jpg",
+    "https://www.sfballet.org/app/uploads/2025/09/EDU2024FWS_MF032-2.jpg",
+    "https://www.sfballet.org/app/uploads/2025/09/SFB2025SPH_KS20_0208_SFBS_05_RGB-2.jpg",
+    "https://www.sfballet.org/app/uploads/2024/01/MMO2024BAK_LR_DSCF0207.jpg",
+    "https://www.sfballet.org/app/uploads/2026/01/EDU17SFW_BD34_E-1.jpg",
+    "https://www.sfballet.org/app/uploads/2025/09/MKT17NUT1221_CH042.jpg",
+    "https://www.sfballet.org/app/uploads/2025/09/MKT17NUT1221_CH042-768x629.jpg",
+    "https://www.sfballet.org/app/uploads/2025/09/EDU19MTA_BP0046-768x629.jpg",
+    "https://www.sfballet.org/app/uploads/2026/02/SYP2022REP_ET24122_CE-768x629.jpg"
+  ]
+}

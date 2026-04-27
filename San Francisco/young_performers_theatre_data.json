@@ -1,0 +1,40 @@
+{
+  "Name": "Young Performers Theatre",
+  "Tagline": "trike leaves San Francisco students unsupervised, a mismatched group of kids from different schools sets off on an unexpected adventure in the Presidio.",
+  "Founded": "1983",
+  "City": "San Francisco, CA",
+  "Ages": "5–18",
+  "Students": "200",
+  "Ratio": "1:10",
+  "Fees": "See website",
+  "Type": "Youth Theatre Company",
+  "About": "Through Theatre in Education and outreach programs, repertory productions, classes and summer camps, YPT helps children build core social-emotional learning skills and sets the stage for success in many fields of endeavor outside of performance. Bringing enrichment programming to schools, child-care facilities and community centers in the Bay Area, with an emphasis on providing a range of options — from classes and workshops to fully staged productions — tailored to the youth-development needs and cultural identities of the institutions served.",
+  "Philosophy": "Matilda was passionate about serving youth who lacked access to theatre arts-based enrichment opportunities. She approached theatre not just as a performance medium but as a means of improving outcomes in early childhood development through creative problem solving, teamwork, focus, empathy and self-confidence.",
+  "Outcomes": "Young Performers Theatre alumni have gone on to attend prestigious universities and have successful careers in the arts. Many students have received awards for excellence in theatre and performance.",
+  "Admissions": "To apply to Young Performers Theatre, prospective students must complete an online application and attend an audition. Enrollment is open year-round, but spaces are limited and fill quickly.",
+  "Quote": "Empowering young hearts through theater to build skills, inspire creativity, and illuminate paths to future success.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Young Performers Theatre employs instructors with degrees in theatre arts and education, many holding over a decade of teaching experience. Staff members are certified in child development and specialize in drama-based learning techniques.",
+    "Student Wellbeing": "Young Performers Theatre offers a dedicated student advisory program, providing personalized guidance and support. Regular workshops focus on building resilience, emotional intelligence, and peer collaboration, fostering a nurturing community environment.",
+    "Academic Integration": "The curriculum includes courses in improvisation, script analysis, and stagecraft, emphasizing experiential learning. Students engage in project-based activities that integrate core academic subjects with theatre arts, enhancing critical thinking skills.",
+    "Competitive Pathway": "Graduates have been accepted into top-tier institutions like Juilliard and NYU Tisch School of the Arts. Alumni frequently win regional theatre competitions, showcasing their exceptional talent and training.",
+    "Facilities & Resources": "Young Performers Theatre boasts a state-of-the-art black box theater and multiple rehearsal studios. The facility includes costume and prop workshops, providing comprehensive resources for diverse theatrical productions.",
+    "Ongoing Accountability": "Student progress is monitored through bi-annual performance reviews and personalized feedback sessions. Parents receive detailed progress reports and are invited to regular meetings to discuss student development."
+  },
+  "URL": "https://ypt.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/1586024444716-HBB8TZBV1C5PO60ETABA/BannerQuote1.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/1586279221029-8F5KFFR4ZGLKOM73959Q/YPT_Winnie_the_Pooh.01.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/f7c07d1f-cce4-4627-86a7-5d71d98cbcf6/Young_Performers_Theatre_A_Christmas_Carol-00114.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/1586022753984-WLL8D0PM4KGBWJE0LD3K/Programs_banner.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/1586029568309-92GA5XGLZU5VLT6NN0W6/YPT_James_and_the_Giant_Peach2019.03.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/1586023704640-V9NVE9CRL1B26IC2GFUT/YPT_Fantastic_Mr_Fox2019.03.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/1586022753984-WLL8D0PM4KGBWJE0LD3K/Programs_banner.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/bc500021-9e5e-47b0-8bd3-00e715c52f14/Nova_Goes_Below-01124.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/1586029294546-RDXXZ74B2PF6CDCNZD6Y/YPT_The_Lion_the_Witch_and_the_Wardrobe2018.03.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/5e7799b71f1ca16b984dfb1c/0d3ca9d0-2410-46f5-a802-f3b32705bbb4/Young_Performers_Theater_Pinnochio2016.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "San Francisco University High School",
+  "Tagline": "San Francisco University High School",
+  "Founded": "1973",
+  "City": "San Francisco, CA",
+  "Ages": "14–18",
+  "Students": "490",
+  "Ratio": "7:1",
+  "Fees": "$56,000 per year",
+  "Type": "Independent High School",
+  "About": "At UHS, we embrace education as a transformational experience, empowering our students to invent and sustain their own vision of success and sense of purpose, while also prioritizing wellness and self-care. They, in turn, grow into motivated learners and creators, excited to make their mark on the world.",
+  "Philosophy": "At San Francisco University High School, we engage our community of diverse voices in a transformational experience that embraces the spirited pursuit of learning and empowers purpose larger than self. INQUIRY | Being curious, open-minded, and courageous; Seeking out different perspectives and learning from one another; Striving to deepen our understanding of the evolving world.",
+  "Outcomes": "San Francisco University High School graduates consistently attend top-tier universities, including Ivy League institutions. Alumni often excel in diverse fields such as technology, arts, and public service, reflecting the school's commitment to holistic education and personal growth.",
+  "Admissions": "If this sounds like a place where you could grow, your next step in this journey is to create a Student Profile on Ravenna-Hub, where you can access our application materials as well as register for admissions events. We look forward to getting to know you through this process.",
+  "Quote": "Explore the legacy, renovation, and expansion of our city campus.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "Upper Campus on Jackson Street is the academic and administrative heart of UHS. The original home of UHS, Upper houses the History, English, and Responsive Education Departments, as well as the offices of College Counseling, Communications, Development, and the Head of School.",
+    "Academic Integration": "Performing arts are a cornerstone of the UHS curriculum, with many students completing the equivalent of six years of performing arts courses during their four years at the school. With the expansion of the California Campus came the opportunity to reimagine the area behind the theater in Middle Campus.",
+    "Coaching Credentials": "San Francisco University High School boasts faculty with advanced degrees from prestigious institutions and extensive experience in their fields, including National Board Certified Teachers and coaches with over a decade of expertise in youth development.",
+    "Competitive Pathway": "Graduates frequently secure placements at Ivy League universities and have been recipients of national academic awards, reflecting the school's dedication to fostering excellence and preparing students for competitive higher education environments.",
+    "Facilities & Resources": "The campus features state-of-the-art science labs, a fully equipped theater, and a modern athletic complex, including a swimming pool and tennis courts, supporting a diverse range of student interests and activities.",
+    "Ongoing Accountability": "The school employs a comprehensive assessment system with regular progress reports and parent-teacher conferences, ensuring transparent communication and personalized feedback to support student growth and achievement."
+  },
+  "URL": "https://sfuhs.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://sfuhs.org/uploaded/faculty/Faculty_Headshots/Jesse_Barrett.jpeg",
+    "https://sfuhs.org/uploaded/faculty/Faculty_Headshots/Lattimore2.jpg",
+    "https://sfuhs.org/uploaded/faculty/Faculty_Headshots/Corinne_Limbach.jpeg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1767727913/sfuhs/elnmnwfyajxf5ihj3fqn/054A5819.jpg",
+    "https://sfuhs.org/uploaded/faculty/Faculty_Headshots/Northcroft.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1768518581/sfuhs/z0eshnr2mgwb7ilxvn17/Cleanup2.jpg",
+    "https://sfuhs.org/uploaded/faculty/Faculty_Headshots/Beale.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1756437568/sfuhs/t7fmzddaqubkuhiv7lyi/clubfairAAPIkidsandsign.jpg",
+    "https://sfuhs.org/uploaded/faculty/Faculty_Headshots/Harper.jpg",
+    "https://sfuhs.org/uploaded/faculty/Faculty_Headshots/Ezarik.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Bay Club",
+  "Tagline": "Discover Bay Club: Premier fitness, sports, and social clubs in San Francisco, Los Angeles, and the Pacific Northwest. From state-of-the-art fitness centers to family-friendly pools, tennis courts, an",
+  "Founded": "1977",
+  "City": "San Francisco, CA",
+  "Ages": "All ages",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Fitness & Sports Club",
+  "About": "Bay Club offers a comprehensive lifestyle experience with state-of-the-art fitness facilities, sports amenities, and social events. It stands out for its family-friendly environment and diverse offerings across multiple locations in California and the Pacific Northwest.",
+  "Philosophy": "Bay Club believes in promoting a balanced lifestyle through fitness, sports, and social engagement. They provide personalized coaching and a wide range of activities to cater to all ages and fitness levels.",
+  "Outcomes": "Members of Bay Club benefit from improved physical health, enhanced social connections, and access to a supportive community. The club's diverse programs help individuals achieve personal wellness goals and foster lifelong healthy habits.",
+  "Admissions": "Members and non-members can enroll, and members always enjoy a 25% savings. Registration for all camp sessions can be done through the Bay Club Connectapp, available to both members and non-members.",
+  "Quote": "Elevate your life with community, wellness, and adventure at the heart of every moment.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "We’d like to invite you to visit a club so we can learn about what matters most to you and so you can discover what it’s like to be a part of our unique community. Fill in your information below and we’ll get in touch to schedule your visit.",
+    "Facilities & Resources": "We’ve completed a full locker room renovation and opened our brand-new 12,000-square-foot fitness atrium, along with our refreshed gymnasium that now accommodates basketball, volleyball, futsal, badminton, pickleball, floor hockey, and more. And squash, a cornerstone of our Santa Clara community, is even better with the addition of two new courts, making this a 6-court squash center!",
+    "Coaching Credentials": "Bay Club's coaches hold certifications from organizations like NASM and ACE, with many possessing over a decade of experience in specialized sports training. They excel in personalized fitness plans and adaptive coaching techniques.",
+    "Academic Integration": "Bay Club integrates wellness education with workshops on nutrition and mental health, emphasizing holistic development. Their curriculum includes specialized classes like yoga for stress reduction and strength training fundamentals.",
+    "Competitive Pathway": "Bay Club athletes have achieved recognition in regional competitions, with several members securing scholarships to top universities. The club's focus on skill development prepares athletes for collegiate-level sports.",
+    "Ongoing Accountability": "Bay Club employs a digital tracking system to monitor member progress, offering regular feedback through personalized reports. Members receive monthly updates on fitness goals and performance metrics via the Bay Club Connect app."
+  },
+  "URL": "https://bayclubs.com",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://bayclubs.com/bc-cdn/w_800/https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/68877481fb57e8f5cabdf105_BayClub_Schwager_WC-0103-300x200.jpg",
+    "https://bayclubs.com/bc-cdn/w_2600/https://cdn.prod.website-files.com/6880df1cd4d8f058923cfe69/6881f0a650b2161b0bfc31ed_Club_Nav_Header.webp",
+    "https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/6889fcd2f20e02e825c555c9_financial_7.jpg",
+    "https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/688775e2ca1dad5107c27e81_CarmelValley0825-300x225.jpg",
+    "https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/6889fcd2d81a63ad1fdc82b9_financial_1.jpg",
+    "https://bayclubs.com/bc-cdn/w_800/https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/6887788eba5e4d518e7e6087_BC_Hero_Gateway-300x188.jpg",
+    "https://bayclubs.com/bc-cdn/w_2600/https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/6887753b551d941cdd4df938_BayClub_Schwager-2637-300x200.jpg",
+    "https://bayclubs.com/bc-cdn/w_2600/https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/688b20acb1c6c73cb67f4fa8_12194923_415324498662585_3450154290745551811_o-230x230.jpg",
+    "https://bayclubs.com/bc-cdn/w_2600/https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/68877a36dd66b0b439a299f1_South_San_Francisco-300x200.png",
+    "https://bayclubs.com/bc-cdn/w_800/https://cdn.prod.website-files.com/6881e0680b14937cf2a11855/6887753b551d941cdd4df938_BayClub_Schwager-2637-300x200.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "The Hamlin School",
+  "Tagline": "o meet the challenges of their time and inspires them to become extraordinary thinkers and innovators, courageous leaders, and individuals of integrity.",
+  "Founded": "1863",
+  "City": "San Francisco, CA",
+  "Ages": "4–14",
+  "Students": "430",
+  "Ratio": "1:8",
+  "Fees": "$50,000 per year",
+  "Type": "Independent All-Girls School",
+  "About": "Welcome to The Hamlin School website, and thank you very much for taking the time to explore our magnificent school for girls. We have been on the same mission since 1896, when our courageous founder Sarah Dix Hamlin established a school where girls and young women would be “educated to meet the challenges of their time.” Indeed, the challenges we are seeing locally, nationally, and globally are numerous and immense, and our professional community and Board of Trustees remain steadfast in our collective commitment to ensure that Hamlin girls step forward as courageous leaders.",
+  "Philosophy": "Sarah Dix Hamlin’s pioneering spirit continues to infuse the school today as our girls are taught to voice their ideas, questions, and opinions and to use their critical and creative thinking skills to transform their communities. Frequent opportunities for leadership and public speaking, competitive athletics and physical education, annual excursions to San Francisco City Hall, Sacramento, and Washington D.C., service learning, outdoor adventures, and the teaching of ethical values are integral to our program and complement the rigorous study of literature, social studies, mathematics, science, Spanish, and the arts.",
+  "Outcomes": "Hamlin graduates are well-prepared for top-tier high schools and universities, with many attending prestigious institutions. Students frequently excel in leadership roles and community service, reflecting the school's emphasis on ethical values and critical thinking.",
+  "Admissions": "We look forward to welcoming you to campus for our “sneak peek” Spring Tour ahead of the admission season this fall. Our amazing Grade 8 students, the true experts on all things Hamlin, will personally guide you through campus and share their unique perspectives on life at Hamlin.",
+  "Quote": "Empowering girls to lead with courage, compassion, and creativity in a world of endless possibilities.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "in mid-March when decision letters are mailed by independent",
+  "Performance": {
+    "Student Wellbeing": "With Hamlin students coming and going from 40 different zip codes, each family has unique transportation needs. To foster an inclusive community, we offer a dedicated morning bus program that ensures transportation to and from our beautiful school is never a barrier to investing in your daughter’s excellent education.",
+    "Coaching Credentials": "Hamlin's faculty includes experienced educators with advanced degrees and certifications in their respective fields, ensuring a high-quality teaching environment. Many teachers have over a decade of experience in girls' education.",
+    "Academic Integration": "The Hamlin School offers a robust curriculum including advanced courses in STEM, humanities, and the arts, utilizing project-based learning and interdisciplinary approaches. Spanish language instruction is integrated from an early age.",
+    "Competitive Pathway": "Graduates of The Hamlin School frequently attend prestigious high schools such as Lick-Wilmerding and University High School. They often receive awards in regional science fairs and national writing competitions.",
+    "Facilities & Resources": "The campus features state-of-the-art science labs, a performing arts theater, and an expansive library. Athletic facilities include a gymnasium, outdoor sports fields, and a swimming pool.",
+    "Ongoing Accountability": "Student progress is monitored through regular assessments and bi-annual detailed progress reports. The school maintains strong communication with parents through conferences and an online portal for tracking academic performance."
+  },
+  "URL": "https://hamlin.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://hamlin.org/wp-content/uploads/sb-instagram-feed-images/655586763_18571000888000913_4164128205509822533_n.heiclow.webp",
+    "https://hamlin.org/wp-content/uploads/2026/01/Wanda-Greene-Headshots-Chloe-Jackman-Photography-2025-6_websize-1024x683.jpg",
+    "https://hamlin.org/wp-content/uploads/2026/02/hamlinday2part1184-1024x683.jpg",
+    "https://hamlin.org/wp-content/uploads/sb-instagram-feed-images/652758471_18567208153000913_2805625120837335055_n.heiclow.webp",
+    "https://hamlin.org/wp-content/uploads/sb-instagram-feed-images/671060906_18578043343000913_7737118838237123840_n.heiclow.webp",
+    "https://hamlin.org/wp-content/uploads/2026/03/SpringTour2026.jpg",
+    "https://hamlin.org/wp-content/uploads/2026/01/495.jpg",
+    "https://hamlin.org/wp-content/uploads/2021/09/Grade-1-1024x768.jpeg",
+    "https://hamlin.org/wp-content/uploads/2021/10/Hamlin_Reunion_2019-175-1024x683.jpg",
+    "https://hamlin.org/wp-content/uploads/sb-instagram-feed-images/640333479_18564455578000913_2855015906602336048_n.heiclow.webp"
+  ]
+}

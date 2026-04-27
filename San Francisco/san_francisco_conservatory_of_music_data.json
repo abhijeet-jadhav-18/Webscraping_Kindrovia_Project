@@ -1,0 +1,40 @@
+{
+  "Name": "San Francisco Conservatory of Music",
+  "Tagline": "Music is one of the most formative and impactful avenues to advance the human experience. SFCM's pioneering curriculum draws on the bold, innovative creativity of San Francisco to provide unparalleled",
+  "Founded": "1917",
+  "City": "San Francisco, CA",
+  "Ages": "18–30",
+  "Students": "400",
+  "Ratio": "1:6",
+  "Fees": "$50,000",
+  "Type": "Music Conservatory",
+  "About": "Additional merchandise can be purchased at the AGC Box Office, open 10 AM - 5 PM Monday-Friday. Reference this flyer for available items and prices!",
+  "Philosophy": "A versatile, hands-on program to compose, design, and engineer. Our performance programs give you ample room to challenge yourself and experience playing different styles of music in a variety of settings and groups.",
+  "Outcomes": "Research shows music-making is an essential part of a child’s growth. It shapes minds, develops brains, unites communities, and brings joy.",
+  "Admissions": "At SFCM, we are lifelong leaders and learners. As a professional music school, we are committed to providing an extraordinary education that prepares you to pursue fully engaged lives as citizens of the world.",
+  "Quote": "Cutting-edge acoustics, breathtaking performance halls, and state-of-the art technology help our students create the future of music.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "A dramatic performance hall created in a renovated historic grand ballroom showcases the Conservatory’s orchestra. Internationally renowned visiting artists also perform and present master classes in this hall, which accommodates an audience of 348.",
+    "Student Wellbeing": "A stunning outdoor space atop the building serves as one of the prime gathering spaces for the Conservatory community.",
+    "Facilities & Resources": "The Conservatory’s Civic Center campus consists of the Ann Getty Center for Education, opened in 2006 at 50 Oak Street, and the Ute and William K. Center for Performing Arts, opened partially in 2020 at 200 Van Ness Avenue.",
+    "Academic Integration": "While SFCM offers a focused curriculum that prepares students for a life in music, general studies in history, literature, mathematics, and other disciplines are essential to a fully transformative education. SFCM graduates are entrepreneurial, culturally informed, and articulate.",
+    "Competitive Pathway": "Graduates of the San Francisco Conservatory of Music have been accepted into prestigious programs at institutions like Juilliard and Yale. Alumni frequently win top prizes at international competitions such as the Tchaikovsky Competition and the Van Cliburn International Piano Competition.",
+    "Ongoing Accountability": "The San Francisco Conservatory of Music employs a robust assessment system, providing regular progress reports and performance evaluations. Faculty engage in continuous communication with students to ensure tailored feedback and support throughout their educational journey."
+  },
+  "URL": "https://sfcm.edu",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://sfcm.edu/sites/default/files/styles/original_mobile/public/2023-06/2-1-study-lp-only.png.webp?itok=EeVRoXTG",
+    "https://sfcm.edu/sites/default/files/styles/slidehsh/public/2025-05/taylor-joshua-rankin.jpg.webp?itok=Vz-ACco9",
+    "https://sfcm.edu/sites/default/files/2023-11/wonhee-bae-headshot.jpg",
+    "https://sfcm.edu/sites/default/files/styles/square/public/backgrounds/faculty/Degrees%20and%20Programs%20-%20Ensembles%20-%20Opera%20and%20Musical%20Theatre%20-%20Faculty%20Background%20-%20fr.jpeg.webp?itok=Fr_I5OvJ",
+    "https://sfcm.edu/sites/default/files/styles/related/public/hero_images/Virtual_Collateral_Hero.jpg.webp?itok=fjCnzOEK",
+    "https://sfcm.edu/sites/default/files/styles/slidehsh/public/2025-09/2090001807806391801.jpeg.webp?itok=Zu7fQvfD",
+    "https://sfcm.edu/sites/default/files/styles/slidehsh/public/2023-03/16-9-bowes-center-exterior_0.jpg.webp?itok=jXxXG3je",
+    "https://sfcm.edu/sites/default/files/styles/square/public/2023-03/1-1-edwin-conducting.jpg.webp?itok=qeArcxsn",
+    "https://sfcm.edu/sites/default/files/yo_yo_ma_headshot.jpg",
+    "https://sfcm.edu/sites/default/files/styles/related/public/2024-08/carlin-ma-5538.jpeg.webp?h=d7c58536&itok=JO6U_zrY"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Town School for Boys",
+  "Tagline": "Town School for Boys, located in San Francisco, California, is an independent day school for boys from kindergarten through the eighth grade.",
+  "Founded": "1939",
+  "City": "San Francisco, CA",
+  "Ages": "5–14",
+  "Students": "400",
+  "Ratio": "1:6",
+  "Fees": "$45,000 per year",
+  "Type": "Independent All-Boys School",
+  "About": "Town School for Boys is anchored in more than 80 years of educational excellence, and our daily morning greetings are a longstanding and beloved tradition. Grounding our days from a place of connection enables faculty and students alike to bring our best selves each day.",
+  "Philosophy": "At Town School, learning is prized, love of school is essential and boyhood is celebrated. Town graduates approach the world with deep curiosity.",
+  "Outcomes": "Town School for Boys graduates are well-prepared for top high schools in the Bay Area and beyond. Alumni often excel in academics, athletics, and leadership roles, reflecting the school's commitment to holistic development.",
+  "Admissions": "Prospective families can apply online through the school's website, with applications typically due in early winter. The admissions process includes a campus tour, student assessment, and family interview to ensure a good fit.",
+  "Quote": "At Town School, learning is prized, love of school is essential and boyhood is celebrated.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "Since opening its doors in 2018, Town’s Dolby Family Center for the Performing Arts has become a central hub on campus for arts, education, community gatherings, sports, and more. With professional-level sound and lights and a dynamic ability to shift from a seated auditorium for 400 people to a basketball court or mixed-use space within three hours, the Dolby brings our campus to life in new ways each year.",
+    "Academic Integration": "Town’s Engineering Thinking Program empowers K-8 students to think like engineers, combining hands-on projects, cross-subject learning, and creative problem-solving to prepare them for real-world challenges.",
+    "Facilities & Resources": "In 2023, Town opened the doors of the Engineering Studio, providing a new and purpose-built space for our pioneering Engineering Thinking Program. Led by a dedicated Engineering Program Lead, the program is intentionally woven into the K-8 curriculum across subjects, with the goal of graduating students who are able to apply the mindset and skillset of professional engineers to any academic, professional, or personal path they might take.",
+    "Coaching Credentials": "Complementing this work, our Parents’ Association’s Community Impact Committee facilitates additional service opportunities for students and their families as well as faculty and staff.",
+    "Competitive Pathway": "Town School for Boys graduates are frequently admitted to prestigious high schools such as Lick-Wilmerding, University High School, and St. Ignatius College Preparatory. Alumni have also achieved accolades in regional science fairs and state-level athletic competitions.",
+    "Ongoing Accountability": "The school utilizes a comprehensive assessment system, providing detailed progress reports to parents three times a year. Regular parent-teacher conferences ensure transparent communication about each student's academic and social development."
+  },
+  "URL": "https://townschool.com",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://townschool.com/Images/1px.jpg?command_1=url&url_1=%2Fuserfiles%2Ftownschoolmvc%2F00-homepage%2Fcards%2Fhp9.jpeg&command_2=resize&width_2=760&webp=true",
+    "https://www.townschool.com/userfiles/townschoolmvc/01-about-town/school-leadership-header.jpg?command_1=resize&width_1=400",
+    "https://townschool.com/Images/1px.jpg?command_1=url&url_1=https%3A%2F%2Fscontent-ams2-1.cdninstagram.com%2Fv%2Ft51.82787-15%2F662031230_18575223094010708_8285399980545350358_n.jpg%3Fstp%3Ddst-jpg_e35_tt6%26_nc_cat%3D104%26ccb%3D7-5%26_nc_sid%3D18de74%26efg%3DeyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9%26_nc_ohc%3D5JjcnIrw2kgQ7kNvwGUGWoN%26_nc_oc%3DAdo4tgrUZFq26Yr7ffbu5KK7GgroZTustNDWk_cQKKDep_TK6BNrtZBGUMPCPeIVYnjgBEHL_OvUb2WI1yv9qDSu%26_nc_zt%3D23%26_nc_ht%3Dscontent-ams2-1.cdninstagram.com%26edm%3DANo9K5cEAAAA%26_nc_gid%3DV_N_5SnClnfc3G_m_vjQ1A%26_nc_tpa%3DQ5bMBQHFsfwjfU-7my4kZfW7ieMjEBUjhA469jGM2Lqv2Z7K8MWeq6hdAFJF-g_AOvAyRESqO0eL5wJKZQ%26oh%3D00_Af2cu0p5_yfOVZV3ReaDDYojJUfcXq-UIhqkaIo6NX6j8Q%26oe%3D69F484D3&command_2=resize&width_2=380&command_3=default&default_3=/Images/default-thumbs/instagram.jpg&webp=true",
+    "https://townschool.com/Images/1px.jpg?command_1=url&url_1=%2Fuserfiles%2Ftownschoolmvc%2F01-about-town%2Ftwo-outdoor-rooftop.JPG&command_2=resize&width_2=700&command_3=default&default_3=/Images/default-thumbs/default-general.jpg&webp=true",
+    "https://townschool.com/userfiles/townschoolmvc/02-academics/carousel-engineering-body/2.jpeg",
+    "https://www.townschool.com/userfiles/townschoolmvc/02-academics/learning-services-header-new.jpg?command_1=resize&width_1=400",
+    "https://townschool.com/userfiles/townschoolmvc/01-about-town/carousel-dolby-photo-our-campus/0425.jpg",
+    "https://townschool.com/userfiles/townschoolmvc/00-homepage/boyhood-is-celebrated-homepage-0-1.jpg",
+    "https://townschool.com/userfiles/townschoolmvc/01-about-town/boy-why-a-boys-1/Why-A-Boys-School-Leaders.jpeg",
+    "https://www.townschool.com/userfiles/townschoolmvc/01-about-town/extra-photos/our-campus-header.jpg?command_1=resize&width_1=400"
+  ]
+}

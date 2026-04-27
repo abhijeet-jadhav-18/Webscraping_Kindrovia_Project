@@ -1,0 +1,265 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://curator-assets.b-cdn.net/886fded1-00ac-4253-80f0-0a0a319ec415/370948273_user_image.jpg?width=100" alt="Ransom Everglades School" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html">Elite</a> &#8250; <a href="elite-city-coconut-grove-fl.html">Coconut Grove</a> &#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>Ransom Everglades School</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Located in Coconut Grove, Florida, Ransom Everglades School is the best college prep day school for grades 6-12 in Miami and among the top 10 private schools in North America.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>11–18</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1200</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>8:1</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1903</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%">
+<!-- wp:heading --><h2 class="wp-block-heading">About <em>Ransom Everglades School</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Ransom Everglades School, founded in 1903, is a prestigious independent day school in Coconut Grove, Florida, dedicated to fostering intellectual curiosity and leadership in students aged 11–18. Its rigorous academic program and emphasis on community service distinguish it as a top college preparatory institution.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Institution Details</h5><!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Type</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">City</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Independent Day School</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">11–18</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1200</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">8:1</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1903</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Coconut Grove, FL</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Tuition: $57,300</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Contact &amp; Enquiry</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading"><a href="https://ransomeverglades.org" target="_blank" rel="noreferrer noopener">ransomeverglades.org &#8594;</a></h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quote</h5>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Cultivate curiosity, embrace diversity, and empower each other to lead with integrity and compassion.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Ransom Everglades School</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Philosophy</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">How they <em>teach</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Ransom Everglades School emphasizes experiential learning and critical thinking, encouraging students to engage deeply with their studies and the world around them. The school fosters a collaborative environment where students are challenged to innovate and lead.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Outcomes</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Where students <em>go</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Graduates of Ransom Everglades School consistently gain admission to top-tier universities, including Ivy League institutions. The school boasts numerous accolades in academic competitions, arts, and athletics, reflecting its commitment to excellence and holistic development.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/748/news/large_news1417125_1430591.jpg" alt="Ransom Everglades School campus"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://curator-assets.b-cdn.net/fa75b272-a581-4386-b0ca-3ac2d4d83a0d/384325533_user_image.jpg?width=100" alt="Ransom Everglades School students"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/748/news/large_news1418981_1432197.jpg" alt="Ransom Everglades School activities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/748/link/large_link6971961_180858.jpg" alt="Ransom Everglades School facilities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://bbk12e1-cdn.myschoolcdn.com/748/photo/orig_photo1508155_8711455.jpg" alt="Ransom Everglades School community"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How Ransom Everglades School performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Expert Staff</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Coaching Credentials</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Ransom Everglades School's faculty includes experts with advanced degrees and certifications in their fields, ensuring high-level instruction. Many teachers have extensive experience in innovative teaching methods and subject-specific specializations.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Student Care</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Student Wellbeing</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The school offers a comprehensive advisory program and on-campus counseling services to support student wellbeing. Regular community-building activities foster a supportive and inclusive environment for all students.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Curriculum</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Academic Integration</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The curriculum includes Advanced Placement courses and interdisciplinary projects that promote critical thinking. Experiential learning opportunities, such as field studies and research projects, are integral to the academic experience.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Achievements</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Competitive Pathway</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Graduates frequently matriculate to prestigious universities such as Harvard, Yale, and Stanford. The school has a strong record in national academic competitions, reflecting its commitment to excellence.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Facilities</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Facilities &amp; Resources</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The campus boasts state-of-the-art science labs, a modern performing arts center, and athletic facilities including a pool and multiple sports fields. These resources support a wide range of student activities and programs.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Progress</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Ongoing Accountability</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Ransom Everglades School employs a robust assessment system with regular progress reports and parent-teacher conferences. Continuous feedback mechanisms ensure students receive personalized guidance to achieve their academic goals.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading --><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Prospective students can apply to Ransom Everglades School through an online application process, typically starting in the fall. Requirements include academic records, teacher recommendations, and standardized test scores, with interviews and campus visits encouraged to ensure a good fit.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Enquiries Open</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Year-round</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Application Deadline</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Rolling admissions</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Tuition: $57,300</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Location</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Coconut Grove, FL</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Website</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p><a href="https://ransomeverglades.org" target="_blank" rel="noreferrer noopener">ransomeverglades.org</a></p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Cultivate curiosity, embrace diversity, and empower each other to lead with integrity and compassion.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Ransom Everglades School</h5>
+<!-- /wp:heading -->

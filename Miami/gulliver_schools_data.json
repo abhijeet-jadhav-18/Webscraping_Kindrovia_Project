@@ -1,0 +1,40 @@
+{
+  "Name": "Gulliver Schools",
+  "Tagline": "Gulliver Prep in Miami, Florida is an co-educational, private day school with innovative education for students in grades PK-12.",
+  "Founded": "1926",
+  "City": "Pinecrest, FL",
+  "Ages": "4–18",
+  "Students": "2200",
+  "Ratio": "1:10",
+  "Fees": "$35,000–$50,000 per year",
+  "Type": "Independent K-12 School",
+  "About": "At Gulliver, success is equal parts what you achieve and who you become. With future-ready learning, personal discovery, and the energy of Miami all around them, students forge their own path — and shape what comes next.",
+  "Philosophy": "Gulliver Schools emphasizes a student-centered approach, fostering critical thinking and creativity. The curriculum integrates technology and real-world experiences to prepare students for future challenges.",
+  "Outcomes": "Gulliver Schools boasts a high rate of college acceptance, with graduates attending prestigious universities worldwide. Students regularly achieve top honors in academic and athletic competitions, reflecting the school's commitment to excellence.",
+  "Admissions": "Prospective families can apply online through the Gulliver Schools website. The admissions process includes submitting transcripts, recommendations, and standardized test scores, with applications typically due in early winter for the following academic year.",
+  "Quote": "Empowered by discovery and the spirit of Miami, students at Gulliver shape their own future success.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "At Gulliver, academic excellence is both rigorous and relevant. Students engage in advanced coursework, signature programs, and hands-on learning designed to deepen understanding and expand possibility.",
+    "Coaching Credentials": "Gulliver Schools employs highly qualified educators, many holding advanced degrees and certifications in their fields, with expertise in STEM, arts, and humanities. Coaches are often former collegiate athletes with specialized training certifications.",
+    "Student Wellbeing": "Gulliver Schools offers comprehensive counseling services and a robust advisory program to support student mental health and personal growth. Peer mentorship and community-building activities foster a nurturing and inclusive environment.",
+    "Competitive Pathway": "Graduates of Gulliver Schools are frequently accepted into top-tier universities such as Harvard, Stanford, and MIT. Students excel in national academic competitions, including Science Olympiad and MathCounts, showcasing their academic prowess.",
+    "Facilities & Resources": "The Gulliver Schools campus features state-of-the-art science labs, a professional-grade theater, and Olympic-sized swimming pools. Athletic facilities include multiple sports fields, tennis courts, and a fully equipped fitness center.",
+    "Ongoing Accountability": "Gulliver Schools utilizes a comprehensive digital platform for tracking student progress, providing regular updates and feedback to parents. Detailed progress reports and parent-teacher conferences ensure continuous communication and assessment."
+  },
+  "URL": "https://gulliverschools.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.gulliverprep.org/wp-content/uploads/DSC_3745-560x313.jpg",
+    "https://www.gulliverprep.org/wp-content/uploads/graduates-confetti_cropped.jpg",
+    "https://www.gulliverprep.org/wp-content/uploads/yale-e1633619716769.png",
+    "https://www.gulliverprep.org/wp-content/uploads/Dias-Library-rededication-560x313.jpg",
+    "https://www.gulliverprep.org/wp-content/uploads/image-1-560x313.jpeg",
+    "https://www.gulliverprep.org/wp-content/uploads/Facetune_11-06-2024-11-53-09-560x313.jpeg",
+    "https://www.gulliverprep.org/wp-content/uploads/bw-560x313.png",
+    "https://www.gulliverprep.org/wp-content/uploads/Hu-family-photo-1-560x313.jpg",
+    "https://www.gulliverprep.org/wp-content/uploads/DSC08521-1-scaled-560x313.jpg",
+    "https://www.gulliverprep.org/wp-content/uploads/uchicago.png"
+  ]
+}

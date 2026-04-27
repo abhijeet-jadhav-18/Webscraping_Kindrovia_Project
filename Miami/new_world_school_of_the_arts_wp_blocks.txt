@@ -1,0 +1,265 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://nwsa.mdc.edu/img/ic_search_48px.png" alt="New World School of the Arts" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html">Elite</a> &#8250; <a href="elite-city-miami-fl.html">Miami</a> &#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>New World School of the Arts</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DANCE MUSIC THEATER VISUAL ARTS New World School of the Arts promotional video playing in the background.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>14–22</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>500</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1:15</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1984</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%">
+<!-- wp:heading --><h2 class="wp-block-heading">About <em>New World School of the Arts</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>New World School of the Arts is Florida's premier center of excellence in the visual and performing arts. As a conservatory, NWSA develops talented students in the areas of dance, music, theatre and visual arts from the ninth grade in high school through a Bachelor of Fine Arts or Bachelor of Music college degrees.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Institution Details</h5><!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Type</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">City</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Performing & Visual Arts School</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">14–22</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">500</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1:15</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1984</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Miami, FL</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">See website</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Contact &amp; Enquiry</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading"><a href="https://nwsa.mdc.edu/" target="_blank" rel="noreferrer noopener">nwsa.mdc.edu &#8594;</a></h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quote</h5>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Nurturing creativity and excellence, we empower artists to transform the world through the beauty of their craft.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— New World School of the Arts</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Philosophy</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">How they <em>teach</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>New World School of the Arts is located at Miami Dade College Wolfson Campus. Miami Dade College is an equal access/equal opportunity institution which does not discriminate on the basis of sex, race, color, marital status, age, religion, national origin, disability, veteran’s status, ethnicity, pregnancy, sexual orientation or genetic information.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Outcomes</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Where students <em>go</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>A Florida center of excellence in the visual and performing arts, New World School of the Arts opened its doors to the first college class in 1987. Created by the Florida Legislature as a center of excellence in the performing and visual arts, NWSA is an educational partnership of Miami-Dade County Public Schools, Miami Dade College, and the University of Florida.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://nwsa.mdc.edu/img/socialmedia/news.png" alt="New World School of the Arts campus"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://nwsa.mdc.edu/img/high-school/apply_9646.jpg" alt="New World School of the Arts students"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://www.juicer.io/api/posts/506330349/poster_images.jpg?external_id=DWHajigFef-&s=f08c78dc031cf3d7ebf2992ce3ac551397a372a2" alt="New World School of the Arts activities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://www.juicer.io/api/posts/505058984/poster_images.jpg?external_id=DUlbsnDERX0&s=de8aa80cd18465f0a58938e7654e3b09dc9f26c3" alt="New World School of the Arts facilities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://www.juicer.io/api/posts/505957560/poster_images.jpg?external_id=DVq0pTVFY9R&s=fbcab9de81c35d02061824aabfa720a11560f4c3" alt="New World School of the Arts community"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How New World School of the Arts performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Expert Staff</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Coaching Credentials</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Aspiring artists in the Visual Arts Division have the opportunity to join other exceptionally talented students as they engage in the pursuit of their artistic career in the visual, graphic or digital arts. Mentored by nationally renowned practicing artists, students at NWSA are encouraged to develop a personal, artistic and aesthetic vision while mastering their technical skills in traditional and new media.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Student Care</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Student Wellbeing</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>New World School of the Arts offers a comprehensive counseling program that includes mental health services and academic advising. Peer support groups and workshops foster a strong sense of community and emotional resilience.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Curriculum</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Academic Integration</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The curriculum at New World School of the Arts includes specialized courses in dance, music, theatre, and visual arts, integrating both theory and practice. Students pursue rigorous training alongside academic studies, leading to a Bachelor of Fine Arts or Bachelor of Music degree.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Achievements</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Competitive Pathway</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>New World School of the Arts visual arts alumni keep close ties with the school and the students at many levels. They are loyal guests at New World Gallery exhibitions, return to the classroom as lecturers and often donate their work to New World School of the Arts to help with fundraising initiatives.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Facilities</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Facilities &amp; Resources</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>New World School of the Arts is an accredited institutional member of the National Association of Schools of Dance, Music, Theatre, and Art & Design.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Progress</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Ongoing Accountability</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Student progress is monitored through regular assessments and personalized feedback sessions, ensuring continuous improvement. Parents receive detailed progress reports and are invited to participate in bi-annual parent-teacher conferences.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading --><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Choose your degree level and learn more about admissions criteria, required application documents, and the audition, portfolio review, and interview process. If you're interested in a campus tour for the high school or college before you apply, please visit our Tours page for additional details.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Enquiries Open</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Year-round</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Application Deadline</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Rolling admissions</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>See website</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Location</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami, FL</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Website</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p><a href="https://nwsa.mdc.edu/" target="_blank" rel="noreferrer noopener">nwsa.mdc.edu</a></p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Nurturing creativity and excellence, we empower artists to transform the world through the beauty of their craft.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— New World School of the Arts</h5>
+<!-- /wp:heading -->

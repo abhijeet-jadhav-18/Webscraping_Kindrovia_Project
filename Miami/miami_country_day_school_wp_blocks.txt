@@ -1,0 +1,265 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://bbk12e1-cdn.myschoolcdn.com/793/poster/10204892/2/custom_thumb_10204892_1597905550.87638.jpg" alt="Miami Country Day School" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html">Elite</a> &#8250; <a href="elite-city-miami-fl.html">Miami</a> &#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>Miami Country Day School</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Miami Country Day School is one of the best private schools for grades Pre-K to 12 in Miami, FL. Join our learning community!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>4–18</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1380</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1:8</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1938</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%">
+<!-- wp:heading --><h2 class="wp-block-heading">About <em>Miami Country Day School</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>These individuals are not counted for purposes of a quorum and not entitled to vote, including the President and President Alumni Board. Our trustees that have left a legacy behind for what they have given to the school are acknowledged for their role Our trustees that have left a legacy behind for what they have given to the school are acknowledged for their role when they are no longer with us.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Institution Details</h5><!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Type</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">City</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Independent K-12 School</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">4–18</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1380</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1:8</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1938</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Miami, FL</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">$35,000/year</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Contact &amp; Enquiry</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading"><a href="https://miamicountryday.org" target="_blank" rel="noreferrer noopener">miamicountryday.org &#8594;</a></h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quote</h5>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;James Bergman “Miami Country Cay School has been the foundation of our family’s life since moving to Miami. Our friends have become family and the school continues to exceed our expectations.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Miami Country Day School</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Philosophy</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">How they <em>teach</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami Country Day School emphasizes a holistic approach to education, nurturing intellectual, emotional, and social growth. The school fosters a diverse and inclusive environment, encouraging students to become compassionate leaders and lifelong learners.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Outcomes</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Where students <em>go</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Graduates of Miami Country Day School are accepted into prestigious universities such as Harvard, Stanford, and the University of Miami. The school boasts numerous awards in academics, arts, and athletics, reflecting its commitment to excellence.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/793/list/large_list210185_52507.jpg" alt="Miami Country Day School campus"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://bbk12e1-cdn.myschoolcdn.com/793/photo/orig_photo1228111_11808686.jpg" alt="Miami Country Day School students"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://miamicountryday.org/ftpimages/793/link/large_link2491108_134827.jpg" alt="Miami Country Day School activities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://bbk12e1-cdn.myschoolcdn.com/ftpimages/793/list/large_list210183_52505.png" alt="Miami Country Day School facilities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://bbk12e1-cdn.myschoolcdn.com/793/photo/orig_photo1229080_11285054.jpeg" alt="Miami Country Day School community"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How Miami Country Day School performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Expert Staff</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Coaching Credentials</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami Country Day School employs educators with advanced degrees and certifications, including National Board Certification and subject-specific endorsements. Teachers specialize in areas such as STEM, humanities, and arts, ensuring a well-rounded educational experience.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Student Care</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Student Wellbeing</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The school offers a comprehensive counseling program with licensed professionals, focusing on emotional and academic support. Peer mentoring and advisory groups foster a strong sense of community and personal growth among students.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Curriculum</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Academic Integration</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The curriculum includes Advanced Placement courses and an International Baccalaureate program, promoting critical thinking and global awareness. Project-based learning and interdisciplinary studies enhance student engagement and real-world application of knowledge.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Achievements</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Competitive Pathway</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Our dedicated College Counseling Office helps students with the increasingly complex and competitive college admission process. We facilitates their matriculation to a college that matches their interests and skillsets.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Facilities</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Facilities &amp; Resources</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The campus features state-of-the-art science labs, a performing arts center, and a fully equipped athletic complex. Students benefit from a digital media lab and a library with extensive resources for research and study.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Progress</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Ongoing Accountability</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Regular progress reports and parent-teacher conferences ensure transparent communication about student achievements. The school utilizes digital platforms for real-time updates on assignments, grades, and attendance, fostering continuous engagement.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading --><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>To apply to Miami Country Day School, complete the online application and submit required documents, including transcripts and recommendations. The admissions process is rolling, but early applications are encouraged for priority consideration.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Enquiries Open</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Year-round</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Application Deadline</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Rolling admissions</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>$35,000/year</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Location</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami, FL</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Website</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p><a href="https://miamicountryday.org" target="_blank" rel="noreferrer noopener">miamicountryday.org</a></p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;James Bergman “Miami Country Cay School has been the foundation of our family’s life since moving to Miami. Our friends have become family and the school continues to exceed our expectations.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Miami Country Day School</h5>
+<!-- /wp:heading -->

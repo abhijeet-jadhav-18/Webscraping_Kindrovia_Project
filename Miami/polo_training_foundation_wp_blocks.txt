@@ -1,0 +1,265 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://i0.wp.com/polotraining.org/wp-content/uploads/2024/11/IMG_5580.jpg?resize=750%2C477&ssl=1" alt="Polo Training Foundation" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html">Elite</a> &#8250; <a href="elite-city-wellington-fl.html">Wellington</a> &#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>Polo Training Foundation</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Since 1967, teaching youth confidence, discipline, hard work, & leadership through the sport of polo. Donate What We Do PTF Academic ScholarshipsEstablished in 2010 the scholarship program provides co</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>8–18</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>N/A</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>N/A</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1967</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%">
+<!-- wp:heading --><h2 class="wp-block-heading">About <em>Polo Training Foundation</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The need to create an equal opportunity base for polo in America led to the development of The Polo Training Foundation. It was officially launched on January 20, 1967.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Institution Details</h5><!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Type</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">City</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Polo Training Foundation</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">8–18</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">N/A</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">N/A</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1967</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Wellington, FL</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">See website</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Contact &amp; Enquiry</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading"><a href="https://polotraining.org/" target="_blank" rel="noreferrer noopener">polotraining.org &#8594;</a></h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quote</h5>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Reserve your spot in the exclusive, intense 3-day grass clinic at La Herradura Polo Club. Space is limited.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Polo Training Foundation</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Philosophy</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">How they <em>teach</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The Polo Training Foundation emphasizes the development of character and leadership through the sport of polo, fostering a sense of discipline and teamwork. It aims to provide equal opportunities for youth to engage in this prestigious sport.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Outcomes</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Where students <em>go</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Graduates of the Polo Training Foundation often excel in national and international polo competitions, showcasing their skills and sportsmanship. Many alumni have pursued higher education and careers in sports management and equestrian fields.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://i0.wp.com/polotraining.org/wp-content/uploads/2026/04/IMG_1087.jpg?resize=750%2C366&ssl=1" alt="Polo Training Foundation campus"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://i0.wp.com/polotraining.org/wp-content/uploads/2023/12/IMG_5247.jpg?w=2250&ssl=1" alt="Polo Training Foundation students"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://polotraining.org/wp-content/uploads/2020/07/virginia-august-clinic-2018.jpg" alt="Polo Training Foundation activities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://i0.wp.com/polotraining.org/wp-content/uploads/2023/12/E14A9732.jpg?w=2250&ssl=1" alt="Polo Training Foundation facilities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://polotraining.org/wp-content/uploads/2020/05/hannah-2.jpg" alt="Polo Training Foundation community"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How Polo Training Foundation performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Expert Staff</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Coaching Credentials</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The Polo Training Foundation employs coaches with USPA certifications and extensive experience in competitive polo. Many staff members have backgrounds in sports psychology and equestrian training, enhancing their teaching effectiveness.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Student Care</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Student Wellbeing</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The Foundation offers a comprehensive wellness programme, including access to sports psychologists and nutritionists. Regular team-building activities foster a supportive community and enhance emotional resilience among students.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Curriculum</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Academic Integration</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The curriculum includes equestrian management courses and sports leadership workshops, integrating academic learning with polo training. Students receive instruction in sports ethics and strategy, preparing them for diverse career paths.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Achievements</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Competitive Pathway</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The PTF offers a wide-range of programs. Including clinics, umpire training, Florida junior polo, Florida youth polo, junior polo grant, Eldorado junior polo, exchange programs, polo college fairs, and academic scholarships.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Facilities</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Facilities &amp; Resources</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The campus features state-of-the-art polo fields, a dedicated equestrian center, and a fitness gym. Students have access to advanced training equipment and technology to enhance their skills and performance.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Progress</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Ongoing Accountability</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Progress is tracked through personalized development plans and regular performance assessments. Parents receive detailed reports and are involved in bi-annual review meetings to discuss their child's growth and achievements.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading --><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Prospective participants can apply online through the Polo Training Foundation's website, with applications typically reviewed on a rolling basis. Requirements include a passion for polo, a commitment to learning, and parental consent for minors.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Enquiries Open</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Year-round</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Application Deadline</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Rolling admissions</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>See website</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Location</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Wellington, FL</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Website</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p><a href="https://polotraining.org/" target="_blank" rel="noreferrer noopener">polotraining.org</a></p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Reserve your spot in the exclusive, intense 3-day grass clinic at La Herradura Polo Club. Space is limited.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Polo Training Foundation</h5>
+<!-- /wp:heading -->

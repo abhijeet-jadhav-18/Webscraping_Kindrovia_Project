@@ -1,0 +1,265 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://miamimusicproject.org/wp-content/plugins/ingallery/picture_cache/thumbnail_3877335752950801194.jpg" alt="Miami Music Project" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html">Elite</a> &#8250; <a href="elite-city-miami-fl.html">Miami</a> &#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>Miami Music Project</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>S & UPDATES ABOUT WHY MUSIC CONTACT DONATE When They Perform, They Transform DONATE WE USE MUSIC AS AN INSTRUMENT FOR SOCIAL TRANSFORMATION.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>5–18</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>850</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>1:10</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph --><p>2008</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading --></div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%">
+<!-- wp:heading --><h2 class="wp-block-heading">About <em>Miami Music Project</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami Music Project is a 501(c)(3) non-profit organization that uses music as an instrument for social transformation, empowering children to acquire values and achieve their full potential, positively affecting their society through the study and performance of music.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Institution Details</h5><!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Type</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ages</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Students</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Ratio</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Founded</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">City</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Youth Music Programme</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">5–18</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">850</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">1:10</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">2008</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Miami, FL</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">See website</h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Contact &amp; Enquiry</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading"><a href="https://miamimusicproject.org" target="_blank" rel="noreferrer noopener">miamimusicproject.org &#8594;</a></h5><!-- /wp:heading -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quote</h5>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Empowering young minds through music, we cultivate harmony and inspire change for a brighter tomorrow.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Miami Music Project</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Philosophy</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">How they <em>teach</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami Music Project employs an immersive, ensemble-based approach to music education, fostering teamwork and discipline. The program emphasizes community engagement and personal growth, nurturing a sense of responsibility and leadership among students.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Outcomes</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Where students <em>go</em></h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Students of Miami Music Project have gained admission to prestigious music programs and universities, and have won awards in regional and national music competitions, showcasing their talent and dedication. Alumni often pursue careers in music and related fields.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://miamimusicproject.org/wp-content/uploads/2023/03/unnamed-3.png" alt="Miami Music Project campus"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://miamimusicproject.org/wp-content/uploads/2018/10/2015.jpg" alt="Miami Music Project students"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://miamimusicproject.org/wp-content/uploads/2024/09/A7402283-e1726330563124.jpg" alt="Miami Music Project activities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://miamimusicproject.org/wp-content/uploads/2026/04/Doris_Bomate.jpg" alt="Miami Music Project facilities"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://miamimusicproject.org/wp-content/uploads/2024/09/Ivonne_Arriete.jpg" alt="Miami Music Project community"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How Miami Music Project performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Expert Staff</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Coaching Credentials</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami Music Project's instructors are highly qualified, often holding advanced degrees in music education and performance. Many have extensive experience in orchestral settings and are certified in El Sistema-inspired teaching methods.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Student Care</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Student Wellbeing</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>The program offers comprehensive support through mentorship and peer-led initiatives, fostering a nurturing environment. Regular workshops focus on emotional resilience and community building, ensuring students' holistic development.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Curriculum</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Academic Integration</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami Music Project integrates music theory and ensemble performance into its curriculum, promoting interdisciplinary learning. Students engage in project-based activities that enhance critical thinking and collaborative skills.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Achievements</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Competitive Pathway</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Graduates have been accepted into top institutions like Juilliard and Berklee College of Music. Students consistently excel in regional competitions, earning accolades for their outstanding performances.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Facilities</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Facilities &amp; Resources</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami Music Project boasts state-of-the-art rehearsal spaces and a comprehensive music library. The facility includes acoustically designed studios equipped with high-quality instruments and recording technology.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Progress</h5><!-- /wp:heading -->
+<!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Ongoing Accountability</h3><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Student progress is meticulously tracked through regular assessments and personalized feedback sessions. Parents receive detailed progress reports, ensuring transparent communication and alignment on student development goals.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading --><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><!-- /wp:heading -->
+<!-- wp:paragraph --><p>To enroll in Miami Music Project, prospective students must complete an online application and may be required to participate in an audition. The admissions process typically begins in the spring, with limited spaces available for new students.</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Enquiries Open</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Year-round</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Application Deadline</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Rolling admissions</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Annual Fee</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>See website</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Location</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p>Miami, FL</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":5} --><h5 class="wp-block-heading">Website</h5><!-- /wp:heading -->
+<!-- wp:paragraph --><p><a href="https://miamimusicproject.org" target="_blank" rel="noreferrer noopener">miamimusicproject.org</a></p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Empowering young minds through music, we cultivate harmony and inspire change for a brighter tomorrow.&rdquo;</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">— Miami Music Project</h5>
+<!-- /wp:heading -->

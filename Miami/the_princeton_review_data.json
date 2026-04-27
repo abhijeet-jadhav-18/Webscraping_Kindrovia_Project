@@ -1,0 +1,40 @@
+{
+  "Name": "The Princeton Review",
+  "Tagline": "The Princeton Review offers online test preparation for SAT, ACT and graduate school entrance exams. Enroll in our test prep courses today.",
+  "Founded": "1981",
+  "City": "Miami, FL",
+  "Ages": "13–18",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Academic Test Prep & Tutoring",
+  "About": "The Princeton Review is a leading provider of test preparation services, offering tailored courses for SAT, ACT, and graduate exams. Its mission is to demystify the testing process and empower students to achieve their academic goals.",
+  "Philosophy": "The Princeton Review emphasizes a personalized approach, using adaptive learning technology to cater to individual student needs. Its expert instructors focus on building confidence and mastering test-taking strategies for optimal performance.",
+  "Outcomes": "Students of The Princeton Review often see significant score improvements, enhancing their college and graduate school admission prospects. Many alumni have gained entry into top-tier universities, reflecting the program's effectiveness.",
+  "Admissions": "Enrollment at The Princeton Review is straightforward, with options to sign up online or via phone. Prospective students can choose from various course formats, ensuring flexibility to fit their schedules and learning preferences.",
+  "Quote": "An SAT prep course that provides essential strategies and key content review.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The Princeton Review instructors in Miami are highly qualified, with many holding advanced degrees and certifications in education. They specialize in test preparation strategies, ensuring students receive expert guidance tailored to their needs.",
+    "Student Wellbeing": "The Princeton Review offers personalized academic advising and stress management workshops to support student wellbeing. These initiatives help students balance rigorous test prep with mental and emotional health.",
+    "Academic Integration": "The Princeton Review in Miami utilizes adaptive learning technology to tailor SAT and ACT prep courses to individual student needs. Their curriculum includes practice tests and strategy sessions to maximize test performance.",
+    "Competitive Pathway": "Graduates of The Princeton Review often gain admission to prestigious universities such as Harvard, MIT, and Stanford. Their comprehensive test prep programs significantly boost students' standardized test scores, enhancing college application profiles.",
+    "Facilities & Resources": "The Miami location of The Princeton Review features state-of-the-art classrooms equipped with interactive whiteboards and digital resources. These facilities provide an optimal learning environment for test preparation courses.",
+    "Ongoing Accountability": "The Princeton Review maintains student progress through regular assessments and detailed feedback reports. Parents receive updates on their child's development, ensuring transparency and continuous improvement in test preparation."
+  },
+  "URL": "https://princetonreview.com",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.princetonreview.com/cms-content/raised-arms-beach.jpg",
+    "https://www.princetonreview.com/cms-content/psat-to-sat-conversion.jpg",
+    "https://www.princetonreview.com/cms-content/parents-high-school-roadmap.png",
+    "https://princetonreview.com/cms-content/arthi-j-score.png",
+    "https://princetonreview.com/cms-content/tutoring_bu_desktop.jpg",
+    "https://www.princetonreview.com/cms-content/sat-myths-pencils.jpg",
+    "https://www.princetonreview.com/cms-content/rishi_review_increase-bu.jpg",
+    "https://www.princetonreview.com/cms-content/sat-math-formulas.jpg",
+    "https://www.princetonreview.com/cms-content/act-english-test-2018.jpg",
+    "https://www.princetonreview.com/cms-content/change-sat-test-date-1.jpg"
+  ]
+}

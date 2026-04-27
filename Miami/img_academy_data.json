@@ -1,0 +1,40 @@
+{
+  "Name": "IMG Academy",
+  "Tagline": "The training you do outside of practice and competition is just as critical to your overall development. IMG Academy performance camps address total development of the body and mind through training i",
+  "Founded": "1978",
+  "City": "Bradenton, FL",
+  "Ages": "11–19",
+  "Students": "1300",
+  "Ratio": "1:5",
+  "Fees": "$63,000 per year",
+  "Type": "Sports Performance Academy & Boarding School",
+  "About": "Enter camper details to start the camp registration process and to view available camp dates and pricing IMG Academy is the world’s leading sports education brand, providing access and opportunity for student-athletes through innovative on-campus and online programming and experiences. Supporting the entire student-athlete developmental journey from exploration to specialization to graduation, IMG Academy offers a world-renowned boarding school and industry-leading camps at its Bradenton, Florida campus, along with team hosting, events and tournaments, professional athlete training, and more.",
+  "Philosophy": "IMG Academy is the world’s leading sports education brand, providing access and opportunity for student-athletes through innovative on-campus and online programming and experiences.",
+  "Outcomes": "IMG Academy’s College Planning and Placement Department works closely with student-athletes and their families to create a road map for reaching individualized academic and sport-related collegiate goals. Beginning in high school, counselors meet with student-athletes to ensure they are enrolled in the appropriate courses to align with their future academic and athletic aspirations, remain on track for graduation and NCAA eligibility, and begin receiving guidance for the college admissions process that builds throughout their high school journey.",
+  "Admissions": "Enter camper details to start the camp registration process and to view available camp dates and pricing IMG Academy is the world leader in sports education and the boarding school admits a limited amount of students annually from a large pool of qualified applicants, so we encourage interested student-athletes to submit an application as early as possible. Submit your online application to get started today.",
+  "Quote": "Great training, wonderful care for campers, good food choices, diverse camper group - my camper can't wait for next year!",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The hallmark of an IMG Academy education is a robust curriculum, an abundance of learning experiences that require collaborative problem solving, and subject-specific assignments in which learners critically and creatively examine the world around them. The IMG Academy faculty forms the core of a much greater academic support team that includes parents, administrators, coaches, residential mentors and campus life staff members, all of whom work tirelessly to positively impact holistic development in academics, athletics and character growth.",
+    "Academic Integration": "The IMG Academy curriculum focuses on developing critical thinking, collaboration, perseverance and communication skills through traditional subject areas while also offering student-athletes the opportunity to express themselves and pursue areas of passion in the form of electives and cocurriculars. The school's curriculum is designed to prepare student-athletes for the rigors of university life and beyond and provides a supportive learning track for each individual, including available core, honors, and AP courses.",
+    "Competitive Pathway": "Student-athletes who show a proficiency in French or Spanish by the time of graduation may be awarded the Seal of Biliteracy. The seal formally signifies the accomplishment of bilingual student-athletes and is a powerful tool across college and career applications and scholarships.",
+    "Student Wellbeing": "IMG Academy student-athletes have the opportunity to attend a variety of events in addition to annual prom and homecoming dances. Journey through global cuisines with food fairs, explore cultural traditions at dance and music festivals, play games at on-site carnival and arcade nights, or simply settle in and socialize at our recreational area outside the residence halls.",
+    "Facilities & Resources": "All campers also have the chance to unwind and hang out between camp programming sessions. The rec area between the residence halls includes a resort-style pool (with lifeguard), sand volleyball court, basketball courts, turf sport court, table tennis, and more.",
+    "Ongoing Accountability": "IMG Academy employs a comprehensive progress tracking system, issuing regular performance reports to parents and students. These reports include detailed assessments of academic achievements and athletic development, ensuring transparent communication and continuous improvement."
+  },
+  "URL": "https://www.imgacademy.com/sport-camps/performance-camp",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.imgacademy.com/sites/default/files/styles/scale_1700w/public/2023-02/img-academy-college-recruiting-meta.jpg?itok=Zk2OG23f",
+    "https://www.imgacademy.com/sites/default/files/girls-lacrosse-fundamentals.jpg",
+    "https://www.imgacademy.com/sites/default/files/styles/scale_1700w/public/2022-06/img-girls-soccer-camp-meta.jpg?itok=K0SpzcFX",
+    "https://www.imgacademy.com/sites/default/files/m80-learn-more.png",
+    "https://www.imgacademy.com/sites/default/files/girls-lacrosse-camp-overview-6.jpg",
+    "https://www.imgacademy.com/sites/default/files/img-girls-soccer-camp-4.jpg",
+    "https://www.imgacademy.com/sites/default/files/soccer-facilities-1.jpg",
+    "https://www.imgacademy.com/sites/default/files/img-performance-camp-mental-training.jpg",
+    "https://www.imgacademy.com/sites/default/files/lacrosse-facilities-o-3.jpg",
+    "https://www.imgacademy.com/sites/default/files/girls-lacrosse-camp-o-1.jpg"
+  ]
+}

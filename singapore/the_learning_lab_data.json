@@ -1,0 +1,40 @@
+{
+  "Name": "The Learning Lab",
+  "Tagline": "The Learning Lab offers tuition and enrichment programs for nursery, primary and secondary school, kindergarten and junior college students. Find out more.",
+  "Founded": "2001",
+  "City": "Singapore",
+  "Ages": "2–19",
+  "Students": "",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Tuition & Enrichment Centre",
+  "About": "An educator for 20 years, Therese started her journey in the education sphere as an editor for educational books after she graduated from NUS with a Bachelor’s degree in English Language (Hons). With a desire to go further in the field, she attained a Postgraduate Diploma in Education (PGDE, Secondary) from NIE and specialised in teaching the General Paper thereafter.",
+  "Philosophy": "We believe that The TLL Method helps every child reach their fullest potential in academic success by removing the barriers to learning. Three main barriers to learning are misconceptions, forgetfulness and lack of transfer*.",
+  "Outcomes": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+  "Admissions": "Enrolment at The Learning Lab involves an online application followed by an assessment to determine the student's needs and placement.",
+  "Quote": "Empowering young minds to unlock their potential and embrace a lifelong journey of discovery and growth.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The Learning Lab's educators hold advanced degrees and certifications, including the Postgraduate Diploma in Education from NIE. They employ a student-centric approach, focusing on personalized learning to address individual academic needs.",
+    "Student Wellbeing": "The Learning Lab offers a comprehensive support system, including access to pastoral care and counselling services. They foster a nurturing environment that emphasizes emotional resilience and community engagement.",
+    "Academic Integration": "The Learning Lab's curriculum covers a wide range of subjects, including English, Mathematics, and Science, tailored for IB, IGCSE, and A-Level students. Their educational philosophy emphasizes critical thinking and real-world application.",
+    "Competitive Pathway": "Students from The Learning Lab have achieved top scores in national examinations and gained admissions to prestigious universities worldwide. Their success is attributed to a focus on academic excellence and skill development.",
+    "Facilities & Resources": "The Learning Lab features state-of-the-art classrooms equipped with interactive technology and modern learning tools. Their facilities include dedicated spaces for collaborative projects and individual study sessions.",
+    "Ongoing Accountability": "The Learning Lab regularly conducts assessments and provides detailed feedback to both students and parents. They maintain high-quality standards through continuous monitoring and transparent communication with stakeholders."
+  },
+  "URL": "https://thelearninglab.com.sg",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/board.png?width=498&height=738&name=board.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/content/dam/homepage/Homepage-Card-Stack-CCK1.png?width=3240&height=3240&name=Homepage-Card-Stack-CCK1.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/content/dam/about-us/Image%20Content-about-us-teaching-and-learning-model-view-schedules-2.png?width=900&height=900&name=Image%20Content-about-us-teaching-and-learning-model-view-schedules-2.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/content/dam/about-us/Image%20Content-about-us-teaching-and-learning-model-register-now-2.png?width=300&height=300&name=Image%20Content-about-us-teaching-and-learning-model-register-now-2.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/Screenshot%202025-05-22%20163046-1.png?width=426&height=426&name=Screenshot%202025-05-22%20163046-1.png",
+    "https://www.thelearninglab.com.sg/hubfs/raw_assets/public/TLL-theme/images/quote-mobile.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/content/dam/homepage/Homepage-Card-Stack-WM2.png?width=1080&height=1080&name=Homepage-Card-Stack-WM2.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/content/dam/homepage/Homepage-Card-Stack-ONLINE1.png?width=1080&height=1080&name=Homepage-Card-Stack-ONLINE1.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/K2%20Grad%206.png?width=858&height=604&name=K2%20Grad%206.png",
+    "https://www.thelearninglab.com.sg/hs-fs/hubfs/NSLF-7.png?width=1350&height=1530&name=NSLF-7.png"
+  ]
+}

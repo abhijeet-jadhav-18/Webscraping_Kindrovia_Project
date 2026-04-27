@@ -1,0 +1,40 @@
+{
+  "Name": "Singapore Swimming Club",
+  "Tagline": "Discover an exclusive member-only recreational club, offering exceptional swimming, sports, dining, and lifestyle experiences.",
+  "Founded": "1894",
+  "City": "Singapore",
+  "Ages": "All ages",
+  "Students": "",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Swimming Club & Academy",
+  "About": "Discover the welcoming atmosphere of Singapore Swimming Club, where individuals of all nationalities find a ‘home away from home.’ Engage in diverse activities and enjoy unparalleled service in a relaxing space just a few minutes drive away from the city centre. With facilities like Olympic-sized pools, a 10-lane bowling centre, and 9 F&B outlets, there’s something for everyone!",
+  "Philosophy": "Coach Eugene Chia brings with him over two decades of coaching excellence, having worked with the Singapore Swimming Association and the Singapore Sports School. His deep expertise and strategic training methods have consistently produced elite-level athletes.",
+  "Outcomes": "Members enjoy a vibrant community with top-notch facilities, fostering both personal growth and athletic excellence.",
+  "Admissions": "Under Club Rules, members must register their guests prior to entering the premises. Clicking on the ‘Register My Guests’ button below, you will be brought to the ‘Member Login’ section.",
+  "Quote": "Dive into unity and excellence at Singapore Swimming Club, where every stroke brings us closer together.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Facilities & Resources": "Our state-of-the-art sports and fitness facilities cater to diverse needs, offering modern amenities for both recreational and competitive activities.",
+    "Coaching Credentials": "Singapore Swimming Club's coaches hold certifications from the Singapore Swimming Association, ensuring they meet national standards. Their extensive experience includes coaching at elite institutions like the Singapore Sports School, emphasizing strategic, results-driven training.",
+    "Student Wellbeing": "The club offers a supportive environment with access to pastoral care and community-building activities. Regular workshops and counseling services are available to enhance members' mental and emotional resilience.",
+    "Academic Integration": "Singapore Swimming Club integrates sports science into its training programs, promoting a holistic approach to athletic development. Members benefit from workshops on nutrition, psychology, and time management to complement their physical training.",
+    "Competitive Pathway": "Athletes from the club have successfully competed in national and international championships, consistently achieving podium finishes. Many members have progressed to represent Singapore in prestigious global competitions, showcasing their elite training.",
+    "Ongoing Accountability": "The club implements regular performance reviews and provides detailed feedback to members and parents. Progress is tracked through a structured assessment system, ensuring continuous improvement and transparent communication with stakeholders."
+  },
+  "URL": "https://sswimclub.org.sg/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://sswimclub.org.sg/wp-content/uploads/2024/08/600x338-pxv4-Sep-20253-1024x577.jpg",
+    "https://sswimclub.org.sg/wp-content/themes/swimming-club/assets/images/custom-popup/linkedin.png",
+    "https://sswimclub.org.sg/wp-content/uploads/2024/08/JM_Aug24_Web-06.jpg",
+    "https://sswimclub.org.sg/wp-content/uploads/2024/04/IMG_7286-1.jpg",
+    "https://sswimclub.org.sg/wp-content/uploads/2024/07/birthday-party-e1719975916847.jpg",
+    "https://sswimclub.org.sg/wp-content/uploads/2024/04/swim-sport-faclities-details-banner-1024x284.png",
+    "https://sswimclub.org.sg/wp-content/uploads/2024/04/life-1.png",
+    "https://sswimclub.org.sg/wp-content/uploads/2026/01/Website-International-Chess-Classes.jpg",
+    "https://sswimclub.org.sg/wp-content/uploads/2025/11/Website-Mahjong-101-1.jpg",
+    "https://sswimclub.org.sg/wp-content/uploads/2026/03/705x612px-event-v2-oyster-and-champange-v2.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Singapore Raffles Music College",
+  "Tagline": "SRMC offers a diverse range of music, dance, and arts education programs. Explore diploma and degree courses designed to nurture creativity and artistic growth.",
+  "Founded": "2001",
+  "City": "Singapore",
+  "Ages": "Adults 18+",
+  "Students": "",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Arts & Music College",
+  "About": "Your ultimate launchpad into the realms of the Creative Arts. Since our kickoff in 2001, we've been on a mission to redefine excellence in arts education.",
+  "Philosophy": "Students gain practical, hands-on experience by working on real-world projects, bridging the gap between academic learning and industry practice. Through collaborations with external partners and in-house productions, SRPS helps students refine their craft and develop industry-ready skills.",
+  "Outcomes": "Graduates are equipped with industry-ready skills and practical experience, preparing them for successful careers in the creative arts.",
+  "Admissions": "Prospective students must submit an application form and attend an audition or interview to assess their suitability for the program.",
+  "Quote": "SRMC’s piano rooms can be used for one-to-one music lessons, piano/vocal practices, and music exams preparation.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "Picture yourself flowing from one creative space to another - from vibrant Classrooms where ideas collide and form masterpieces, to the Multimedia Room where technology meets creativity. Feel the rhythm in our Dance Studios, and let your melody unfold in the Pop Music Studio.",
+    "Competitive Pathway": "SRMC’s dance studios are fully equipped with full-length mirrors and ballet barres, suitable for dance/theatre lessons, rehearsals, performances, and examinations.",
+    "Facilities & Resources": "From the moment you step into our Recital Studio and Recording Studio, you're not just entering spaces; you're stepping into the future of artistry, surrounded by the latest tech that's waiting to capture your next big idea.",
+    "Coaching Credentials": "Singapore Raffles Music College employs instructors with advanced degrees in music and arts, many of whom are internationally recognized performers and educators. Faculty members hold certifications from prestigious institutions, ensuring high-quality, industry-relevant training.",
+    "Student Wellbeing": "The college offers comprehensive pastoral care, including access to professional counselling services and peer support groups. Regular workshops on stress management and mental health are conducted to promote a balanced student life.",
+    "Ongoing Accountability": "Student progress is meticulously tracked through regular assessments and portfolio reviews, ensuring alignment with industry standards. Feedback is communicated through detailed reports, fostering transparency and continuous improvement in educational outcomes."
+  },
+  "URL": "https://srmc.edu.sg/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://srmc.edu.sg/wp-content/uploads/elementor/thumbs/SRPS-3-r5s850pdd0rk1w5je76whicwl1xah2n3es54k3sibs.webp",
+    "https://srmc.edu.sg/wp-content/uploads/2024/04/Karl-Luis-Youtube-Thumbnail.jpg",
+    "https://srmc.edu.sg/wp-content/uploads/2024/02/srmc-full-left-new-.webp",
+    "https://srmc.edu.sg/wp-content/uploads/2024/01/srmc-yello0w-right.webp",
+    "https://srmc.edu.sg/wp-content/uploads/2024/04/Unforgiven-Thumbnail-for-youtube-2.jpg",
+    "https://srmc.edu.sg/wp-content/uploads/2024/02/srmc-right-maroon.webp",
+    "https://srmc.edu.sg/wp-content/uploads/2024/02/srmc-full-left-2.webp",
+    "https://srmc.edu.sg/wp-content/uploads/2024/05/Wire-Entertainment.webp",
+    "https://srmc.edu.sg/wp-content/uploads/2024/04/CHRISTMAS_YT.jpg",
+    "https://srmc.edu.sg/wp-content/uploads/2024/10/srmc-bg-new-top-1-4.webp"
+  ]
+}

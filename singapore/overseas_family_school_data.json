@@ -1,0 +1,40 @@
+{
+  "Name": "Overseas Family School",
+  "Tagline": "Join top IB international school in Singapore. Multicultural. No entrance exams. All year enrolment. Located at the East District of Singapore.",
+  "Founded": "1991",
+  "City": "Singapore",
+  "Ages": "4–18",
+  "Students": "3000",
+  "Ratio": "1:11",
+  "Fees": "See website",
+  "Type": "IB World Day School",
+  "About": "Thank you for choosing the Overseas Family School. Please fill in this form to complete your enquiry.",
+  "Philosophy": "The Course Fees comprise the non-refundable Application Fee and Enrolment Fee together with Semester Tuition Fees. Other fees may include costs related to course/educational materials, examinations, excursions and field trips and co-curricular activities.",
+  "Outcomes": "We are thrilled to announce the exceptional performance of our Grade 12 students in the IB Examinations this year! OFS has consistently achieved strong IB results and sends students to top university destinations in the United States, United Kingdom, Europe, and Asia.",
+  "Admissions": "Enrolment is open year-round with no entrance exams required. Families are encouraged to visit the campus and meet with admissions staff for personalized guidance.",
+  "Quote": "Empowering every student to thrive globally with resilience, compassion, and a lifelong love for learning.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "The Art Exhibition will showcase our talented artists. The selected art pieces, connected to students IPC Units of Work, reflect a variety of art skills and use of media.",
+    "Competitive Pathway": "Middle School Examinations are just one part of the ongoing IB MYP assessments. It also gives our students ‘real life’ practice and experience with stringent examination conditions expected at High School, especially for external examinations.",
+    "Coaching Credentials": "Teachers at Overseas Family School are IB-certified and bring extensive international teaching experience, fostering a global perspective. They employ inquiry-based learning techniques to nurture critical thinking and independent learning skills.",
+    "Student Wellbeing": "Overseas Family School prioritizes student wellbeing through a comprehensive pastoral care system, including dedicated counselors and support staff. Regular wellbeing workshops and community-building activities foster a supportive and inclusive environment.",
+    "Facilities & Resources": "The campus boasts state-of-the-art facilities including science labs, art studios, and a 750-seat auditorium. Students have access to modern technology resources, including interactive whiteboards and computer labs, enhancing their learning experience.",
+    "Ongoing Accountability": "Student progress is meticulously tracked through regular assessments and detailed reports shared with parents. The school employs a robust feedback system, ensuring continuous improvement and alignment with academic goals."
+  },
+  "URL": "https://ofs.edu.sg",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://ofs.edu.sg/news/2024/12-11-hs-culture-fest/photos/013-small.jpg",
+    "https://ofs.edu.sg/news/2024/12-11-hs-culture-fest/photos/035-small.jpg",
+    "https://ofs.edu.sg/news/2024/05-24-hs-graduation/photos/007-small.jpg",
+    "https://ofs.edu.sg/news/2024/05-24-hs-graduation/photos/042-small.jpg",
+    "https://ofs.edu.sg/news/2024/05-24-hs-graduation/photos/049-small.jpg",
+    "https://ofs.edu.sg/news/2024/03-27-hs-battle-of-the-bands/photos/029-small.jpg",
+    "https://ofs.edu.sg/events/2026/es-performing-arts-concert.jpg",
+    "https://ofs.edu.sg/news/2024/05-24-hs-graduation/photos/027-small.jpg",
+    "https://ofs.edu.sg/assets/images/about/faculty/DENGLER-Dijana.jpg",
+    "https://ofs.edu.sg/news/2024/12-11-hs-culture-fest/photos/026-small.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "The Tanglin Club",
+  "Tagline": "Founded in 1865, the Tanglin Club is Singapore’s leading private members’ club with over 4,000 members from more than 70 countries. The Club offers a diverse range of social and sporting amenities in",
+  "Founded": "1865",
+  "City": "Singapore",
+  "Ages": "Adults 18+",
+  "Students": "4000",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Private Members Club",
+  "About": "The opening of the Suez Canal in 1869 and the advent of steamers resulted in a travel revolution. The small port founded by Sir Thomas Stamford Raffles, the founder of Singapore, developed into a thriving trading centre, and the everyday life of the British settlement had become more sophisticated, and exclusively European.",
+  "Philosophy": "It is not known how the name 'Tanglin' originated but as there are many places in Malaysia named after trees, it is possible that the Tanglin Club was named after the Saraca Tree aka 'Tanglin Tree'. A commemorative Tanglin Tree was planted in the grounds of the present clubhouse in 1990 to mark the Club's 125th anniversary.",
+  "Outcomes": "The Tanglin Club provides a prestigious environment for networking, socializing, and engaging in diverse recreational activities. Members enjoy exclusive access to world-class facilities and events.",
+  "Admissions": "Membership is by invitation or application, subject to approval by the Club's committee. Prospective members may need endorsements from existing members.",
+  "Quote": "In the spirit of timeless elegance and global connections, we cultivate a sanctuary of tradition and innovation.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "The Tanglin Club is justly proud of its Library which stocks over 20,000 books (12,000 in the Main Library and 8,000 in the Junior Library).",
+    "Facilities & Resources": "You may borrow books in person from the Main Library or reserve them by telephone or email. Each member may borrow a maximum of six (6) books from the Main Library and six (6) books from the Junior Library for a period of three (3) weeks.",
+    "Coaching Credentials": "The Tanglin Club employs coaches with internationally recognized certifications and extensive experience in their respective fields. They adopt a personalized teaching approach, ensuring members receive tailored guidance to enhance their skills.",
+    "Student Wellbeing": "The Tanglin Club offers comprehensive wellbeing support through dedicated counselling services and a vibrant community network. Members benefit from wellness programs designed to promote mental and physical health.",
+    "Competitive Pathway": "Members of The Tanglin Club have achieved notable success in regional and international competitions, reflecting the club's commitment to excellence. Many have progressed to prestigious universities and successful professional careers.",
+    "Ongoing Accountability": "The Tanglin Club implements regular performance reviews and feedback sessions to monitor member progress. A robust quality assurance system ensures continuous improvement and transparent communication with stakeholders."
+  },
+  "URL": "https://www.tanglinclub.org/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.tanglinclub.org/images/Content/About/Management/Meredith-Yong.jpg",
+    "https://www.tanglinclub.org/images/Content/About/Management/Chef-Aaron-Executive-Chef.jpg",
+    "https://www.tanglinclub.org/images/Content/About/Management/Eileen-Chern.jpg",
+    "https://www.tanglinclub.org/images/banners/Large-Banner-Legacyfortomorrow.jpg",
+    "https://www.tanglinclub.org/images/Content/About/Management/Allen-Wong.jpg",
+    "https://www.tanglinclub.org/images/Content/About/Management/Tossie-Chong-Senior-Manager-Purchasing.jpg",
+    "https://www.tanglinclub.org/images/Content/Sports_Recreation/Biliards/BilliardsTableNew-1100x429.jpg",
+    "https://www.tanglinclub.org/images/Content/About/Management/Lim-Tan-Kuan-New2.jpg",
+    "https://www.tanglinclub.org/images/Content/About/Management/Richard-Koh-Chief-Safety--Security.jpg",
+    "https://www.tanglinclub.org/images/Content/About/Management/Lim-Chai-Liong-Senior-Manager-Facilities--Project.jpg"
+  ]
+}

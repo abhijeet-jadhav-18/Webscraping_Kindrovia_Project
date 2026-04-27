@@ -1,0 +1,40 @@
+{
+  "Name": "Tanglin Trust School",
+  "Tagline": "Tanglin Trust is a Private, Not-for-Profit, British-based International School in Singapore for Students age 3 to 18 years with IB and A Level at Sixth Form. Awarded International School of Year 2023",
+  "Founded": "1925",
+  "City": "Singapore",
+  "Ages": "3–7",
+  "Students": "178",
+  "Ratio": "1:10",
+  "Fees": "S$30,000–S$45,000 per year",
+  "Type": "British International School",
+  "About": "Established in 1925, Tanglin Trust School is the oldest British international school in Southeast Asia. Tanglin provides the English National Curriculum with an international perspective to children from 3 to 18 years in Singapore.",
+  "Philosophy": "Tanglin Trust School in Singapore has a long tradition of providing British-based learning with an international perspective. At Tanglin we strive to make every individual feel valued, happy and successful.",
+  "Outcomes": "These fantastic results are a credit to the students who have been rewarded for their considerable hard work and effort.",
+  "Admissions": "Applications may be submitted up to three years prior to the desired year of entry. Our review process begins September before intended year of entry.",
+  "Quote": "We are the first school in Asia to be awarded a Curiosity Approach® accredited status.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "for 2027 is 15 February, 2026",
+  "Performance": {
+    "Coaching Credentials": "Tanglin Trust School's educators are highly qualified, many holding advanced degrees and UK teaching certifications. They employ a student-centered approach, fostering critical thinking and creativity through innovative teaching methods.",
+    "Student Wellbeing": "The school offers comprehensive pastoral care, including dedicated counselors and a robust house system, ensuring students' emotional and social needs are met. Regular wellbeing workshops and activities promote a supportive community environment.",
+    "Academic Integration": "Tanglin Trust School offers a rigorous curriculum, integrating the English National Curriculum with IGCSE and A-Level qualifications, emphasizing a holistic educational approach. Students benefit from a broad range of subjects, including arts and sciences.",
+    "Competitive Pathway": "Graduates of Tanglin Trust School consistently achieve high academic results, with many gaining entry to prestigious universities worldwide. The school's alumni have distinguished themselves in various fields, reflecting its strong academic foundation.",
+    "Facilities & Resources": "The school boasts state-of-the-art facilities, including science laboratories, art studios, and a swimming pool, supporting a diverse range of extracurricular activities. Cutting-edge technology enhances learning experiences across all disciplines.",
+    "Ongoing Accountability": "Tanglin Trust School employs regular assessments and feedback mechanisms to ensure continuous student progress. Parents receive detailed reports and updates through parent-teacher meetings and an online portal, maintaining transparency and engagement."
+  },
+  "URL": "https://tts.edu.sg",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://resources.finalsite.net/images/f_auto,q_auto/v1724920094/ttsedusg/lgqomkizqwuo2pzqrmv2/7.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1724920065/ttsedusg/u0a6vlcqdktixtdax89x/3.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1744179880/ttsedusg/e6ofqynk0ylz9mvcxbbl/TTSCentenaryEventLondon16Nov2024-113.jpg",
+    "https://tts.edu.sg/uploaded/photos/history/2000-current/IMG_8640.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1704640991/ttsedusg/s4nnncwtkauaqqv6wq9c/TTS_HouseDay23-17.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto/v1660199784/ttsedusg/revpkbxjgzjhcyegg1e4/DU9U1181.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1730780465/ttsedusg/vlphlxobmcjwirdrgzi5/Y13ImagineCup.jpg",
+    "https://tts.edu.sg/uploaded/photos/history/1980_–_1999/1995_TIS_2.jpg",
+    "https://tts.edu.sg/uploaded/photos/history/1940-1969/1947_Cameron_HIghlands_children.jpg",
+    "https://tts.edu.sg/uploaded/photos/history/1920-1939/With_King_And_Queen_1920.jpg"
+  ]
+}

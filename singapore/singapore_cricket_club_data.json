@@ -1,0 +1,40 @@
+{
+  "Name": "Singapore Cricket Club",
+  "Tagline": "ore Cricket Club’s rugby section keen to offer the best possible playing and development experience for children from the age of four years and upwards.",
+  "Founded": "2012",
+  "City": "Singapore",
+  "Ages": "All ages",
+  "Students": "600",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Sports & Social Club",
+  "About": "To be the premier Sports and Social Club in Asia by providing excellent services and facilities to our members. Established in 1852, the Singapore Cricket Club is the premier sports and lifestyle club in the heart of the city.",
+  "Philosophy": "The Singapore Cricket Club focuses on holistic development through sports, fostering teamwork, discipline, and excellence.",
+  "Outcomes": "Members enjoy improved physical fitness, sportsmanship, and a sense of community within a prestigious club environment.",
+  "Admissions": "Membership is open to individuals who meet the club's criteria. Prospective members can apply through the club's website or contact the membership office for more details.",
+  "Quote": "Striving for excellence in sports and community, we unite tradition and innovation at the heart of Singapore.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "Cricket on the Padang is one of our vibrant city’s great delights.",
+    "Competitive Pathway": "Bridge is one of the world’s most popular card games using a standard 52-card deck. The game consists of several deals, each progressing through four phases: dealing the cards, the auction (also referred to as bidding), playing the cards, and scoring the results.",
+    "Facilities & Resources": "Located in the basement of the Club within Men’s Bar, the Club’s billiards facilities include two full-sized snooker tables that are immaculately maintained by our two full-time Markers. The Billiards Section comprises of competitive players, social players and long time supporters who just enjoy our Section events.",
+    "Student Wellbeing": "The Singapore Cricket Club offers a supportive environment with access to sports psychologists and wellness workshops. Members benefit from a strong community network that promotes mental resilience and emotional balance.",
+    "Ongoing Accountability": "The Singapore Cricket Club Football Academy is dedicated to ensuring quality coaching instruction by professionally qualified coaches, offering top class playing facilities and progressive opportunities to the academy players of this program.",
+    "Coaching Credentials": "Coaches at the Singapore Cricket Club are certified by national sports associations and possess extensive experience in competitive sports. They employ a personalized coaching approach to enhance skills and foster sportsmanship among members."
+  },
+  "URL": "https://scc.org.sg/youth-development/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://scc.org.sg/wp-content/uploads/2023/Sports/Mahjong/photo_6246969364859434051_y-1-768x374.jpg",
+    "https://scc.org.sg/wp-content/uploads/2025/Sections/Netball/IMG_5253-1200x800.jpg",
+    "https://scc.org.sg/wp-content/uploads/2020/Sports/Cricket/Ladies-Day-6.jpg",
+    "https://scc.org.sg/wp-content/uploads/2019/02/SCC-Image-3-1.jpg",
+    "https://scc.org.sg/wp-content/uploads/2019/02/SCC-Image-5-1.jpg",
+    "https://scc.org.sg/wp-content/uploads/2025/Sections/Netball/Netball-3-1200x900.jpg",
+    "https://scc.org.sg/wp-content/uploads/2023/Sports/Golf/Golf-Simulator-Championship.jpeg",
+    "https://scc.org.sg/wp-content/uploads/2024/Sections/Chess/082024_Chess_Recruitment_A4-scaled.jpg",
+    "https://scc.org.sg/wp-content/uploads/2023/Sports/Mahjong/photo_6246969364859434035_y-1-1200x583.jpg",
+    "https://scc.org.sg/wp-content/uploads/2025/Sections/Darts/052025_Darts_Calendar_A3-scaled.jpg"
+  ]
+}

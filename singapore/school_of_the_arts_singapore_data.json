@@ -1,0 +1,40 @@
+{
+  "Name": "School of the Arts Singapore",
+  "Tagline": "emic curriculum, leading to the International Baccalaureate Diploma Programme (IBDP) or the International Baccalaureate Career-Related Programme (IBCP).",
+  "Founded": "2008",
+  "City": "Singapore",
+  "Ages": "13–18",
+  "Students": "1200",
+  "Ratio": "1:10",
+  "Fees": "S$3,065",
+  "Type": "Specialised Arts School",
+  "About": "SOTA’s educational philosophy celebrates creative experimentation, self-expression, and artistic discovery. Supported by MCCY and MOE, SOTA offers a unique pathway for young artists, to develop their full potential in both arts and academics.",
+  "Philosophy": "Approaches learning and creating as intertwined endeavours, working individually and collaboratively Is motivated by the pleasure of discovery and expression, and the value it contributes to the world Is equipped with disciplinary knowledge, methods and forms, and flexibly integrates these to better engage with and respond to complexity At SOTA, we proudly embody our identity as a School, public Company Limited by Guarantee (CLG), and Institution of Public Character (IPC).",
+  "Outcomes": "Regardless of their varied pursuits, our graduates continue to actively engage with and support the arts beyond their time at SOTA, demonstrating an appreciation and commitment to the arts. SOTA’s International Baccalaureate Career-related Programme (IBCP) is recognised by arts institutes and conservatories locally and internationally.",
+  "Admissions": "Application to SOTA is via the Direct School Admission. Shortlisted applicants participate in the auditions conducted at our Talent Academy (TA) platform in June each year, where they will have the opportunity to show their portfolio of work.",
+  "Quote": "We are calling for a new generation of artistic and creative learners, and cultural leaders. Watch this space for more information on our annual admissions process.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "The Student Development programmes in SOTA seeks to develop the affective character in our students. This involves nurturing their social-emotional skills, values, attitudes, and dispositions.",
+    "Academic Integration": "Apart from their arts disciplines, SOTA students take academic subjects such as English Language & Critical thinking, Literature in English, Humanities, Mathematics, Mother Tongue Languages and Sciences.",
+    "Facilities & Resources": "SOTA’s Specialised Arts Programmes aim to develop strong artistic capabilities through critical thinking skills, creative awareness, and discipline. Students enrolled in the school specialise in the specific art form they auditioned for.",
+    "Coaching Credentials": "SOTA's faculty comprises experienced educators and practicing artists, many holding advanced degrees and certifications in arts education. They employ a student-centered approach, fostering creativity and critical thinking through personalized mentorship.",
+    "Competitive Pathway": "SOTA graduates have secured placements in prestigious institutions like Juilliard and Central Saint Martins, reflecting the school's robust arts and academic training. Students frequently excel in international arts competitions, showcasing their talents globally.",
+    "Ongoing Accountability": "SOTA implements regular student progress reviews and personalized feedback sessions to ensure continuous development. The school maintains transparent communication with parents through detailed reports and stakeholder meetings, upholding high educational standards."
+  },
+  "URL": "https://www.sota.edu.sg/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.sota.edu.sg/wp-content/uploads/2024/08/DSA-JC-min-1-768x385.jpg",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/08/About-us-_collage-3-min-1.jpg",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/06/b-ig-hres.png",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/08/DSA-JC-min-1.jpg",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/08/home_banner_first_slide_531_.jpg",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/07/music-conductor-20230215_2432_MW-768x387.jpg",
+    "https://www.sota.edu.sg/wp-content/uploads/2025/04/cp-model-150x150.png",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/12/TA.png",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/06/beige-plus.png",
+    "https://www.sota.edu.sg/wp-content/uploads/2024/08/About-us_collage-4-min-1-150x150.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Sciences Po Paris",
+  "Tagline": "Fondée sur des valeurs d’ouverture et d’excellence, Sciences Po est une université de recherche sélective de rang international dont le modèle unique associe spécialisation en sciences humaines et soc",
+  "Founded": "1872",
+  "City": "Paris, France",
+  "Ages": "18–30",
+  "Students": "14000",
+  "Ratio": "1:10",
+  "Fees": "€10,700/year",
+  "Type": "Grande École — Political Science",
+  "About": "On peut faire ses études à Sciences Po après le Baccalauréat, après une licence, un master, ou pour y préparer un concours. On peut s'y former après une ou plusieurs années d’expérience professionnelle.",
+  "Philosophy": "L’admission en double diplôme est gérée conjointement par Sciences Po et l’université partenaire. Selon chaque programme, les élèves intéressés doivent se porter candidats soit via Parcoursup, soit via le portail de Sciences Po ou via le site de l’université partenaire.",
+  "Outcomes": "Accessible à partir du baccalauréat (ou son équivalent à l’étranger), le Collège universitaire de Sciences Po propose une formation de premier cycle qui se déroule en trois ans (ou quatre ans pour les doubles diplômes) sur l’un des sept campus de l’établissement. Elle permet d’obtenir un diplôme de bachelor (Bac +3).",
+  "Admissions": "Nos procédures d’admission donnent leur chance aux meilleurs talents. Les candidats ont l’opportunité de se présenter, d’exprimer leur motivation et leurs objectifs académiques et professionnels, et de mettre en avant leurs qualités.",
+  "Quote": "Accédez aux différents outils numériques mis à votre disposition pour répondre à vos besoins. Obtenez les informations et l'aide nécessaires pour en faire un usage optimisé.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "Accédez aux différents outils numériques mis à votre disposition pour répondre à vos besoins. Obtenez les informations et l'aide nécessaires pour en faire un usage optimisé.",
+    "Student Wellbeing": "Elles proposent plus de 200 activités, dans plus de 60 disciplines sportives et artistiques. Les étudiantes et étudiants de Sciences Po ont ainsi la possibilité de participer à de nombreuses compétitions sportives, de découvrir ou approfondir leurs envies de théâtre, de chant, de musique, d’écriture ou de cinéma dans les ateliers culturels et troupes étudiantes, sans oublier les activités de bien-être pour prendre soin de soi et de sa santé mentale.",
+    "Competitive Pathway": "Compétitions sportives, festivals, concours d’art oratoire, semaines thématiques, créations et expositions : plus de 2 000 événements associatifs font vibrer les campus tous les jours !",
+    "Facilities & Resources": "Culture, environnement, éducation, solidarité, découverte, réflexions et débats : tels sont les domaines dans lesquels près de 400 associations agissent au quotidien sur l’ensemble de nos sept campus.",
+    "Coaching Credentials": "Sciences Po Paris employs a diverse faculty with extensive expertise in political science, international relations, and public policy. Many professors hold advanced degrees and have significant experience in academia, government, or international organizations.",
+    "Ongoing Accountability": "Sciences Po Paris utilizes a continuous assessment system with regular feedback through tutorials and seminars. Students receive detailed progress reports and personalized guidance to ensure academic success and skill development."
+  },
+  "URL": "https://sciencespo.fr",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://sciencespo.fr/fr/static/96ac584dfe48b23e582759ee0960eea6/8dbcc/assemblee_nationale_concours_administratifs_2026_sciencespo_675459e478.jpg",
+    "https://sciencespo.fr/fr/static/7669812ee67573aca36e258ccf3dc61f/baaed/sciencespo_welcome_programme_2016_000_f3e216a458.jpg",
+    "https://www.sciencespo.fr/fr/static/81090a5632d4a60d9b8b6bb6ffe5bd2f/78f42/sciencespo_bandeau_amphi_11_0bec31f63e.jpg",
+    "https://sciencespo.fr/fr/static/503a983128a5d2d0ebed162d768d6637/e49ee/New_Praticesofjournalism_5december2022_journalism_sciencespo_f324d52d04.jpg",
+    "https://sciencespo.fr/fr/static/b73c6c6a79875cb3bd5154038f8d248b/1e618/00203190_52243c095b.jpg",
+    "https://sciencespo.fr/fr/static/56421917d31b31dd0f51d1a131f46a2c/6c9d4/sciencespo_jpo_bachelor_campus_1_1_cf14792263.png",
+    "http://www.sciencespo.fr/api/portal/uploads/vignette_guide_premiers_pas_numeriques_446e515d6c.png",
+    "https://sciencespo.fr/fr/static/f60a7aab415322cb848362cfe042022d/3bda7/sciencespo_cta_27_rsg_1_darkred_70bc625019.jpg",
+    "https://sciencespo.fr/fr/static/e8813c199c6d4878d6d9086af8e46120/1e618/sciencespo_reims_cours_pelopidas_001_b5519e599d.jpg",
+    "https://sciencespo.fr/fr/static/057a1173cce7e5f41610b5bc047412dd/36466/Sciences_Po_21997_jpg_crop_display_0_012f440bc0.jpg"
+  ]
+}

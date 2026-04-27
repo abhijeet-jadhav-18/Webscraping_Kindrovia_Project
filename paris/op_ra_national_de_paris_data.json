@@ -1,0 +1,40 @@
+{
+  "Name": "Opéra national de Paris",
+  "Tagline": "Le Palais Garnier et l’Opéra Bastille. Programmation, Billetterie, Informations pratiques.",
+  "Founded": "1669",
+  "City": "Paris, France",
+  "Ages": "All ages",
+  "Students": "Approximately 800,000 visitors annually",
+  "Ratio": "N/A",
+  "Fees": "300€",
+  "Type": "National Opera & Ballet Company",
+  "About": "Pour assister à une représentation scolaire de la programmation Jeune Public, nous vous invitons à compléter le formulaire de demandes d'options ci-dessous : Jeu. 20 mars 2026 14:00 Je souhaite également recevoir des informations spécifiques sur : En cliquant sur “s’inscrire”, vous acceptez de recevoir par voie électronique les communications de l’Opéra national de Paris et le traitement de vos données.En savoir plus sur la gestion de vos données et vos droits.",
+  "Philosophy": "L’Opéra national de Paris a pour mission de rendre accessible au plus grand nombre les œuvres du patrimoine lyrique et chorégraphique, de favoriser la création et la représentation d’œuvres contemporaines, de contribuer à la formation professionnelle et au perfectionnement des chanteurs et des danseurs.",
+  "Outcomes": "The Opéra national de Paris is renowned for its exceptional productions, earning international acclaim and numerous awards. It has also contributed to the professional development of many artists who have achieved significant success in the global opera and ballet scene.",
+  "Admissions": "L’Opéra national de Paris a obtenu les labels « diversité » et « égalité professionnelle entre les femmes et les hommes » et s’engage quotidiennement dans leur mise en œuvre. Engagé en faveur de l'égalité des chances, l’Opéra national de Paris est ouvert aux candidatures de personnes en situation de handicap.",
+  "Quote": "In the heart of Paris, where tradition meets innovation, we inspire through the timeless art of opera and ballet.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The Opéra national de Paris employs renowned maestros and choreographers with decades of experience and international certifications, specializing in classical and contemporary opera and ballet techniques.",
+    "Student Wellbeing": "The institution offers comprehensive support through dedicated counselling services and wellness programs, ensuring the emotional and physical health of its students and performers is prioritized.",
+    "Academic Integration": "The curriculum includes specialized courses in vocal performance, choreography, and stagecraft, employing a blend of traditional and innovative teaching methods to cultivate artistic excellence.",
+    "Competitive Pathway": "Graduates have joined prestigious international companies and won major competitions, reflecting the institution's commitment to fostering world-class talent in opera and ballet.",
+    "Facilities & Resources": "The Opéra national de Paris boasts state-of-the-art rehearsal studios, a historic opera house, and advanced stage technology, providing an inspiring environment for artistic creation.",
+    "Ongoing Accountability": "Regular performance evaluations and personalized feedback sessions ensure continuous improvement, with progress reports shared with students and stakeholders to maintain high standards."
+  },
+  "URL": "https://operadeparis.fr",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://img.youtube.com/vi/zrWZDUZs1-o/maxresdefault.jpg",
+    "https://res.cloudinary.com/opera-national-de-paris/image/upload/v1761242020/user_photos/acmyvvvv9bjdssgbjfdc.jpg",
+    "https://res.cloudinary.com/opera-national-de-paris/image/upload/c_crop%2ch_1406%2cw_2496%2cx_4%2cy_0/w_1024/f_auto/v1/academy/vivxky1gpsiuwrv62isw",
+    "https://img.youtube.com/vi/D4OEXaz789s/maxresdefault.jpg",
+    "https://img.youtube.com/vi/ue5ckDMxgSo/maxresdefault.jpg",
+    "https://img.youtube.com/vi/IadqNsk-TRE/maxresdefault.jpg",
+    "https://img.youtube.com/vi/MNOcjDKu4I8/maxresdefault.jpg",
+    "https://img.youtube.com/vi/j-eM1ZNUJFM/maxresdefault.jpg",
+    "https://img.youtube.com/vi/ldgAMxGrkOY/maxresdefault.jpg",
+    "https://axeptio.imgix.net/2021/04/652c4285-2c52-4b58-9ca9-f27903d442ff.jpg?auto=format&fit=crop&w=35&h=auto&dpr=3"
+  ]
+}

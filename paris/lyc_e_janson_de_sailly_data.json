@@ -1,0 +1,40 @@
+{
+  "Name": "Lycée Janson de Sailly",
+  "Tagline": "lycée janson de sailly - Paris. Collège, Lycée, CPGE",
+  "Founded": "1884",
+  "City": "Paris, France",
+  "Ages": "11–18",
+  "Students": "3500",
+  "Ratio": "1:15",
+  "Fees": "See website",
+  "Type": "Lycée with Classes Préparatoires",
+  "About": "Alexandre-Emmanuel-François Janson de Sailly, est né le 26 juin 1785. Après des études brillantes, il devient avocat en 1806 et épouse en 1809 Joséphine Berryer, fille d’une famille de magistrats célèbres.",
+  "Philosophy": "Cette même année, il fait un testament dans lequel il récuse tous les legs antérieurs faits à sa femme, puis en 1828, tous ceux faits en faveur de ceux qui l’ont « successivement tourmenté, abandonné et trahi ». Il abandonne l’essentiel de sa fortune à l’Université, – « tous les deniers libres provenant de ma succession »- , « laquelle voudra bien créer à Paris une institution sous le nom de Collège Janson où des jeunes gens distingués par leur amour filial et âgés de moins de douze ans recevront l’éducation des humanités ».",
+  "Outcomes": "Le collège Janson de Sailly accueille sur deux sites près de 1500 élèves répartis dans 48 divisions de la 6ème à la 3ème. C’est le plus important de l’académie de Paris du point de vue des effectifs.",
+  "Admissions": "To apply to Lycée Janson de Sailly, prospective students must submit an application through the official website. The process includes academic records and is typically conducted in the spring for the following academic year.",
+  "Quote": "Cultivating excellence and integrity, we prepare minds for a future of informed leadership and innovation.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "Les CPE sont responsables du service de vie scolaire qu’elles animent et organisent par délégation du Chef d’établissement. Leur mission principale est de placer les élèves dans les meilleures conditions de vie scolaire et de travail.",
+    "Academic Integration": "L’équipe de la vie scolaire, composée des CPE et des AED, assurent le suivi collectif et individuel de l’ensemble des élèves, notamment de ceux en difficulté. Elle est au centre de l’établissement, en relation avec l’ensemble des partenaires éducatifs, tant internes qu’externes.",
+    "Coaching Credentials": "Lycée Janson de Sailly's faculty includes many agrégés, a prestigious teaching qualification in France, ensuring high-level expertise. Teachers often have advanced degrees and extensive experience in their respective fields.",
+    "Competitive Pathway": "Graduates frequently gain admission to top French grandes écoles, such as École Polytechnique and HEC Paris. The lycée consistently ranks among the top in national academic competitions and university entrance exams.",
+    "Facilities & Resources": "The campus boasts state-of-the-art science laboratories, a modern library, and a fully equipped auditorium for cultural events. Sports facilities include a gymnasium and outdoor athletic fields for student use.",
+    "Ongoing Accountability": "Student progress is tracked through regular assessments and detailed progress reports sent to parents. The school employs a robust feedback system to ensure continuous academic and personal development."
+  },
+  "URL": "https://janson-de-sailly.fr",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2017/06/comp2017-06-22-19.44.08-576x1024.jpg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2022/09/image00008-1024x768.jpeg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2022/02/20220127_114534-1-1024x768.jpg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2022/09/image00019-533x400.jpeg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2017/03/janson_phrase06-600x38.png",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2019/05/DSC_0111.jpg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2022/02/20220127_114034-2-768x1024.jpg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2022/09/image00020-533x400.jpeg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2022/09/image00023-1024x768.jpeg",
+    "https://www.janson-de-sailly.fr/wp-content/uploads/2017/02/college_retauration2.jpg"
+  ]
+}

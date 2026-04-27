@@ -1,0 +1,32 @@
+{
+  "Name": "PSG Academy",
+  "Tagline": "Presentation of PSG Academy: training programs, methodology, and commitment to developing young talents.",
+  "Founded": "2005",
+  "City": "Paris, France",
+  "Ages": "4–17",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Football Academy",
+  "About": "PSG Academy is dedicated to nurturing young football talents through comprehensive training programs. It combines world-class coaching with a commitment to personal development, fostering both athletic and academic excellence.",
+  "Philosophy": "The academy emphasizes a holistic approach to player development, focusing on technical skills, tactical understanding, and character building. It integrates PSG's professional methodologies to cultivate well-rounded athletes ready for competitive football.",
+  "Outcomes": "Graduates of PSG Academy have successfully transitioned to professional football careers and prestigious university programs. The academy's alumni include players who have represented national teams and achieved significant accolades in the sport.",
+  "Admissions": "Prospective students can apply through the PSG Academy website, where they must complete an application form and attend a trial session. Admissions are based on talent, potential, and a passion for football, with selections made annually.",
+  "Quote": "Empowering future champions through passion, discipline, and unity, nurturing talent to shine on and off the field.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "At Paris Saint-Germain Academy, we apply the same playing philosophy, training methodology, and core values that are the foundation of the club’s Youth Academy. Our coaches are dedicated to developing creative, intelligent, and unpredictable players who can understand the game and make decisions independently.",
+    "Student Wellbeing": "PSG Academy provides dedicated counselling services and pastoral care to support students' mental and emotional wellbeing. Regular workshops and community-building activities foster a supportive environment for holistic development.",
+    "Academic Integration": "The academy offers a tailored curriculum that integrates football training with academic coursework, ensuring students receive a balanced education. Specialized courses in sports science and management complement traditional subjects for comprehensive learning.",
+    "Competitive Pathway": "Alumni of PSG Academy have progressed to top-tier clubs and universities, with many representing national teams. The academy boasts a high success rate in transitioning players to professional football careers.",
+    "Facilities & Resources": "PSG Academy features state-of-the-art training fields and a fully equipped sports complex, including fitness centers and recovery suites. These facilities provide an optimal environment for athletic and personal development.",
+    "Ongoing Accountability": "Regular progress reports and parent-teacher meetings ensure transparent communication and track student development. The academy employs a robust assessment system to evaluate both athletic and academic performance continuously."
+  },
+  "URL": "https://www.psg.fr/en/psg-academy",
+  "ImageCount": 2,
+  "ImageURLs": [
+    "https://media.psg.fr/image/upload/w_1200,c_fill,g_auto/f_avif/header-presentation-academy_f3u6wl",
+    "https://media.psg.fr/image/upload/w_1200,c_fill,g_auto/f_avif/hero-programme_xsaxfb"
+  ]
+}

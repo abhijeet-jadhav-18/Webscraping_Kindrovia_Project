@@ -1,0 +1,40 @@
+{
+  "Name": "Collège-Lycée Stanislas",
+  "Tagline": "Le collège Stanislas est un établissement privé catholique sous contrat d'association avec l'État fondé en 1804 par l'abbé Claude Rosalie Liautard.",
+  "Founded": "1804",
+  "City": "Paris, France",
+  "Ages": "3–18",
+  "Students": "4000",
+  "Ratio": "1:12",
+  "Fees": "€10,000–€15,000 per year",
+  "Type": "Catholic Independent School",
+  "About": "L’établissement s’articule en quatre unités, associées à l’État par contrat : La formation pédagogique de Stanislas est vivante : elle est le fruit de l’expérience des éducateurs laïcs et des prêtres au service des élèves de Stanislas. L’objectif est de préparer nos élèves à leur mission d’adulte et de les rendre libres et responsables.",
+  "Philosophy": "La formation pédagogique de Stanislas est vivante : elle est le fruit de l’expérience des éducateurs laïcs et des prêtres au service des élèves de Stanislas.",
+  "Outcomes": "Vous souhaitez que votre enfant suive ses études au collège de Stanislas. Nous vous remercions de la confiance que vous exprimez ainsi à notre établissement, et de l’intérêt que vous portez à notre Projet Educatif.",
+  "Admissions": "To apply to Collège-Lycée Stanislas, complete the online application form available on their website. Admission decisions are based on academic records, entrance exams, and interviews, with applications typically due by early spring.",
+  "Quote": "Nurturing minds and spirits, we guide each student toward a purposeful and enlightened adulthood.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "Situé au cœur de Paris dans le sixième arrondissement, Stanislas est accessible par de multiples lignes de métro et bus. De plus, la gare Montparnasse n’est qu’à dix minutes à pied.",
+    "Facilities & Resources": "Avec presque trois hectares de terrain, Stanislas fait bénéficier à ses élèves d’une véritable « ville dans la ville ». Les cours de récréations sont nombreuses et agrémentées d’espaces verts.",
+    "Coaching Credentials": "Inspiré par la rencontre du désir de professeurs de Stanislas de partager leurs connaissances et leur passion pour leur enseignement et de notre besoin de nous former constamment comme parents ou éducateurs, le Centre Culturel de Stanislas propose cette année un ensemble de conférences sur le thème de la Relation, ainsi que des conférences de culture générale, d’art, de thèmes sur l’éducation et la transmission de la foi en lien avec la Pastorale et l’APEL.",
+    "Competitive Pathway": "Attention : les élèves qui préparent leur Première communion dans l’année ne peuvent participer au multisport.",
+    "Ongoing Accountability": "Mieux se connaître, s’ouvrir aux autres, s’affirmer dans le respect d’autrui, ce travail sur soi, pour progresser, est en fait l’itinéraire de toute une vie. Il peut débuter dès le plus jeune âge (4 ans) par une pédagogie adaptée.",
+    "Student Wellbeing": "Collège-Lycée Stanislas offers a comprehensive pastoral care program, integrating both lay educators and clergy to support students' mental and emotional wellbeing. Regular counseling sessions and advisory meetings ensure personalized guidance for each student's development."
+  },
+  "URL": "https://stanislas.fr",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.stanislas.fr/wp-content/uploads/2023/07/l-etablissement-presentation-768x512.jpg",
+    "https://www.stanislas.fr/wp-content/uploads/2023/07/college-768x512.jpg",
+    "https://www.stanislas.fr/wp-content/uploads/2026/03/img-0735-429x272.jpg",
+    "https://www.stanislas.fr/wp-content/uploads/2023/10/masonry-2.jpeg",
+    "https://www.stanislas.fr/wp-content/uploads/2023/07/centre-sportif-de-stanislas.jpeg",
+    "https://www.stanislas.fr/wp-content/uploads/2023/04/masonry-2.png",
+    "https://www.stanislas.fr/wp-content/uploads/2023/09/bandeau-vie-culturelle-et-sportive.jpeg",
+    "https://www.stanislas.fr/wp-content/uploads/2023/07/l-histoire-de-stanislas.jpeg",
+    "https://www.stanislas.fr/wp-content/uploads/2023/07/college.jpg",
+    "https://www.stanislas.fr/wp-content/uploads/2023/07/vie-culturelle.jpeg"
+  ]
+}

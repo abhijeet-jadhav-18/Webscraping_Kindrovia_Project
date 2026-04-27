@@ -1,0 +1,40 @@
+{
+  "Name": "Château de Breteuil",
+  "Tagline": "Le château de Breteuil fait revivre le quotidien d’une famille au coeur de l’histoire de France. Le parc de 75 ha inclut plusieurs jardins qui plairont à tous.",
+  "Founded": "1712",
+  "City": "Choisel, France",
+  "Ages": "All ages",
+  "Students": "Approximate annual visitors: 100,000",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Heritage & Cultural Site",
+  "About": "Breteuil est bâti sur un promontoire dominant la vallée de Chevreuse. Le lieu porte le nom de Bevilliers en souvenir des deux villas (fermes) qui auraient été construites sur le site à l’époque gallo-romaine.",
+  "Philosophy": "Château de Breteuil offers an immersive experience into French history and culture, emphasizing interactive learning through storytelling and exploration of its extensive gardens and historical exhibits.",
+  "Outcomes": "Visitors gain a deeper understanding of French heritage and history, with many leaving inspired by the beautifully preserved architecture and the engaging tales of historical figures associated with the château.",
+  "Admissions": "Visitors can explore Château de Breteuil by purchasing tickets online or at the entrance. Group tours and educational programs are available, with prior booking recommended for a more tailored experience.",
+  "Quote": "Embrace the legacy of the past to illuminate the path of the future atop Chevreuse's heights.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The Château de Breteuil employs historians and cultural educators with extensive experience in French heritage, many holding advanced degrees in history or related fields. Their expertise ensures engaging and informative storytelling sessions for visitors.",
+    "Student Wellbeing": "Château de Breteuil offers guided tours that foster a sense of community and encourage emotional connection to history. Interactive storytelling and garden exploration provide a relaxing and educational environment for all ages.",
+    "Academic Integration": "The Château offers specialized programs that integrate French history with interactive exhibits, emphasizing experiential learning. Educational workshops focus on historical storytelling, enhancing visitors' understanding of cultural narratives.",
+    "Competitive Pathway": "Visitors often leave with enriched historical knowledge, inspiring further academic pursuits in history or cultural studies. The Château's programs have been praised for sparking interest in heritage conservation careers.",
+    "Facilities & Resources": "Château de Breteuil boasts beautifully maintained gardens and historical exhibits, including period-specific rooms and interactive displays. The estate offers ample space for educational activities and immersive cultural experiences.",
+    "Ongoing Accountability": "Visitor feedback is actively sought through surveys to continuously enhance the educational experience. Regular assessments of tour content ensure historical accuracy and visitor engagement remain high."
+  },
+  "URL": "https://breteuil.fr",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.breteuil.fr/wp-content/uploads/2021/03/chateaudebreteuil-louis-auguste-baron-breteuil.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2021/02/jardindebreteuil-parterre-nord-panoramique-miroir.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2021/02/chateaudebreteuil-armoiries-breteuil-nec-spec-nec-metu-300x300.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2021/02/chateaudebreteuil-collier-de-la-reine.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2021/03/chateaudebreteuil-gabrielle-anne-de-breteuil-768x960.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2020/11/breteuil_conteuse.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2021/02/chateaudebreteuil-collier-de-la-reine-768x768.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2021/03/chateaudebreteuil-pot-punch-768x512.jpg",
+    "https://www.breteuil.fr/wp-content/uploads/2021/03/chateaudebreteuil-jardin-remarquable.png",
+    "https://www.breteuil.fr/wp-content/uploads/2026/01/chateaubreteuil-grenouillere_Photo-Chateau-de-Breteuil-2.jpg"
+  ]
+}

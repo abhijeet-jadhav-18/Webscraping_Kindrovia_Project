@@ -1,0 +1,40 @@
+{
+  "Name": "RYE — Réseau Yoga Éducation",
+  "Tagline": "Créée en 1978, l'association RYE (Recherche sur le Yoga dans l'Éducation) est organisme de formation spécialisé en yoga enfant et yoga ado. Elle a déjà formé plus de 14000 professionnels des domaines",
+  "Founded": "1978",
+  "City": "Paris, France",
+  "Ages": "All ages",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Yoga Education Organisation",
+  "About": "La charte du RYE donne un cadre précis à la transmission du yoga et de la relaxation aux enfants et adolescents, et garantit le principe de la laïcité. Elle est commentée et remise à chaque stagiaire lors des sessions de formation.",
+  "Philosophy": "RYE — Réseau Yoga Éducation emphasizes integrating yoga and relaxation techniques into educational settings to enhance students' well-being and focus. The approach is rooted in secular principles, ensuring accessibility and inclusivity for all participants.",
+  "Outcomes": "Vous êtes de plus en plus nombreux à nous solliciter pour développer des projets de yoga dans l’éducation à destination des élèves et / ou des enseignants. L’annuaire des certifiés RYE de formation approfondie répertorie les personnes ayant leur certificat RYE de formation approfondie et étant en capacité de faire des interventions de yoga dans l’éducation à destination des élèves.",
+  "Admissions": "To enrol at RYE, prospective participants should visit the website for detailed information on available courses and registration timelines. Applicants are typically required to have a background in education or a related field.",
+  "Quote": "Empower young minds through mindful movement, fostering peace and focus while honoring the spirit of secular education.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "RYE instructors hold advanced certifications in yoga education and possess extensive experience in integrating yoga into school curriculums, specializing in child and adolescent development.",
+    "Student Wellbeing": "RYE offers personalized support through workshops and group sessions, focusing on stress management and emotional resilience to enhance students' overall wellbeing.",
+    "Academic Integration": "The RYE curriculum includes specialized modules on mindfulness and relaxation techniques, designed to complement traditional educational subjects and improve students' concentration and learning outcomes.",
+    "Competitive Pathway": "Graduates of RYE programs have successfully implemented yoga projects in schools, receiving recognition for enhancing student engagement and contributing to positive educational environments.",
+    "Facilities & Resources": "RYE's facilities include dedicated yoga studios equipped with mats and props, providing an optimal environment for practice and learning.",
+    "Ongoing Accountability": "RYE tracks progress through regular feedback sessions and detailed progress reports, ensuring continuous improvement and effective communication with participants."
+  },
+  "URL": "https://rye-yoga.fr/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://rye-yoga.fr/uploads/images/slides/SLIDES_NosActualites3.jpg",
+    "https://rye-yoga.fr/uploads/images/thematiques/RESSOURCES_Bienvenue.jpg",
+    "https://rye-yoga.fr/uploads/images/references/Condorcet.png",
+    "https://rye-yoga.fr/uploads/images/slides/SLIDES_NosActualitesF.jpg",
+    "https://rye-yoga.fr/uploads/interface/images/rs/instagram.png",
+    "https://rye-yoga.fr/uploads/images/references/Pompidou.png",
+    "https://rye-yoga.fr/uploads/images/references/FFHY2000.png",
+    "https://rye-yoga.fr/uploads/images/references/universite-paris-saclay.png",
+    "https://rye-yoga.fr/uploads/images/slides/SLIDES_NosFormations3.jpg",
+    "https://rye-yoga.fr/uploads/images/references/unesco.png"
+  ]
+}

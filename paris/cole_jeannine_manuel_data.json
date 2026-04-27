@@ -1,0 +1,40 @@
+{
+  "Name": "École Jeannine Manuel",
+  "Tagline": "École Jeannine Manuel is a French bilingual and international school with campuses in Paris and Lille. It welcomes students from nursery to 12th grade.",
+  "Founded": "1954",
+  "City": "Paris, France",
+  "Ages": "3–18",
+  "Students": "2200",
+  "Ratio": "1:8",
+  "Fees": "€15,000–€25,000 per year",
+  "Type": "Bilingual International School",
+  "About": "After joining the French Resistance and becoming a member of the London Free French in 1940, Jeannine Manuel returned to France for the Liberation of Paris in August 1944. She returned firmly convinced that ignorance breeds fear and that fear is the root cause of human conflict.",
+  "Philosophy": "Learning is the lifelong transformation of our representations of the world. It occurs through :• actively processing of one’s own knowledge and experience • exchanging and confronting one’s ideas with teachers, peers and the larger community• building and reinforcing one’s own analytic tools and ability for critical thinking.",
+  "Outcomes": "Students finish their secondary studies by either sitting the French International Baccalaureate (BFI) or the International Baccalaureate (IB), two diplomas recognized by prestigious universities around the world. Each year, our students achieve excellent results that testify to their hard work.",
+  "Admissions": "École Jeannine Manuel is among the top schools in France in terms of overall academic performance and our graduates are consistently accepted at prestigious colleges and universities. Consequently, admission is competitive and each year the Admissions Committee must deny admission to many bright, talented applicants whom the school would very much like to welcome if it had the space to do so.",
+  "Quote": "Fostering understanding and unity through bilingual education to build a world where knowledge conquers fear.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Facilities & Resources": "The two campuses on Rue du Théâtre welcome students from CE2 to Terminale. You can visit the campus on 70 Rue du Théâtre by booking a Campus Tour.",
+    "Academic Integration": "At the secondary level, many extracurricular activities are organized by the school’s Sports & Cultural Association. These include coding, theater, yoga, photography, hip-hop, jazz dance, robotics, as well as sports (basketball, football, rock climbing, etc.).",
+    "Coaching Credentials": "Teachers at École Jeannine Manuel possess advanced degrees and are often certified in bilingual education, with many having international teaching experience. They specialize in fostering critical thinking and cross-cultural understanding.",
+    "Student Wellbeing": "École Jeannine Manuel offers comprehensive counseling services and a robust advisory program to support students' emotional and mental health. Regular workshops and community events promote a balanced and inclusive school environment.",
+    "Competitive Pathway": "Graduates of École Jeannine Manuel consistently gain admission to top universities worldwide, including Ivy League institutions and Oxbridge. Students achieve high scores in the International Baccalaureate and French Baccalaureate exams annually.",
+    "Ongoing Accountability": "The school employs a rigorous assessment system with regular progress reports and parent-teacher conferences. Continuous feedback ensures personalized learning plans and tracks student development effectively."
+  },
+  "URL": "https://ecolejeanninemanuel.org/en/home/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2019/10/ecole-jeannine-manuel-paris-securite-et-wellbeing-900-500.jpg",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2019/10/histoire-de-l-ecole-jeannine-manuel-01.png",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2019/10/ecole-jeannine-manuel-suffren-exterieur-900-500.jpg",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2020/03/200305-admissions-londres-500x500px.jpg",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2020/08/ecole-jeannine-manuel-univers-multiculturel-900-1200.png",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2020/03/200305-admissions-lille500x500px.jpg",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2019/10/ecole-jeannine-manuel-paris-vision-1200-800.jpg",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2019/10/ecole-jeannine-manuel-projet-1200-1200.jpg",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2020/03/200305-une-equipe-formidable-900x1200px.jpg",
+    "https://ecolejeanninemanuel.org/wp-content/uploads/2018/11/cobis.jpg"
+  ]
+}

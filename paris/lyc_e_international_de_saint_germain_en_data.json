@@ -1,0 +1,40 @@
+{
+  "Name": "Lycée International de Saint-Germain-en-Laye",
+  "Tagline": "Établissement public de l'Éducation Nationale, le Lycée International accueille de la Maternelle à la Terminal, répartis dans 14 sections étrangères.",
+  "Founded": "1952",
+  "City": "Saint-Germain-en-Laye, France",
+  "Ages": "3–18",
+  "Students": "4000",
+  "Ratio": "1:15",
+  "Fees": "See website",
+  "Type": "International Lycée",
+  "About": "Le Lycée International offre une formation plurilingue où chaque élève est scolarisé dans l’établissement français où il suit l’enseignement national et celui d’une des quatorze sections internationales. Cette spécificité d’enseignement implique un processus d’admission particulier.",
+  "Philosophy": "Que vous soyez élèves, parents actuels ou futurs, enseignants actuels ou futurs, nous espérons que vous y trouverez les informations que vous cherchez ! Tous les points évoqués rapidement sont développés dans chacune des rubriques du site et nous restons à votre disposition pour d’autres renseignements si nécessaire !",
+  "Outcomes": "Lycée International de Saint-Germain-en-Laye boasts a high success rate in the French Baccalaureate, with many students gaining admission to prestigious universities worldwide, including Oxford, Cambridge, and top French Grandes Écoles.",
+  "Admissions": "Admission to Lycée International de Saint-Germain-en-Laye involves an application process that includes language proficiency tests and interviews. Applications are typically submitted in the spring for enrollment in the following academic year.",
+  "Quote": "Embrace a world of languages and cultures, where diverse minds unite to shape a global future.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "Le cours d’arts plastiques permet d’acquérir un regard sensible et critique. C’est en pratiquant plastiquement que l’élève comprend et apprend.Lors des temps de pratique, les élèves expérimentent des médiums variés : des techniques artistiques traditionnelles aux nouvelles technologies utilisant le numérique.L’enseignement des arts plastiques résulte d’un dialogue entre pratique plastique et culture artistique.",
+    "Competitive Pathway": "L’enseignement des arts plastiques au lycée prépare aux épreuves du Baccalauréat de l’option arts plastiques. Dit « Option art : Arts plastiques », l’enseignement est proposé dès la Seconde au Lycée International.",
+    "Coaching Credentials": "Tout au long de la scolarité au Collège International, l’Education Physique et Sportive contribue à former un citoyen lucide et autonome, physiquement et socialement éduqué, dans le souci du vivre ensemble. Pour ce faire, les professeurs proposent aux élèves de vivre des expériences riches et variées grâce à une programmation diversifiée d’activités physiques.",
+    "Student Wellbeing": "Lycée International de Saint-Germain-en-Laye offers a comprehensive pastoral care program, including access to professional counselors and regular advisory sessions. The school fosters a supportive community through peer mentoring and wellness workshops.",
+    "Facilities & Resources": "The campus features state-of-the-art science laboratories, a well-equipped theatre, and extensive sports facilities, including a swimming pool and multiple athletic fields. Modern language labs support the school's multilingual curriculum.",
+    "Ongoing Accountability": "Regular progress reports and parent-teacher meetings ensure continuous monitoring of student development. The school employs a robust assessment system to provide detailed feedback and support personalized learning pathways."
+  },
+  "URL": "https://lycee-international-stgermain.com/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://lycee-international-stgermain.com/wp-content/uploads/2021/11/homefond-scaled.jpg",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2026/04/Rencontre-eleves-germanistes-1--768x512.jpg",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2026/03/affiche-Eira-768x512.jpg",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2019/05/Fichier-6@3x.png",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2020/03/LI-du-bilinguisme-au-plurilinguisme.jpg",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2024/01/Projet-cartes-allemand-1-1024x569.jpg",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2020/03/arton479-24ca0-1.jpg",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2026/04/Rencontre-eleves-germanistes-1--1152x768.jpg",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2020/01/Fichier-4@2x-2048x2048.png",
+    "https://lycee-international-stgermain.com/wp-content/uploads/2025/07/Capture.jpg"
+  ]
+}

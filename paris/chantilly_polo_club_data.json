@@ -1,0 +1,40 @@
+{
+  "Name": "Chantilly Polo Club",
+  "Tagline": "En poursuivant votre navigation sur www.",
+  "Founded": "1898",
+  "City": "Chantilly, France",
+  "Ages": "All ages",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Equestrian & Polo Club",
+  "About": "Chantilly Polo Club, established in 1898, is a premier destination for equestrian and polo enthusiasts in France. It offers a unique blend of tradition and modernity, hosting international tournaments and providing top-notch facilities for players of all levels.",
+  "Philosophy": "The club emphasizes the importance of sportsmanship, skill development, and a deep respect for the equestrian tradition. It fosters a community where members can learn and grow through personalized coaching and a supportive environment.",
+  "Outcomes": "Chantilly Polo Club has produced numerous skilled players who have excelled in national and international competitions. Its commitment to excellence ensures that members achieve personal growth and competitive success in the sport.",
+  "Admissions": "To join Chantilly Polo Club, prospective members should visit the club's website for detailed application procedures and timelines. Requirements typically include an interest in polo or equestrian activities and a commitment to the club's values.",
+  "Quote": "Where tradition meets elegance, we unite passion and precision to elevate the spirit of equestrian excellence.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Chantilly Polo Club's coaches are certified by the French Polo Federation and have extensive international playing experience. They specialize in personalized training programs tailored to enhance individual skills and team dynamics.",
+    "Student Wellbeing": "The club offers a comprehensive support system, including access to sports psychologists and wellness workshops. Regular community events foster a sense of belonging and emotional resilience among members.",
+    "Academic Integration": "Chantilly Polo Club integrates equestrian studies with practical polo training, offering workshops on horse care and management. Members can earn certifications in equestrian disciplines recognized by national sports authorities.",
+    "Competitive Pathway": "Members frequently achieve top rankings in national and international polo tournaments. The club's alumni have successfully transitioned to professional polo careers and prestigious equestrian universities.",
+    "Facilities & Resources": "The club boasts state-of-the-art polo fields, a dedicated equestrian arena, and modern stabling facilities. Additional amenities include a clubhouse with meeting rooms and a fitness center for comprehensive training.",
+    "Ongoing Accountability": "Progress is tracked through regular performance evaluations and personalized feedback sessions. The club maintains open communication with members and parents via detailed progress reports and scheduled consultations."
+  },
+  "URL": "https://www.poloclubchantilly.com/home",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/54751d06-e7e6-487c-96e9-c9f640afb57f/PCDC_BANNIERES_2024_m%C3%A9dia.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1487365119815-UDBIYMFGICDECVFC1WNM/L-Eperon.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1487365120631-5RLNR7VEPS57G9IN3VRN/AFP.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1487365118038-LDZ1CZPXX1CLWB7B62GE/Oise-Hebdo.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1487365118571-BS1L9FBI1PEBHF4DHLJ1/Le-Parisien.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1487365119221-DGBR84CJMU3HHOEA54BY/L-Express-magazine.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1cbdf531-86fa-4a31-b25d-59713e674c85/PCDC_BANNIERES_2024_PARTENAIRES_EQUIPES.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1487365119961-JFJWWILYPJ1KZKR5T0P6/Grand-Prix-magazine.png",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/54751d06-e7e6-487c-96e9-c9f640afb57f/PCDC_BANNIERES_2024_m%C3%A9dia.png?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/585e652a5016e161400fb579/1487365119495-OWOO4NQ14SZQI5CW0W1B/L-Equipe.png"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "The Getty",
+  "Tagline": "Visiting information for our two Los Angeles locations: the Getty Center in Brentwood off the 405 and Getty Villa in Pacific Palisades off Pacific Coast Highway. Admission to both sites is always free",
+  "Founded": "1954",
+  "City": "Los Angeles, CA",
+  "Ages": "All ages",
+  "Students": "1,800,000 annual visitors",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Art Museum & Research Institution",
+  "About": "Dozens of adaptable resources for teaching and learning about conservation and cultural heritage management Databases, publications, and more tools for general or specialized research and study Search for books, journals, auction catalogs, archives, photographs, and digital formats Highlights of our archival holdings containing rare source materials related to art history and visual culture Research and databases of archival documents, sales catalogs, and public collections Resources by topic from our library and special collections holdings Access to an extensive collection of digitized art history texts from a range of institutions Rare source materials related to art history and visual culture Customized reference assistance for the specialized Conservation Collection Bringing the work of this groundbreaking Southern California architect to the broader public Creating civic dialogue around urgent problems of our time by examining past and present connections between art and science Increasing recognition and improving conservation of African American heritage through more inclusive and equitable preservation practices Reconsidering Van Gogh’s Irises through material analysis and advanced imaging to understand its history and help ensure its preservation We are pleased to invite submissions to the Getty Research Journal, an open-access publication presenting peer-reviewed articles on the visual arts of all cultures, regions, and time periods. Submissions are accepted through the journal’s portal on Scholastica on a rolling basis.",
+  "Philosophy": "The Getty fosters a deep understanding of art and cultural heritage through innovative exhibitions and conservation practices. It emphasizes interdisciplinary research and public engagement to connect art with contemporary issues.",
+  "Outcomes": "The Getty's initiatives have led to significant advancements in art conservation and increased public awareness of cultural heritage. Its research and publications are highly regarded in the academic and museum communities worldwide.",
+  "Admissions": "Admission to The Getty is free for all visitors, with advance reservations required for entry. Visitors can book tickets online through The Getty's website for both the Getty Center and Getty Villa.",
+  "Quote": "Through Getty Unshuttered, teen photographers are inspired to raise their voices for social good, transforming how we connect to ideas and each other.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "Getty supports K–12 educators by offering free professional learning, community events, and on-demand resources that spark creativity, strengthen teaching practice, and bring the power of art and ideas into the classroom.",
+    "Academic Integration": "Discover Art & Science resources to inspire student engagement through K–5 curriculum-aligned videos and activities that connect scientific concepts to works of art.",
+    "Coaching Credentials": "The Getty's staff includes renowned art historians and conservation experts with advanced degrees and extensive experience in their fields. Many are published authors and have received prestigious awards for their contributions to art and cultural heritage.",
+    "Competitive Pathway": "The Getty's research initiatives have led to groundbreaking conservation techniques adopted by major museums globally. Alumni often secure positions at leading cultural institutions and contribute to significant art historical scholarship and preservation projects.",
+    "Facilities & Resources": "The Getty boasts state-of-the-art conservation labs and expansive galleries showcasing world-class art collections. Its research library holds over a million volumes, offering unparalleled resources for art historical study and conservation science.",
+    "Ongoing Accountability": "The Getty employs rigorous peer review and evaluation processes for its research projects and publications. Regular public feedback sessions and expert panels ensure continuous improvement and accountability in its educational and conservation initiatives."
+  },
+  "URL": "https://www.getty.edu/visit/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.getty.edu/education/images/thumb_looking_learning_midhi.jpg",
+    "https://www.getty.edu/education/images/thumb_landscapes.jpg",
+    "https://www.getty.edu/education/images/sia_all_thumb4.jpg",
+    "https://www.getty.edu/education/images/thumb_mythology.jpg",
+    "https://media.getty.edu/iiif/image/2f22354d-48e7-487b-9f60-34fd88beb48d/0,59,1300,681/1300,681/0/default.jpg",
+    "https://www.getty.edu/education/images/thumb_expressing_emotions.jpg",
+    "https://media.getty.edu/iiif/image/8a201ed5-8e30-4ea6-af60-cbc83c9d84dc/95,246,3672,2065/1500,884/0/default.jpg",
+    "https://www.getty.edu/education/images/ancient_worlds.JPG",
+    "https://www.getty.edu/education/images/thumb_looking_learning_elem.jpg",
+    "https://www.getty.edu/education/images/thumb_aa.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Harvard-Westlake School",
+  "Tagline": "Harvard-Westlake School is an independent, co-educational college preparatory day school for grades 7-12, located on two campuses in the Los Angeles area.",
+  "Founded": "1900",
+  "City": "Los Angeles, CA",
+  "Ages": "7–12",
+  "Students": "1600",
+  "Ratio": "1:8",
+  "Fees": "$45,000/year",
+  "Type": "Independent High School",
+  "About": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+  "Philosophy": "Harvard-Westlake School emphasizes a rigorous academic curriculum combined with a commitment to character development and community engagement. The school fosters an environment where students are encouraged to explore their passions and develop critical thinking skills.",
+  "Outcomes": "Harvard-Westlake students consistently gain admission to top-tier universities, including Ivy League schools. The school boasts numerous accolades in academics, arts, and athletics, reflecting its commitment to excellence.",
+  "Admissions": "Prospective students must complete an online application, submit transcripts, and provide teacher recommendations. The admissions process includes interviews and standardized testing, with deadlines typically in early winter for the following academic year.",
+  "Quote": "Nurturing curiosity and integrity, we empower minds to lead with purpose and transform the world.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Harvard-Westlake School employs highly qualified educators, many holding advanced degrees and certifications in their respective fields. Faculty members often have extensive experience in both teaching and their specialized subject areas.",
+    "Student Wellbeing": "The school offers comprehensive counseling services and advisory programs to support student wellbeing. Regular community-building activities and a focus on inclusivity foster a supportive and nurturing environment.",
+    "Academic Integration": "The curriculum includes Advanced Placement courses and interdisciplinary programs that encourage critical thinking and creativity. Innovative teaching methods, such as project-based learning, are integrated to enhance student engagement.",
+    "Competitive Pathway": "Graduates frequently attend prestigious universities, including Ivy League institutions, with strong placements in STEM and humanities fields. Students achieve high rankings in national academic competitions, showcasing their exceptional talents.",
+    "Facilities & Resources": "The campus features state-of-the-art science labs, a performing arts theater, and an Olympic-sized swimming pool. These facilities support a wide range of extracurricular activities and academic pursuits.",
+    "Ongoing Accountability": "Regular progress reports and parent-teacher conferences ensure transparent communication about student development. The school utilizes a robust assessment system to track and enhance academic performance."
+  },
+  "URL": "https://hw.com/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://hw.com/assets/images/promos/commence.jpg",
+    "https://hw.com/assets/images/promos/chronicle.jpg",
+    "https://hw.com/portals/0/stackedcards/followyour-1.jpg",
+    "https://hw.com/portals/0/heroimages/hero-6.jpg",
+    "https://hw.com/assets/images/promos/academics.jpg",
+    "https://hw.com/assets/images/promos/media.jpg",
+    "https://hw.com/portals/0/heroimages/hero-9.jpg",
+    "https://www.hw.com/portals/0/images/social.jpg",
+    "https://hw.com/assets/images/promos/store.jpg",
+    "https://hw.com/portals/0/heroimages/hero-7.jpg"
+  ]
+}

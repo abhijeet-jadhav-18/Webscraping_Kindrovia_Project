@@ -1,0 +1,40 @@
+{
+  "Name": "Equinox Los Angeles",
+  "Tagline": "Join Equinox today and experience Expert Personal Training, Unlimited Signature Classes, Unrivaled Spaces, and access to the Equinox+ app. It’s Not Fitness. It’s Life.",
+  "Founded": "1991",
+  "City": "Los Angeles, CA",
+  "Ages": "Adults 18+",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Fitness & Wellness Club",
+  "About": "Equinox Los Angeles is a premier fitness and wellness club offering a holistic approach to health with expert personal training, diverse classes, and luxurious facilities. It stands out for its commitment to transforming fitness into a lifestyle experience.",
+  "Philosophy": "Equinox Los Angeles believes in integrating fitness with lifestyle, providing personalized training and innovative classes to meet individual goals. Their approach emphasizes balance, wellness, and community, fostering an environment where members thrive physically and mentally.",
+  "Outcomes": "Members of Equinox Los Angeles often achieve significant personal fitness milestones, enhanced well-being, and a strong sense of community. The club's comprehensive programs support diverse health goals, from weight loss to strength building and stress reduction.",
+  "Admissions": "To join Equinox Los Angeles, prospective members can visit the website or a local club to explore membership options and initiate the application process. Membership is open year-round, with various plans tailored to individual needs and preferences.",
+  "Quote": "Join now and unlock a curated suite of services valued at $500+. Available April only.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Equinox Los Angeles employs trainers certified by the National Academy of Sports Medicine and American Council on Exercise. They specialize in strength training, yoga, and nutrition coaching, ensuring a well-rounded fitness experience.",
+    "Student Wellbeing": "Equinox Los Angeles offers wellness workshops and mindfulness sessions to enhance mental and emotional health. Members benefit from a supportive community and access to expert-led stress management programs.",
+    "Academic Integration": "Equinox Los Angeles provides specialized classes like Pilates and high-intensity interval training, tailored to individual fitness levels. Members engage in innovative programs designed to integrate physical fitness with lifestyle education.",
+    "Competitive Pathway": "Equinox Los Angeles members often excel in regional fitness competitions and marathons. Alumni have successfully transitioned into careers in personal training and wellness coaching, reflecting the club's effective training approach.",
+    "Facilities & Resources": "Equinox Los Angeles features state-of-the-art equipment, a rooftop pool, and dedicated yoga and cycling studios. Members enjoy luxurious locker rooms and a full-service spa for post-workout relaxation.",
+    "Ongoing Accountability": "Equinox Los Angeles utilizes a digital app to track member progress and provide personalized feedback. Regular fitness assessments and goal-setting sessions ensure continuous improvement and member satisfaction."
+  },
+  "URL": "https://www.equinox.com/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://images.ctfassets.net/drib7o8rcbyf/3SSkmL8U5YBGKCPkJoIdib/07d03a08278a1f3576dc52cdb2ed5e79/CORE_ANCILLARIES_MODULE__STUDIO_PILATES_375x563-min.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/64oMt8msJ0h1l75i0ejdfs/51022d60a8ac8c3915436d1ede080321/CORE_ANCILLARIES_MODULE__PT_375x563-min.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/2CAtWYNkj9XCWREyilWm84/a3359e89c93ca438ff05f76d2c0b39ee/HY_Pool_May2024_1440x720.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/2EtKgyUWAb0ghkwFyq0GWI/4b47f717765ec9cc866adb5c07b8b139/Domino_Red_Portrait.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/1bWwZYCr12yWUXuz8WkTc8/48e6bc6818aa55c46721ea5b6cd110ac/Red_Lady_Portrait.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/7xaVBLqmztmYQGrXBg0pqx/01d2a0130ad7a05585663d9600b437eb/CORE_ANCILLARIES_MODULE__GF_375x563-min.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/3jxErqCGFfGDk4HdpTvBhH/40e1d98bddae5be182a0eb5c65e56d59/REGENERATION_MODULE__Amenities_375x563-min.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/1Z0EStzVUSZJUjkCqHMkol/9c9c7601c4fa6b4532fd2c77803dbe36/REGENERATION_MODULE__SPA_375x563-min.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/7j426ihAXHonKI0ZZJaqZw/50a8df745b54ebcb737a1238e6c22363/EQX__APP_MODULE_375x563-min.jpg?fm=webp&fit=fill&w=640",
+    "https://images.ctfassets.net/drib7o8rcbyf/7pbnYy876X4wHpmw2K2JtL/1dce1400f81a986c654e6dd0982c4273/facebook-1.jpg"
+  ]
+}

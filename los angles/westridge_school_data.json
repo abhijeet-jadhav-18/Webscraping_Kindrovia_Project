@@ -1,0 +1,40 @@
+{
+  "Name": "Westridge School",
+  "Tagline": "Westridge is a private, all girls school for grades 4-12 located near Los Angeles. Westridge educates intellectual thinkers & compassionate leaders. Learn more!",
+  "Founded": "1913",
+  "City": "Los Angeles, CA",
+  "Ages": "9–12",
+  "Students": "150+",
+  "Ratio": "1:8",
+  "Fees": "$40,000 per year",
+  "Type": "Independent All-Girls School",
+  "About": "With a global alumnae community of more than 5,000, we strive to engage with our alumnae, near and far. Through annual events like Alumnae Weekend, regional gatherings, and networking opportunities via our online networking platform Westridge Connect, we hope to celebrate new chapters of your chosen path, the lasting friendships, and the milestone reunions that lead to an enriching alumnae experience.",
+  "Philosophy": "Stay connected to Westridge by subscribing to our alumnae newsletter! Get the latest news from campus, stay up to date on upcoming alumnae events and reunion opportunities, and more.",
+  "Outcomes": "Westridge School graduates are frequently accepted into prestigious universities such as Stanford, UCLA, and Harvard. Students often receive recognition in national academic competitions and leadership awards, showcasing their preparedness for higher education and beyond.",
+  "Admissions": "If you are interested in applying late, please start by clicking the button below and completing our initial inquiry form. The admission office will reach out should we decide to accept more applications this spring.",
+  "Quote": "At Westridge we cultivate the extraordinary in every girl by helping them to develop the confidence, skills, and values to thrive wherever life takes them.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "As we teach our students to become responsible global citizens in an interconnected world, we are also committed to sustainability and environmental responsibility in both design and practice. In 2010, we opened the Willametta Keck Day Science Center, a Platinum LEED-certified, sustainable facility dedicated to girls studying science and math.",
+    "Student Wellbeing": "At first glance, you’ll see girls making our campus their own—climbing the trees (an unofficial school tradition!), gathering on our library patio, and sprinting across Ayrshire Courtyard to claim their spot in line at the Commons for lunch. You’ll see them hard at work tinkering in the STEAMWork Design Studio (a lab for imagining and inventing) and you’ll hear the strains of the orchestra rehearsal floating across campus from Braun Auditorium.",
+    "Academic Integration": "Westridge School offers a robust curriculum with advanced courses in STEM, humanities, and arts, including AP Biology and AP English Literature. The school employs project-based learning to foster critical thinking and collaboration.",
+    "Competitive Pathway": "Graduates of Westridge School often matriculate to elite universities like Stanford and Harvard, with many earning scholarships. Students have won accolades in national science fairs and leadership competitions, highlighting their academic excellence.",
+    "Facilities & Resources": "The Westridge campus features a state-of-the-art science lab, a performing arts theater, and an expansive library. Students also have access to a modern gymnasium and outdoor sports fields for physical education.",
+    "Ongoing Accountability": "Westridge School uses a comprehensive assessment system with regular progress reports and parent-teacher conferences to ensure student development. The school emphasizes personalized feedback to guide academic and personal growth."
+  },
+  "URL": "https://www.westridge.org/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://resources.finalsite.net/images/f_auto,q_auto/v1595009223/westridge/q2v4poyissp0yrbgjgm9/chosenpath-cover.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1727820931/westridge/vv7izjsstzaxx62pf3io/InteriorWebBanner-tuitionfa.png",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1658336686/westridge/kjhcsgyzkbcruoikmtmx/faculty-2.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1727820666/westridge/zvumjfqlbrk8bc9n7y02/InteriorWebBanner-pastfuture.png",
+    "https://resources.finalsite.net/images/v1592398129/westridge/xyiyomiysg4cd1g0cekd/affording-student-1.png",
+    "https://resources.finalsite.net/images/t_image_size_4/v1594074999/westridge/qlasyir0d2pkcckk3wcc/visit-header-1.jpg",
+    "https://www.westridge.org/data/news/thumbs/451.full.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1760649855/westridge/r5roqpdep1rqi70nafn2/latinexcellence25-1_1.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1718312161/westridge/uubhv924aafjiu92x6c6/careers-header-3.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1738879019/westridge/pm3cyf2ljtdljytcmm6f/bhm-drums-6.jpg"
+  ]
+}

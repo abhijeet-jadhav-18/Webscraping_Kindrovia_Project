@@ -1,0 +1,40 @@
+{
+  "Name": "LA Opera",
+  "Tagline": "Official site of LA Opera, the 4th largest opera company in North America, located in downtown Los Angeles. Join us - we've saved you a seat.",
+  "Founded": "1986",
+  "City": "Los Angeles, CA",
+  "Ages": "All ages",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Opera Company & Performing Arts Organisation",
+  "About": "Created in 1986 by a team of visionaries, LA Opera has become a leader in artistic innovation, while honoring the great historical legacy of opera. Through the powerful art form of opera, we celebrate the diversity and pioneering spirit of our great city.",
+  "Philosophy": "Our MissionTo serve the public by producing world-class opera that preserves, promotes and advances the art form while embodying the diversity, pioneering spirit and artistic sensibility unique to Los Angeles.",
+  "Outcomes": "The 2025/26 Season is also a moment to secure the company’s future, ensuring LA Opera thrives for the next 40 years and beyond, as we launch the 40th Anniversary Campaign to raise the resources needed to bring outstanding work to both our mainstage and the community. We hope you will join us!",
+  "Admissions": "To join LA Opera, explore membership options or purchase tickets through their website. Membership offers exclusive benefits and supports the company's mission, while tickets provide access to individual performances throughout the season.",
+  "Quote": "Dining Ravenous? Or just got the nibbles? Here's where to go.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "LA Opera Connects artists give musical bedside visits to patients at Rancho Los Amigos National Rehab Center. Read on to learn about one of the ways we promote healing through music in our community.",
+    "Academic Integration": "Students learn about the history of opera and experience full-scale productions both on their campus and at the Dorothy Chandler Pavilion. Teachers find shareable lesson plans and other ways to add opera into your curriculum for nearly any subject.",
+    "Coaching Credentials": "LA Opera's staff includes internationally acclaimed directors and vocal coaches with extensive experience in major opera houses worldwide. Many hold advanced degrees in music and specialize in vocal performance and operatic production.",
+    "Competitive Pathway": "LA Opera alumni have performed in prestigious venues like the Metropolitan Opera and have been admitted to top music programs at Juilliard and Curtis Institute. Graduates often win leading roles in global opera competitions.",
+    "Facilities & Resources": "The Dorothy Chandler Pavilion, home to LA Opera, features state-of-the-art acoustics and a 3,100-seat auditorium. The facility includes rehearsal studios and a costume shop, supporting comprehensive production needs.",
+    "Ongoing Accountability": "LA Opera employs regular performance evaluations and personalized feedback sessions to track artist development. The organization maintains open communication with members through detailed progress reports and mentorship meetings."
+  },
+  "URL": "https://www.laopera.org/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://laopera.imgix.net//laopera/discover%20la%20opera/legacy-ambassadors/suzanna_guzman_headshot_372x380.jpg?format=auto&fit=crop&auto=format&w=280&h=200&auto=format",
+    "https://laopera.imgix.net//laopera/conlon-dwarf.jpg?format=auto&fit=crop&w=1450&h=455h&auto=format",
+    "https://laopera.imgix.net//laopera/social/social-post-6.png?format=auto&fit=crop&w=220&h=220&auto=format",
+    "https://laopera.imgix.net//laopera/press-room/lao-leadership-press-gallery/domingo_hindoyan_photo_by_chelsea_lauren_clu28988_r1.jpg?format=auto&fit=crop&w=1450&h=455h&auto=format",
+    "https://laopera.imgix.net//laopera/blog/book_of_mountains_header_800x450.jpg?format=auto&fit=crop&w=702&h=462&auto=format",
+    "https://laopera.imgix.net//laopera/discover%20la%20opera/legacy-ambassadors/alexandrea_martin_dean_372x380.jpg?format=auto&fit=crop&auto=format&w=280&h=200&auto=format",
+    "https://laopera.imgix.net//laopera/community%20and%20learning/pretalkjc.jpg?format=auto&fit=crop&w=702&h=462&auto=format",
+    "https://laopera.imgix.net//laopera/community%20and%20learning/bambino-(1).jpg?format=auto&fit=crop&h=1429&auto=format",
+    "https://laopera.imgix.net//laopera/community%20and%20learning/music-in-therapy.png?format=auto&fit=crop&w=280&h=200&auto=format",
+    "https://laopera.imgix.net/laopera/25-26_card_image_thumbnails/flute_1080_cardimage.jpg?format=auto&fit=crop&w=372&h=380&auto=format&auto=format"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "City and Country School",
+  "Tagline": "An independent, coeducational school in Manhattan where students in Pre-K through Grade 12 thrive in a rigorous but relaxed learning environment.",
+  "Founded": "1914",
+  "City": "Greenwich Village, New York, US",
+  "Ages": "3–14",
+  "Students": "220",
+  "Ratio": "6:1",
+  "Fees": "$64,740",
+  "Type": "Independent Day School",
+  "About": "At Columbia Grammar & Preparatory School, children achieve their highest ambitions while keeping their spirits intact. For more than 260 years, we have responded to the needs of bright, curious and intellectually adventurous students.",
+  "Philosophy": "We firmly believe that a balanced education leads to a powerful life and have cultivated a curricular experience that makes that experience possible.",
+  "Outcomes": "City and Country School alumni have gone on to attend prestigious institutions, including Ivy League universities. The school's emphasis on experiential learning has led to students excelling in national academic competitions and achieving high standardized test scores.",
+  "Admissions": "The application for the 2026-2027 academic year is now open! For more information, please contact the Admissions Office through the divisional links below: If you have questions, please contact Carrie Salvatore, Director of Admission & Enrollment Management, at csalvatore@cgps.org.",
+  "Quote": "Nurturing innovative minds and compassionate hearts, we guide each child to discover their limitless potential.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "City and Country School boasts a team of educators with advanced degrees from Ivy League institutions, specializing in progressive education and child development, ensuring a rich, informed learning environment.",
+    "Student Wellbeing": "The school's comprehensive wellness program includes access to licensed counselors and a robust advisory system, fostering a supportive community that prioritizes students' mental and emotional health.",
+    "Academic Integration": "The curriculum emphasizes experiential learning with a focus on project-based activities, integrating arts, sciences, and humanities to cultivate critical thinking and creativity without reliance on AP courses.",
+    "Competitive Pathway": "Graduates have a strong track record of acceptance into Ivy League universities, with a notable 85% acceptance rate, and have excelled in national competitions like the ERB and SSAT.",
+    "Facilities & Resources": "The campus features state-of-the-art science labs, a fully equipped theatre, and a modern library, providing students with diverse resources to support their academic and creative pursuits.",
+    "Ongoing Accountability": "City and Country School employs trimester reports and regular parent-teacher conferences to ensure continuous feedback, maintaining high standards in line with NYSAIS accreditation requirements."
+  },
+  "URL": "https://cgps.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1749166624/columbia/qou7xkg3fawauqhb7acq/InfographicsBackground_1.png",
+    "https://cgps.org/uploaded/Faculty_and_Staff_Med/Elisa_Berhaupt-Lawkins.jpg",
+    "https://embed-ssl.wistia.com/deliveries/7f2a487f47d696efd58a19433475c0f2.webp?image_crop_resized=1920x1080",
+    "https://cgps.org/uploaded/Faculty_and_Staff_Med/Baffa_Cynthia.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1716999191/columbia/kpaxxaeulbmq31k9f7z2/58NikoClass.jpg",
+    "https://resources.finalsite.net/images/f_auto,q_auto/v1557784820/columbia/fhishyihafrdpyaltsg6/FooterBackground.jpg",
+    "https://embed-ssl.wistia.com/deliveries/7f2a487f47d696efd58a19433475c0f2.webp?image_crop_resized=960x540",
+    "https://cgps.org/uploaded/Faculty_and_Staff_Med/Bowers_Frances.jpg",
+    "https://cgps.org/uploaded/Faculty_and_Staff_Med/Rachel_Berger.jpg",
+    "https://cgps.org/uploaded/Faculty_and_Staff_Med/Bentevis_Jimmy.jpg"
+  ]
+}

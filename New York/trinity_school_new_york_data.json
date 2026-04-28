@@ -1,0 +1,40 @@
+{
+  "Name": "Trinity School New York",
+  "Tagline": "Located on the Upper West Side of New York City, Trinity School is a college preparatory, coeducational independent school for grades K-12.",
+  "Founded": "1709",
+  "City": "Upper West Side, New York, US",
+  "Ages": "5–18",
+  "Students": "960",
+  "Ratio": "6:1",
+  "Fees": "$53,047",
+  "Type": "Independent Day School",
+  "About": "Trinity School New York is a prestigious independent day school offering a rigorous college preparatory curriculum for grades K-12. Located on the Upper West Side, it is known for its strong academic programs and vibrant arts and athletics offerings.",
+  "Philosophy": "Trinity School emphasizes a holistic educational approach, fostering intellectual curiosity, critical thinking, and personal growth. The school encourages students to engage deeply with diverse subjects while nurturing a supportive and inclusive community.",
+  "Outcomes": "Trinity School boasts impressive outcomes, with a high percentage of graduates attending Ivy League and other top-tier universities. Alumni have achieved notable success in various fields, reflecting the school's commitment to excellence and leadership development.",
+  "Admissions": "Prospective students must complete an application process that includes standardized testing such as the SSAT or ISEE, along with interviews and school visits. Applications are typically due in early winter, with decisions released in the spring.",
+  "Quote": "Nurturing inquisitive minds and compassionate hearts, we empower students to lead with integrity and purpose.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Trinity School's faculty boasts advanced degrees from Ivy League institutions and extensive experience in their fields, ensuring high-quality instruction. Many teachers hold specialized certifications in AP and advanced subject areas.",
+    "Student Wellbeing": "Trinity School offers comprehensive counseling services and a robust advisory program to support student wellbeing. Regular community-building activities foster a nurturing environment, promoting emotional and social growth.",
+    "Academic Integration": "The curriculum includes a wide range of AP courses and unique electives like robotics and creative writing. Trinity emphasizes interdisciplinary learning, encouraging students to connect concepts across different subjects.",
+    "Competitive Pathway": "Trinity graduates have a high acceptance rate to Ivy League and top-tier universities, with alumni excelling in diverse fields. Notable achievements include national competition wins in debate and science fairs.",
+    "Facilities & Resources": "The campus features state-of-the-art science labs, a performing arts theater, and a comprehensive athletics complex. Students benefit from a well-stocked library and modern technology resources across all classrooms.",
+    "Ongoing Accountability": "Trinity School utilizes trimester reports and regular parent-teacher conferences to monitor student progress. The school is accredited by NYSAIS, ensuring adherence to high educational standards and continuous improvement."
+  },
+  "URL": "https://www.trinityschoolnyc.org/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/390/link/large_link2614247_117918.png",
+    "https://bbk12e1-cdn.myschoolcdn.com/390/photo/orig_photo1056024_9885510.jpg",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/390/link/large_link2141457_160732.JPG",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/390/link/large_link2142135_160736.png",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/390/text/large_text2267638_95448.jpg",
+    "https://bbk12e1-cdn.myschoolcdn.com/390/photo/orig_photo1060384_9884946.jpeg",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/390/news/thumb_news1074210_1143340.png",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/390/news/thumb_news1071327_1143539.png",
+    "https://bbk12e1-cdn.myschoolcdn.com/390/photo/orig_photo932226_9884982.JPG",
+    "https://www.trinityschoolnyc.org/ftpimages/390/link/large_link2136833_160740.jpg"
+  ]
+}

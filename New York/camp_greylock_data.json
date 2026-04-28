@@ -1,0 +1,40 @@
+{
+  "Name": "Camp Greylock",
+  "Tagline": "Greylock is known for our outstanding sports programs, but our outdoor adventure and arts programs are just as much fun! We offer full and short sessions for boys ages 6-16.",
+  "Founded": "1916",
+  "City": "Becket, Massachusetts, US",
+  "Ages": "8–16",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Residential Summer Camp",
+  "About": "The best thing we can say about Greylock is that our kids love it – the boys love the friendships, the counselors, the teaching, the supportive atmosphere, how they feel good about themselves, the structure, and the chance to play sports competitively at the right times and under the right circumstances. Greylock is an instructional camp, where the emphasis is on the boys making progress and feeling good about themselves, different from competitive leagues where there are standings, batting averages, tennis ladders and the like.",
+  "Philosophy": "Camp Greylock emphasizes personal growth through a balanced program of sports, arts, and outdoor adventures. The camp fosters a supportive environment where boys are encouraged to develop skills and confidence.",
+  "Outcomes": "Camp Greylock alumni often excel in athletics and leadership roles, with some progressing to compete at collegiate levels. The camp's focus on personal development helps boys build lifelong skills and friendships.",
+  "Admissions": "To apply to Camp Greylock, prospective campers and their families should visit the camp's website to complete an online application form. Early application is encouraged, as spaces fill quickly, and no standardized tests are required.",
+  "Quote": "Yes — this is what summer camp should look like — smiles from ear to ear!",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Over the past decade, Greylock has undergone a significant bunk renovation program, adding new windows, floors, roofs, walls, cubbies, and ceilings to every cabin. The cabins also have renovated bathrooms and new beds.",
+    "Facilities & Resources": "In addition to our beautiful camper and staff cabins, Greylock has a dining hall, social hall, health center, indoor and outdoor theatres, indoor movie spaces, and an arts studio.",
+    "Student Wellbeing": "Camp Greylock offers personalized counseling and advisory programs to support boys' mental and emotional health, fostering a sense of community through team-building activities and wellness initiatives tailored for each age group.",
+    "Academic Integration": "While primarily a sports camp, Camp Greylock incorporates educational elements through workshops in leadership and teamwork, complementing school-year learning without offering formal AP or IB coursework.",
+    "Competitive Pathway": "Camp Greylock alumni often progress to compete in Ivy League sports teams, with a notable percentage earning athletic scholarships and excelling in collegiate athletics, reflecting the camp's strong focus on skill development.",
+    "Ongoing Accountability": "Camp Greylock maintains quality through regular feedback sessions and parent conferences, ensuring progress is tracked with detailed reports, aligning with NYSAIS standards for summer programs."
+  },
+  "URL": "https://campgreylock.com",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/102091/lacrosse-game-at-sports-camp.jpg?ixlib=rails-4.3.1&h=800&w=800&fit=crop&auto=format%2Ccompress&crop=faces",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/133475/briggs.JPG?auto=format&crop=faces&dpr=1.0&fit=crop&h=420&ixjsv=2.2.3&ixlib=rails-4.3.1&w=420",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/103118/boys-cheering-for-their-sports-team-at-camp.jpg?ixlib=rails-4.3.1&w=8192&fit=crop&auto=format%2Ccompress&crop=faces",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/103561/Val.jpg?ixlib=rails-4.3.1&h=8192&w=8192&fit=crop&auto=format%2Ccompress&crop=faces",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/101607/best-boys-sports-overnight-summer-camps-becket-ma.jpg?ixlib=rails-4.3.1&w=200&h=200&fit=clip&auto=format",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/90884/NashuaTelegraph.png?ixlib=rails-4.3.1&h=8192&w=8192&fit=crop&auto=format%2Ccompress&crop=faces",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/132542/hero_fball.jpg?ixlib=rails-4.3.1&h=800&w=800&fit=crop&auto=format%2Ccompress&crop=faces",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/132926/soccer22.JPG?ixlib=rails-4.3.1&h=800&w=800&fit=crop&auto=format%2Ccompress&crop=faces",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/102175/massachusetts-sleepaway-camp-ping-pong-evening-activity.jpg?ixlib=rails-4.3.1&h=800&w=800&fit=crop&auto=format%2Ccompress&crop=faces",
+    "https://typewriter.imgix.net/u/0822039a-ba01-4e42-80d3-6edf15a2d3cf/p/90901/ecez-badge-summercamps-large-e1428854351207.png?ixlib=rails-4.3.1&h=8192&w=8192&fit=crop&auto=format%2Ccompress&crop=faces"
+  ]
+}

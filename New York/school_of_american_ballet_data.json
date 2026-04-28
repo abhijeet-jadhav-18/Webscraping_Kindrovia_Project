@@ -1,0 +1,40 @@
+{
+  "Name": "School of American Ballet",
+  "Tagline": "Founded by George Balanchine, SAB is the preeminent ballet school in the U.S. and the official school of New York City Ballet.",
+  "Founded": "1934",
+  "City": "Lincoln Center, New York, US",
+  "Ages": "6–18",
+  "Students": "500",
+  "Ratio": "8:1",
+  "Fees": "See website",
+  "Type": "Ballet Academy",
+  "About": "The School’s Winter Term runs from September through June. Study in the Winter Term is for beginning, intermediate and advanced students, 6* to 18 years old.",
+  "Philosophy": "The School has an extensive financial aid program for students at all levels whose financial situations necessitate assistance with expenses. Scholarships range from ballet class tuition only, to awards to be applied to residence hall expenses, travel, and academic high school tuition.",
+  "Outcomes": "Graduates of the School of American Ballet often join prestigious companies such as the New York City Ballet and American Ballet Theatre. Many alumni have achieved recognition in international ballet competitions and have successful careers in the performing arts.",
+  "Admissions": "Prospective students must audition to join the School of American Ballet, with auditions typically held in the spring. The process includes a review of ballet technique, and acceptance is based on potential and current skill level.",
+  "Quote": "Note, SAB requires that all students living in SAB’s Residence Hall have health insurance coverage. Coverage must be for emergency and non-emergency care in NYC and must be valid through the entire Winter Term.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The School of American Ballet’s training is designed for dedicated, focused students who show age-appropriate aptitude and physical development suited to the demands of classical training at all levels of development. The curriculum spans beginning instruction for 6 year olds through highly advanced courses designed to launch the nation’s most talented students into professional careers.",
+    "Student Wellbeing": "Although the emphasis at SAB is on training rather than performance, students have unique opportunities for stage experience through SAB’s programs and through its affiliation with New York City Ballet. Performances for Advanced Division students include the Spring Workshop, SAB’s annual fully staged production; the SAB Student Choreography Workshop; the New York Choreographic Institute, NYCB’s lecture-demonstration program and SAB’s Beauty of Ballet community outreach performances in Brooklyn, Queens, Harlem and Bronx.",
+    "Academic Integration": "The Preparatory Division enrolls 6 and 7 year olds who are either new to ballet or who have taken creative movement and beginning ballet classes elsewhere. The Preparatory curriculum focuses on the basic elements of ballet technique and nurtures the discipline that focused ballet training demands.",
+    "Facilities & Resources": "As the official academy of New York City Ballet, SAB provides all children who appear with the Company at Lincoln Center in ballets featuring roles for children. Typically, children enrolled in Girls II-V and Boys II-V are eligible for consideration.",
+    "Ongoing Accountability": "The Children’s Division enrolls students from the greater New York metropolitan area ranging in age from 8 to 13. Boarding is not available for students in this division.",
+    "Competitive Pathway": "We undertake the broadest possible recruiting efforts to select students ages 6 to 18 who possess the qualities necessary for the highest level of achievement as classical ballet dancers, with the ultimate mission of placing our graduates in dance companies around the globe. Our vision of excellence is underpinned by the cultivation of a diverse student population in which the unique gifts and perspectives of all students are embraced."
+  },
+  "URL": "https://sab.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://sab.org/wp-content/uploads/2020/01/180313_sab_2079-e1580014767711.jpg",
+    "https://sab.org/wp-content/uploads/2020/02/181221-173Nutcracker_resize.jpg",
+    "https://sab.org/wp-content/uploads/2020/02/181221-173Nutcracker_resize-300x171.jpg",
+    "https://sab.org/wp-content/uploads/2020/02/141108_sab_0522_resize.jpg",
+    "https://sab.org/wp-content/uploads/2020/02/181113_sab_1999-300x184.jpg",
+    "https://sab.org/wp-content/uploads/sb-instagram-feed-images/669735861_18582205444055865_3597377593250576882_nlow.webp",
+    "https://sab.org/wp-content/uploads/2020/02/190510_sab_10588_resize-300x171.jpg",
+    "https://sab.org/wp-content/uploads/2020/01/170721_sab_17432_tv-1024x576.jpg",
+    "https://sab.org/wp-content/uploads/2020/01/Lincoln-Center_VincentTullo-1.jpg",
+    "https://sab.org/wp-content/uploads/2020/02/180411_sab_6495resize-300x171.jpg"
+  ]
+}

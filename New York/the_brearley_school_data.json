@@ -1,0 +1,40 @@
+{
+  "Name": "The Brearley School",
+  "Tagline": "The Brearley School challenges girls of adventurous intellect and diverse backgrounds to think critically and creatively and prepares them for the world.",
+  "Founded": "1884",
+  "City": "Upper East Side, New York, US",
+  "Ages": "5–18",
+  "Students": "670",
+  "Ratio": "7:1",
+  "Fees": "See website",
+  "Type": "Independent All-Girls School",
+  "About": "As the sixteenth Head of the Brearley School, I'm thrilled to invite you to learn more about this community where the love of learning and a commitment to excellence are woven into the fabric of our school experience. Girls’ education has been my personal and professional calling for two decades, and I know it to be singular in its ability to teach young women to find their voice and purpose.",
+  "Philosophy": "The School fosters a love of learning, excellence in the liberal arts and engagement in a lively and inclusive community.",
+  "Outcomes": "The college search and application process is an opportunity for students to exercise their decision-making skills and independence. Brearley offers a comprehensive college advising program that builds upon the personal and academic advising given in earlier years and begins formally in the fall of Class XI.",
+  "Admissions": "To apply to The Brearley School, families must submit an application, school reports, and standardized test scores such as the ISEE or SSAT. The admissions process typically begins in the fall, with decisions released in the spring.",
+  "Quote": "Empowering young women to embrace curiosity and pursue excellence, shaping a future of limitless possibilities.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "We take great pride in curating an extensive collection of over 24,000 titles, spanning a diverse range of formats and genres. Our unwavering commitment lies in fostering inclusivity and representation, for we firmly believe that every student should be able to find themselves within the pages of a book, identifying with characters and stories that reflect their own unique experiences.",
+    "Facilities & Resources": "A deep love for ideas and reading lies at the heart of a Brearley education. The Library upholds this tradition by encouraging students to explore the world of books, providing them with research tools and training, and serving as a lively hub for intellectual exploration.",
+    "Student Wellbeing": "Creative Writing Club is a tight-knit community of students interested in improving their writing skills through thoughtful games, exercises, author visits and collaboration with other clubs.",
+    "Academic Integration": "Middle School students have multiple opportunities to explore their interests beyond the curriculum. Student-run clubs, activities, student government and affinity groups all have dedicated time in the schedule for meetings.",
+    "Ongoing Accountability": "As our short-term goal, we aim to foster discussion and sisterhood among the Muslim student body. In the long term, we hope to gather feedback that we can relay to the administration to ensure that all voices are heard.",
+    "Competitive Pathway": "Through the Dean of Students Office, students can learn about a variety of summer programs in the US and abroad."
+  },
+  "URL": "https://www.brearley.org/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.datocms-assets.com/92424/1712172804-carleton.png?auto=format&dpr=0.24&w=500",
+    "https://www.datocms-assets.com/92424/1715277605-240402-brearley-059.jpg?ar=1%3A1&auto=format&con=50&crop=focalpoint&dpr=0.2&fit=crop&fp-x=0.5&fp-y=0.5&sat=-100&w=3648",
+    "https://www.datocms-assets.com/92424/1753126153-14-oct-thumbnail-alice-daly-crop.jpg?ar=4%3A3&auto=format&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&q=75&w=450",
+    "https://www.datocms-assets.com/92424/1708527994-dsc05836.jpg?ar=3%3A2&auto=format&crop=focalpoint&dpr=0.86&fit=crop&fp-x=0.5&fp-y=0.5&w=3000",
+    "https://www.datocms-assets.com/92424/1710785528-boston.png?auto=format&dpr=0.25&w=480",
+    "https://www.datocms-assets.com/92424/1753121800-kacey-g.jpg?ar=4%3A3&auto=format&crop=focalpoint&dpr=0.96&fit=crop&fp-x=0.5&fp-y=0.5&q=75&w=1505",
+    "https://www.datocms-assets.com/92424/1750791810-carnegie_mellon_university_seal.png?auto=format&dpr=0.1&w=1250",
+    "https://www.datocms-assets.com/92424/1710785309-duke.png?auto=format&dpr=0.25&w=480",
+    "https://www.datocms-assets.com/92424/1717091075-lejas_eleni.jpg?ar=1%3A1&auto=format&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&w=278",
+    "https://www.datocms-assets.com/92424/1716216842-university_of_north_carolina_at_chapel_hill_seal-copy.png?auto=format&dpr=0.28&w=434"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Fay School",
+  "Tagline": "Located in Southborough, Massachusetts, Fay is a private day and boarding school for kindergarten - grade 9. The boarding program, an option in grades 7-9, unites students from across the United State",
+  "Founded": "1866",
+  "City": "Southborough, Massachusetts, US",
+  "Ages": "3–14",
+  "Students": "500",
+  "Ratio": "6:1",
+  "Fees": "See website",
+  "Type": "Independent Boarding & Day School",
+  "About": "By submitting this form you agree to receive communications from Fay School and consent to allow Fay School to store and process the personal information submitted above.",
+  "Philosophy": "Fay School emphasizes a balanced approach to education, fostering intellectual curiosity, creativity, and character development. The curriculum integrates rigorous academics with arts, athletics, and leadership opportunities to nurture well-rounded individuals.",
+  "Outcomes": "Fay School alumni often matriculate to prestigious secondary schools and universities, including Ivy League institutions. Students consistently achieve high scores on standardized tests and excel in regional and national competitions.",
+  "Admissions": "Prospective students must submit an application, school transcripts, and standardized test scores such as the SSAT or ISEE. The admissions process includes interviews and campus visits, with applications typically due in early winter.",
+  "Quote": "Nurturing curiosity and character, we empower each student to embrace challenges and lead with integrity.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Fay School's faculty includes educators with advanced degrees from Ivy League institutions, specializing in fields like STEM, humanities, and arts. Coaches possess certifications in youth sports development and have experience in competitive coaching.",
+    "Student Wellbeing": "Fay School offers a comprehensive advisory program with dedicated counselors to support students' mental and emotional health. Wellness initiatives include mindfulness workshops and community-building activities to foster a supportive environment.",
+    "Academic Integration": "The curriculum at Fay School includes advanced math and science courses, alongside electives in digital media and performing arts. Signature pedagogies emphasize experiential learning and critical thinking across all subjects.",
+    "Competitive Pathway": "Fay School graduates have a 90% acceptance rate to top-tier secondary schools, including Phillips Exeter and Andover. Alumni frequently gain admission to Ivy League universities, showcasing their competitive academic preparation.",
+    "Facilities & Resources": "Fay School's campus features state-of-the-art science labs, a performing arts theater, and an Olympic-sized swimming pool. The library provides extensive resources, including digital databases and collaborative study spaces.",
+    "Ongoing Accountability": "Fay School maintains rigorous academic standards through NYSAIS accreditation and regular ERB assessments. Trimester reports and bi-annual parent-teacher conferences ensure continuous feedback and accountability for student progress."
+  },
+  "URL": "https://fayschool.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://bbk12e1-cdn.myschoolcdn.com/486/photo/orig_photo466492_12319259.png?w=1920px",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/486/text/orig_text2436771_125059.jpg?resize=723px",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/486/news/zoom_news1022931_1639404.png",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/486/text/orig_text1405615_112702.JPG?crop=0px",
+    "https://bbk12e1-cdn.myschoolcdn.com/486/photo/orig_photo1987810_11806916.jpg?w=1920px",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/486/text/large_text2359817_124124.jpg",
+    "https://bbk12e1-cdn.myschoolcdn.com/486/photo/orig_photo2158144_12167087.jpg",
+    "https://bbk12e1-cdn.myschoolcdn.com/486/photo/orig_photo1986966_11806494.jpeg?w=1920px",
+    "https://bbk12e1-cdn.myschoolcdn.com/ftpimages/486/link/large_link605226_56547.png",
+    "https://bbk12e1-cdn.myschoolcdn.com/486/photo/orig_photo2521732_13164014.jpg?w=320px"
+  ]
+}

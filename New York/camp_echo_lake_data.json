@@ -1,0 +1,40 @@
+{
+  "Name": "Camp Echo Lake",
+  "Tagline": "A full season co-ed sleep away camp located in the heart of the Adirondack Park. Offering athletics, creative and performing arts, aquatics and outdoor adventure activities for grades 2+.",
+  "Founded": "1946",
+  "City": "Warrensburg, New York, US",
+  "Ages": "7–16",
+  "Students": "400",
+  "Ratio": "4:1",
+  "Fees": "See website",
+  "Type": "Residential Summer Camp",
+  "About": "Camp Echo Lake is a premier co-ed residential summer camp in the Adirondack Park, offering diverse programs in athletics, arts, and outdoor adventures. It fosters personal growth and lifelong friendships for children aged 7–16.",
+  "Philosophy": "Camp Echo Lake emphasizes a supportive and inclusive environment, encouraging campers to explore new activities and develop confidence. The camp's approach focuses on nurturing individual strengths and promoting teamwork and community values.",
+  "Outcomes": "Camp Echo Lake alumni often excel in leadership roles and community service, with many attending prestigious universities. The camp's emphasis on personal development prepares campers for success in various life pursuits.",
+  "Admissions": "Another way to visit and connect with us is to attend S’more Camp on Saturday, July 11th & Saturday, August 1st, 2026. Prospective campers will get a taste of camp, connect with our staff, and enjoy camp activities!",
+  "Quote": "At Camp Echo Lake, we nurture lifelong friendships and personal growth through adventure, community, and boundless joy.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Camp Echo Lake's staff includes educators with degrees from Ivy League universities and specialists in outdoor education, ensuring a high-quality experience. Many hold certifications in child development and wilderness first aid.",
+    "Student Wellbeing": "Camp Echo Lake offers comprehensive wellness programs, including on-site counselors and daily mindfulness sessions. Community-building activities foster emotional resilience and a supportive environment for all campers.",
+    "Academic Integration": "While primarily focused on outdoor and artistic activities, Camp Echo Lake incorporates educational workshops that enhance critical thinking and creativity. These programs complement traditional school curricula without replicating AP or IB courses.",
+    "Competitive Pathway": "Camp Echo Lake alumni frequently gain admission to prestigious universities, including Ivy League schools, due to their leadership and teamwork skills. Notable alumni have excelled in fields like public service and education.",
+    "Facilities & Resources": "The camp boasts state-of-the-art facilities, including an arts center, sports complex, and waterfront area. Campers enjoy access to a climbing wall, theater, and multiple athletic fields.",
+    "Ongoing Accountability": "Camp Echo Lake maintains high standards through NYSAIS accreditation and regular evaluations. Progress is tracked via trimester reports, with feedback provided during parent conferences to ensure continuous improvement."
+  },
+  "URL": "https://campecholake.com",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://campecholake.com/wp-content/uploads/2024/02/home-page-srcamp.jpg",
+    "https://campecholake.com/wp-content/uploads/2024/02/home-page-jrcamp-1.jpg",
+    "https://campecholake.com/wp-content/uploads/2014/09/homepage-mobile-bg.jpg",
+    "https://campecholake.com/wp-content/uploads/2024/02/dates-tuition-hero.jpg",
+    "https://campecholake.com/wp-content/uploads/2025/10/Summer-2026-Tours-1-440x587.png",
+    "https://campecholake.com/wp-content/uploads/2024/02/home-page-LIT.jpg",
+    "https://campecholake.com/wp-content/themes/CampEchoLake/images/Connect-Photo.jpg",
+    "https://campecholake.com/wp-content/uploads/2025/10/Summer-2026-Tours-1.png",
+    "https://campecholake.com/wp-content/uploads/2024/03/Take-The-Next-Step-3.png",
+    "https://campecholake.com/wp-content/uploads/2024/02/home-page-int.jpg"
+  ]
+}

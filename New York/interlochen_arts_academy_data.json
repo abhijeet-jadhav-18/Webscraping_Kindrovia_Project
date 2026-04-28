@@ -1,0 +1,40 @@
+{
+  "Name": "Interlochen Arts Academy",
+  "Tagline": "Discover Interlochen Center for the Arts, a leading institution offering immersive arts education, performances, and creative development for aspiring artists.",
+  "Founded": "1928",
+  "City": "Interlochen, Michigan, US",
+  "Ages": "14–18",
+  "Students": "500",
+  "Ratio": "6:1",
+  "Fees": "$70,000",
+  "Type": "Residential Arts Academy",
+  "About": "Interlochen Arts Academy is a prestigious residential arts school offering a transformative education in music, theater, dance, and visual arts. It stands out for its immersive environment, fostering creativity and collaboration among talented young artists from across the globe.",
+  "Philosophy": "Take a look at our Viewbook to learn more about our artistic programming, recreational activities, financial aid, and more. If you have applied to Interlochen Arts Camp in the past, you should already have an account in the Education Community.",
+  "Outcomes": "Interlochen Arts Academy alumni have achieved notable success, with many attending Ivy League and top-tier arts schools. Graduates frequently win prestigious competitions and awards, showcasing the academy's commitment to artistic excellence and professional preparation.",
+  "Admissions": "Prospective students apply through an online portal, submitting academic records, personal essays, and audition materials. The admissions process includes interviews and auditions, with deadlines typically in early winter for fall enrollment.",
+  "Quote": "Programs fill quickly. View our programs and apply today.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "If you are unable to remember your login information, please contact the Office of Admission & Financial Aid.",
+    "Ongoing Accountability": "Some Interlochen Arts Camp programs require an audition or portfolio. Please review the Audition and Portfolio Requirements carefully before submitting materials.",
+    "Facilities & Resources": "Complete an official campus visit, apply within two weeks, and you may earn our new Visit Grant.",
+    "Coaching Credentials": "Interlochen Online offers group courses, certificate programs, and private lessons in several artistic disciplines, as well as college advising. As an Interlochen Online student, you’ll receive instruction and mentorship from our high-caliber faculty—all of whom teach or perform at leading cultural institutions around the nation.",
+    "Academic Integration": "Interlochen Arts Academy offers seven arts majors and a robust academic curriculum with college preparatory, advanced placement (AP), and college credit courses.",
+    "Competitive Pathway": "Interlochen Arts Academy is dedicated to making world-class arts education accessible to talented students from all backgrounds. For this reason, we offer both need-based financial aid and merit scholarships to families."
+  },
+  "URL": "https://interlochen.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://interlochen.org/sites/default/files/styles/image_masonry/public/student-spotlight-photos/2025-05/MasonryModule3.png.avif?itok=lyzVPAJn",
+    "https://interlochen.org/themes/interlochen/dist/img/certificate_steps_white.png",
+    "https://www.interlochen.org/sites/default/files/student-spotlight-photos/2026-03/Stage-1-map.jpg",
+    "https://interlochen.org/sites/default/files/styles/image_masonry/public/student-spotlight-photos/2025-05/MasonryModule8.png.avif?itok=OuTnqh-B",
+    "https://interlochen.org/sites/default/files/styles/event_feed/public/student-spotlight-photos/2026-04/Earl%20Lee%20900x600.jpg.avif?itok=xla3uk4X",
+    "https://interlochencdn.s3.amazonaws.com/io/Program%20Finder%20Images/ProgramFinderTile_Course_ActingforTVandFilm.jpg",
+    "https://interlochen.org/sites/default/files/styles/popup_image/public/student-spotlight-photos/2025-11/ica-2026-program-guide-image.jpg.avif?itok=14CarMYf",
+    "https://interlochen.org/sites/default/files/styles/shape/public/shapes/2021-09/beige_0_opt.png.avif?itok=V2OaoqJE",
+    "https://interlochen.org/sites/default/files/styles/thumbnail/public/student-spotlight-photos/2026-04/Interlochen%20Online%20Proprietary%20Hero%20Images_Creative%20Writing_1600x900.jpeg.avif?itok=-bW7d6WI",
+    "https://interlochen.org/sites/default/files/headshots/2025-09/dance-400x600.jpg"
+  ]
+}

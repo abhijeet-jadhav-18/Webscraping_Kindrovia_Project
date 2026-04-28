@@ -1,0 +1,40 @@
+{
+  "Name": "Horace Mann School",
+  "Tagline": "Dedicated to teaching students in nursery through grade twelve in the traditional fields of humane learning with rigor and passion. There is an abundant array of courses with broad exposure to the art",
+  "Founded": "1887",
+  "City": "Riverdale, New York, US",
+  "Ages": "4–18",
+  "Students": "1800",
+  "Ratio": "8:1",
+  "Fees": "See website",
+  "Type": "Independent Day School",
+  "About": "The history of Horace Mann School is one rich in tradition, scholarship, and leadership. It is a history founded on the premise that learning is not to be measured by grades alone, but by the remarkable, compassionate, and socially significant lives our students and alumni choose to lead while at Horace Mann School and beyond.",
+  "Philosophy": "In pursuit of its mission the Horace Mann community is guided by five core values, each of which is given its foundational meaning in developmentally appropriate ways throughout our students’ years on campus. We recognize as our core values: the Life of the Mind, Mature Behavior, Mutual Respect, a Secure and Healthful Environment, and a Balance between Individual Achievement and a Caring Community.",
+  "Outcomes": "Horace Mann School boasts a high rate of Ivy League placements, with many students excelling in Advanced Placement exams. Alumni have achieved significant success in various fields, including academia, arts, and business.",
+  "Admissions": "Prospective students must submit an application, including transcripts and recommendations, and take standardized tests such as the SSAT or ISEE. The admissions process typically begins in the fall for enrollment the following academic year.",
+  "Quote": "During the 2025-26 season, the swimmers set six new school records.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Horace Mann School faculty includes educators with advanced degrees from Ivy League institutions and specialists with expertise in fields such as STEM and humanities, ensuring a rich and diverse learning environment.",
+    "Student Wellbeing": "The school offers comprehensive counseling services and a robust advisory program to support students' emotional and mental health, fostering a strong sense of community and belonging.",
+    "Academic Integration": "Horace Mann provides a rigorous curriculum with over 20 AP courses and unique electives like robotics, encouraging interdisciplinary learning and critical thinking skills.",
+    "Competitive Pathway": "With a 30% Ivy League acceptance rate, Horace Mann graduates excel in national competitions and have notable alumni in fields such as law, medicine, and the arts.",
+    "Facilities & Resources": "The campus features state-of-the-art science labs, a performing arts center, and a modern athletic complex, including a swimming pool and multiple gyms, supporting diverse student interests.",
+    "Ongoing Accountability": "Horace Mann employs trimester reports and regular parent-teacher conferences to monitor student progress, while maintaining NYSAIS accreditation to ensure educational quality and standards."
+  },
+  "URL": "https://horacemann.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://horacemann.org/uploaded/HoraceMann/Images/Sustainability/seafood-watch.png",
+    "https://www.horacemann.org/cf_cloudflare/01/data/media/fullsize/1527.jpg?v=031126104628",
+    "https://horacemann.org/uploaded/HoraceMann/Images/Sustainability/JO_2011_1109-9266.jpg",
+    "https://horacemann.org/uploaded/images/2018/emblem.png",
+    "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1596654179/horacemann/l0gf8po9kwqq6rhgexgp/Spence.jpg",
+    "https://www.horacemann.org/uploaded/HoraceMann/Images/2018_NewSite/Home/alumni_yearbook.jpg",
+    "https://www.horacemann.org/uploaded/images/2018/emblem.png",
+    "https://horacemann.org/uploaded/HoraceMann/Images/Sustainability/food-allergy-initiative.png",
+    "https://www.horacemann.org/uploaded/HoraceMann/Images/Our_School/120th_street_building.jpg",
+    "https://www.horacemann.org/cf_cloudflare/01/data/media/fullsize/1497.jpg?v=011226090525"
+  ]
+}

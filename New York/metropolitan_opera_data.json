@@ -1,0 +1,40 @@
+{
+  "Name": "Metropolitan Opera",
+  "Tagline": "Experience the pinnacle of operatic artistry at the heart of New York City.",
+  "Founded": "1883",
+  "City": "Lincoln Center, New York, US",
+  "Ages": "All ages",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Opera Company & Performing Arts Organisation",
+  "About": "The Metropolitan Opera is a vibrant home for the most creative and talented singers, conductors, composers, musicians, stage directors, designers, visual artists, choreographers, and dancers from around the world. Since the summer of 2006, Peter Gelb has been the Met’s general manager—the 16th in company history.",
+  "Philosophy": "The Metropolitan Opera has always engaged many of the world’s most important artists. Christine Nilsson and Marcella Sembrich shared leading roles during the opening season.",
+  "Outcomes": "The Metropolitan Opera has nurtured world-renowned artists who have performed on prestigious stages globally, including alumni who have won Grammy Awards and have been featured in major international opera houses.",
+  "Admissions": "Tours offer a fascinating backstage look at one of the world’s premiere performing arts organizations, including visits to the scenic and carpentry shops, rehearsal rooms, dressing rooms, and stage area.* Tours begin and end in the Met lobby and are held during the Met performance season. The schedule varies and is dependent on the Met's rehearsal schedule.",
+  "Quote": "Riveting soprano Asmik Grigorian returns to the Met as Tatiana, the lovestruck young heroine in Tchaikovsky’s ardent operatic adaptation of Pushkin, with Iurii Samoilov as the urbane Onegin. Timur Zangiev conducts.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The Metropolitan Opera's staff includes Grammy-winning conductors and directors with degrees from Juilliard and Yale. Many have specialized training in vocal pedagogy and extensive experience on international opera stages.",
+    "Student Wellbeing": "The Met offers comprehensive wellness programs, including access to performance psychologists and nutritionists. Regular workshops focus on stress management and building a supportive artistic community.",
+    "Academic Integration": "The Met partners with Juilliard for specialized opera courses, integrating music theory and performance practice. Students can also engage in masterclasses led by renowned visiting artists.",
+    "Competitive Pathway": "Alumni have secured roles in top opera houses worldwide and often pursue further studies at Ivy League institutions. Notable graduates include Grammy Award winners and Metropolitan Opera National Council Auditions finalists.",
+    "Facilities & Resources": "The Met boasts state-of-the-art rehearsal studios and a world-class stage at Lincoln Center. Additional resources include costume and set design workshops and an extensive music library.",
+    "Ongoing Accountability": "Progress is tracked through regular performance reviews and feedback sessions with artistic advisors. The Met maintains high standards aligned with NYSAIS accreditation and hosts annual parent conferences."
+  },
+  "URL": "https://metopera.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://metopera.org/globalassets/about/our-story/1380x391_ourstory.jpg",
+    "https://metopera.org/globalassets/visit/accessibility/misc1380x39117.jpg",
+    "https://metopera.org/globalassets/visit/food-and-drink/drinks.jpg",
+    "https://metopera.org/globalassets/about/who-we-are/1380x391_whoweare.jpg",
+    "https://metopera.org/globalassets/about/annual-reports/876x416_lulu.jpg",
+    "https://metopera.org/globalassets/visit/gallery-met/banners/porgy-and-bess/gallerymet_feb26_bannerupdate_bucket.jpg",
+    "https://metopera.org/globalassets/visit/food-and-drink/1600x685_pre-showdining.jpg",
+    "https://metopera.org/globalassets/visit/gallery-met/exhibitions/gallerymet_jan24_websiteupdate_pastexhibitions.jpg",
+    "https://metopera.org/globalassets/home/buckets/2020-21-season/general/empty-house-766x500.jpg",
+    "https://metopera.org/globalassets/about/annual-reports/dsc_0638_2.jpg"
+  ]
+}

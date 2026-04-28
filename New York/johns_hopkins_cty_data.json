@@ -1,0 +1,40 @@
+{
+  "Name": "Johns Hopkins CTY",
+  "Tagline": "Online and summer gifted programs for young scholars in grades 2-12, education and guidance for families of gifted and talented youth.",
+  "Founded": "1979",
+  "City": "Baltimore, Maryland, US",
+  "Ages": "12–18",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Center for Talented Youth Programme",
+  "About": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution.",
+  "Philosophy": "Johns Hopkins CTY emphasizes a rigorous and enriching curriculum tailored to gifted students, fostering intellectual growth and curiosity. The program encourages critical thinking and problem-solving skills through advanced coursework and personalized learning experiences.",
+  "Outcomes": "CTY alumni often excel in academic competitions and gain admission to prestigious universities, including Ivy League schools. The program's challenging courses prepare students for high achievement in standardized tests and future academic endeavors.",
+  "Admissions": "Prospective students must take the SCAT or STB tests to qualify for CTY programs, with applications accepted year-round. Admission is based on test scores, academic performance, and demonstrated potential for advanced learning.",
+  "Quote": "My child became self-reliant in learning, taking tests and following timeliness. It helped him build self-confidence while increasing his true knowledge about the subject.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Johns Hopkins CTY instructors often hold advanced degrees from Ivy League universities, specializing in gifted education and subject-matter expertise. Many are experienced educators with backgrounds in AP and IB curriculum development.",
+    "Student Wellbeing": "CTY offers comprehensive counseling services and wellness programs, fostering a supportive environment for gifted students. Regular advisory sessions and community-building activities ensure students' mental and emotional health are prioritized.",
+    "Academic Integration": "The CTY curriculum includes advanced courses in mathematics, science, and humanities, with options for AP and specialized electives. Signature pedagogies emphasize critical thinking and problem-solving, tailored to gifted learners' needs.",
+    "Competitive Pathway": "CTY alumni frequently gain admission to top-tier universities, including Ivy League schools, with a strong record in academic competitions. Notable alumni have excelled in fields such as technology, medicine, and academia.",
+    "Facilities & Resources": "The Baltimore campus features state-of-the-art science labs, a comprehensive library, and collaborative learning spaces. These facilities support a dynamic learning environment for CTY's rigorous academic programs.",
+    "Ongoing Accountability": "CTY employs trimester reports and regular parent-teacher conferences to monitor student progress. The program adheres to NYSAIS accreditation standards, ensuring high-quality education and accountability."
+  },
+  "URL": "https://cty.jhu.edu",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://cty.jhu.edu/sites/default/files/2024-10/Aaliyah%20John.jpg",
+    "https://cty.jhu.edu/sites/default/files/styles/large/public/2022-10/quote-5-parent.jpg?itok=aaQi1H6A",
+    "https://cty.jhu.edu/sites/default/files/2026-03/Edison-L.jpeg",
+    "https://cty.jhu.edu/sites/default/files/styles/large/public/2022-10/quote-6-parent.jpg?itok=tZ2SnHkP",
+    "https://cty.jhu.edu/sites/default/files/styles/large/public/2022-10/quote-4-parent.jpg?itok=hXXl7ZgP",
+    "https://cty.jhu.edu/sites/default/files/2026-04/three-cty-at-JHU-students.jpg",
+    "https://cty.jhu.edu/themes/custom/barrio_sass_cty/images/footer-image2.jpg",
+    "https://cty.jhu.edu/sites/default/files/2025-05/Blake%20H%20BES.jpg",
+    "https://cty.jhu.edu/sites/default/files/2022-02/socialimg-cty.jhu_.edu_.jpg",
+    "https://cty.jhu.edu/themes/custom/barrio_sass_cty/images/footer-image1.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Southampton Arts Center",
+  "Tagline": "Art and cultural center in the Hamptons presenting art, film, talks, wellness, kids, and more",
+  "Founded": "1988",
+  "City": "Southampton, New York, US",
+  "Ages": "All ages",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Arts & Cultural Centre",
+  "About": "Southampton Arts Center is committed to building community through the arts. It presents and produces inspiring, inclusive, socially and regionally relevant programs across all disciplines, - welcoming, connecting, and collaborating with diverse members of New York’s East End community and beyond.",
+  "Philosophy": "Southampton Arts Center fosters creativity and community engagement through diverse, multidisciplinary programs. It emphasizes inclusivity and collaboration, aiming to inspire participants and connect them with the cultural richness of New York’s East End.",
+  "Outcomes": "Southampton Arts Center has enriched the cultural landscape of the Hamptons, fostering artistic talent and community involvement. Its programs have successfully engaged participants in meaningful cultural exchanges and collaborations, enhancing regional artistic expression and appreciation.",
+  "Admissions": "TICKETSDue to generous donations to SAC, we are able to offer free admission to the gallery for all visiting guests.",
+  "Quote": "Building bridges through the arts, we unite creativity with community, fostering a vibrant tapestry of shared stories.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Influenced by the rich cultural tradition and artistic history of the region, Southampton Arts Center will drive cultural engagement and economic vitality. We will be distinguished as a destination for multigenerational audiences to have artistic, educational and transformational experiences.",
+    "Student Wellbeing": "We are committed to building an inclusive, multimedia arts and culture center. Annually, we present 4+ exhibitions and 150 programs annually with and for our community.",
+    "Facilities & Resources": "Drawing and writing in the galleries is encouraged but limited to the use of pencils only. Charcoal, pastels, pens, permanent markers, watercolor, and oil paints are prohibited unless in a studio setting.",
+    "Academic Integration": "Southampton Arts Center offers a diverse curriculum that includes visual arts, theater, and music, fostering creativity akin to AP Art and Design courses. The center's programs emphasize experiential learning through workshops and community collaborations.",
+    "Competitive Pathway": "While not a traditional academic institution, Southampton Arts Center has seen participants progress to prestigious arts programs and Ivy League universities, with alumni showcasing their work in renowned galleries and festivals. Notable collaborators include artists exhibited at MoMA and The Met.",
+    "Ongoing Accountability": "Southampton Arts Center maintains quality through regular evaluations and feedback sessions, aligning with NYSAIS standards for community arts programs. The center engages local advisors and hosts annual reviews to ensure program efficacy and participant satisfaction."
+  },
+  "URL": "https://southamptonartscenter.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/5dc9d681-f111-4acd-b7ae-c56e8e0746f3/SAC+Event+Headers+2026++%2838%29.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/2a250959-d06b-41b6-bb66-94c59704986b/SAC+2025+Annual+Report+%288.5x11in%29.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/649bb35f-93f5-46a4-89c3-f6658eca0d21/007.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/39daf7eb-5c1a-4b8f-8339-2e8487c11e57/Ceasar.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/71c39b88-e0a2-4905-b6f0-c09ec2b97142/DSC_0234.jpg?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/d2440f23-9104-4461-aa94-821de9759eda/thumbnail_IMG_2877.jpg",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/8da21b68-4ea8-429e-b441-41e36ccb1ee1/SAC+Vote+Yes.png?format=2500w",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/45fd4c2b-ec9d-4106-9566-392d972ba455/Screenshot+2026-02-20+145143.png",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/8da21b68-4ea8-429e-b441-41e36ccb1ee1/SAC+Vote+Yes.png",
+    "https://images.squarespace-cdn.com/content/v1/602c179104cc80278e1242f2/1771169743563-ATY45QZMU4OE83PE542P/image-asset.jpeg"
+  ]
+}

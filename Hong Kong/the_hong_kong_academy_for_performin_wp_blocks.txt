@@ -1,0 +1,377 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://hkapa.edu/f/landingpage/211/480c480/001.jpg" alt="" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html"><br>Elite</a>&#8250; <a href="elite-city-hong-kong.html">Hong Kong</a>&#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>The Hong Kong Academy for Performing Arts (HKAPA)</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Hong Kong Academy for Performing Arts is a leading tertiary institution in performing arts in Asia. The study encompasses Chinese Opera, Dance, Drama, Film and Television, Music, and Theatre and E</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>18–25</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ages</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>800</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Students</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>1:10</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ratio</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>1984</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Founded</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading -->
+<h2 class="wp-block-heading">About <em>The Hong Kong Academy for Performing Arts (HKAPA)</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Hong Kong Academy for Performing Arts (HKAPA), established by The Hong Kong Academy for Performing Arts Ordinance in 1984, is a world-leading higher education institution for the performing arts. It provides professionally-oriented undergraduate education and postgraduate studies in Chinese Opera, Dance, Drama, Film and Television, Music, and Theatre and Entertainment Arts.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Institution Details</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Type</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ages</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Students</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ratio </h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Founded</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">City</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Annual fee</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Performing Arts Academy</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">18–25</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">800</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">1:10</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">1984</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Hong Kong</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">See website</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><a href="https://hkapa.edu" target="_blank" rel="noreferrer noopener">hkapa.edu &#8594;</a></h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quotes</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Ignite your passion, master your craft, and transform the world through the power of the performing arts.&rdquo;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">The Hong Kong Academy for Performing Arts (HKAPA)</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Philosophy</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As one of the world's leading institutions for performing arts education, HKAPA encompasses six diverse schools—Chinese Opera, Dance, Drama, Music, Film and Television, and Theatre and Entertainment Arts—creating a vibrant, interdisciplinary environment that fosters creativity and cultural exchange. Professor Anna CY Chan is the Director of The Hong Kong Academy for Performing Arts.<br><br><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Outcomes</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>HKAPA graduates are equipped with the skills and knowledge to excel in the performing arts industry, contributing to cultural development locally and internationally.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":441,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://hkapa.edu/f/keyvisual/60866/750c1500/mobile-banner-Mar2026.webp" alt="" class="wp-image-441"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":449,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://hkapa.edu/f/landingpage/211/2448c1336/QS-thankyou-eng.webp" alt="" class="wp-image-449"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":450,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://hkapa.edu/f/landingpage/211/528c324/APA%20Mar-Apr%20e-banner_1056x648.webp" alt="" class="wp-image-450"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":451,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://hkapa.edu/f/page/71137/856p1056/DSC02885.webp" alt="" class="wp-image-451"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":452,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://hkapa.edu/f/landingpage/211/480c480/001.jpg" alt="" class="wp-image-452"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How The Hong Kong Academy for Performing Arts (HKAPA) performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Coaching Credentials</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Professor Chan’s influence extends beyond institutional leadership. She is a sought-after keynote speaker, presenter, and guest lecturer, having shared her expertise at international symposiums, cultural summits, festivals, and conferences across Asia, Europe, and the Americas.<br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Student Wellbeing</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Hong Kong Academy for Performing Arts (HKAPA), established by The Hong Kong Academy for Performing Arts Ordinance in 1984, is a world-leading higher education institution for the performing arts. It provides professionally-oriented undergraduate education and postgraduate studies in Chinese Opera, Dance, Drama, Film and Television, Music, and Theatre and Entertainment Arts.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Academic Integration</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Academy has been granted Programme Area Accreditation status by the Hong Kong Council for Accreditation of Academic and Vocational Qualifications to award its own Certificates, Diplomas, Bachelor’s (Honours) Degrees and Master’s Degrees. In the past four decades, more than 10,000 artists have graduated from the Academy, going on to become performing artists, creative arts practitioners, filmmakers, educators and cultural leaders with global impact – many have won international awards and shone in their respective artistic fields.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Competitive Pathway</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Facilities &amp; Resources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Besides the main campus in Wanchai, Béthanie, the Academy’s Landmark Heritage Campus in Pokfulam, houses educational facilities for the School of Film and Television. As the Academy’s Deputy Director (Administration), working closely with the Director, Patrick provides leadership in the development and implementation of HKAPA’s administrative and operational functions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Ongoing Accountability</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Prospective students must pass auditions or interviews and meet academic requirements to gain admission to HKAPA's competitive programs.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Enquiries Open</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Year-round</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Application Deadline</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Rolling admissions</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Annual Fee</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>See website</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Location</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hong Kong</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Website</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://hkapa.edu" target="_blank" rel="noreferrer noopener">hkapa.edu</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Ignite your passion, master your craft, and transform the world through the power of the performing arts.&rdquo;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">The Hong Kong Academy for Performing Arts (HKAPA)</h5>
+<!-- /wp:heading -->

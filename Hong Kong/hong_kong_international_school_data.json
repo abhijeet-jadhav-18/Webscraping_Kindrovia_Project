@@ -1,0 +1,40 @@
+{
+  "Name": "Hong Kong International School",
+  "Tagline": "An American-style education grounded in the Christian faith and respecting the spiritual lives of all.",
+  "Founded": "1966",
+  "City": "Hong Kong",
+  "Ages": "5–18",
+  "Students": "2800",
+  "Ratio": "1:10",
+  "Fees": "See website",
+  "Type": "American Curriculum International School",
+  "About": "In-person tours are available annually from mid-October through early-April and are led by student or parent ambassadors, followed by an info session with the Director of Enrollment Management. In the meantime, please explore our virtual tours below.",
+  "Philosophy": "Each student’s ability to achieve success in an atmosphere of high expectations and an environment of self-discipline and responsibility to the school community is carefully assessed. HKIS implements a Dual Language Immersion program starting in the 2025-2026 school year.",
+  "Outcomes": "Hong Kong International School graduates are accepted into prestigious universities worldwide, including Ivy League schools. Students excel in international competitions, showcasing their talents in academics, arts, and sports, reflecting the school's commitment to holistic development.",
+  "Admissions": "Thank you for your interest in applying to Hong Kong International School. We serve students from Reception One (pre-kindergarten) to Grade 12 across four divisions.",
+  "Quote": "Dedicating our minds to inquiry, our hearts to compassion, and our lives to service and global understanding. An American-style education grounded in the Christian faith and respecting the spiritual lives of all.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Facilities & Resources": "Similar to its curricular goals and practice, students in the Academy are offered swim lessons and a variety of aquatics activities at their level & ability, thus ensuring students experience success, enjoyment, improvement of their skills, and development of their knowledge & understanding of water safety concepts & skills.",
+    "Coaching Credentials": "We’re thrilled to introduce a variety of new wellness and fitness programs designed for students, parents, and faculty/staff at HKIS!",
+    "Student Wellbeing": "Hong Kong International School offers a comprehensive pastoral care program, including counseling services and wellness initiatives, to support student mental health. Regular community-building activities foster a supportive environment, aligning with Hong Kong's emphasis on holistic education.",
+    "Academic Integration": "The school offers an American curriculum with Advanced Placement (AP) courses, integrating global perspectives alongside local educational standards. Emphasizing inquiry-based learning, HKIS prepares students for international academic challenges and diverse career paths.",
+    "Competitive Pathway": "Graduates from HKIS have a strong track record of acceptance into Ivy League and top-tier universities globally. Students consistently achieve high scores in AP exams, reflecting the school's academic rigor and competitive edge.",
+    "Ongoing Accountability": "HKIS maintains quality through regular accreditation reviews and detailed progress reports, ensuring transparency and accountability. Parent-teacher conferences facilitate open communication, aligning with Hong Kong's educational standards for continuous improvement."
+  },
+  "URL": "https://hkis.edu.hk",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://hkis.edu.hk/userfiles/hkismvc/images/body/01-about-hkis/Our%20Facilities/History%20Wall_2.jpg",
+    "https://hkis.edu.hk/Images/1px.jpg?command_1=url&url_1=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQGVw9dj500SuQ%2Ffeedshare-shrink_1280%2FB56Z3N3XBaJwAM-%2F0%2F1777275335158%3Fe%3D1778716800%26v%3Dbeta%26t%3D5jASgZbJON-EiDNDjrYA7mf9mNFQl2JGrRkongQrTNA&command_2=resize&width_2=380&command_3=default&default_3=/Images/default-thumbs/facebook.jpg&webp=true",
+    "https://hkis.edu.hk/userfiles/hkismvc/images/body/01-about-hkis/Our%20Facilities/DCAA/Gymnasium.jpg?command_1=resize&width_1=500&webp=true",
+    "https://hkis.edu.hk/Images/assets/ribbons/ribbon-a.png",
+    "https://hkis.edu.hk/userfiles/hkismvc/images/body/01-about-hkis/Our%20Facilities/DCAA/Golf%20Center.jpg?command_1=resize&width_1=500&webp=true",
+    "https://hkis.edu.hk/userfiles/hkismvc/images/cards/HS-Card-Chinese%20Studies.jpg?command_1=resize&width_1=500&webp=true",
+    "https://hkis.edu.hk/userfiles/hkismvc/images/body/01-about-hkis/Our%20Facilities/History%20%26%20Future_2.jpg",
+    "https://hkis.edu.hk/Images/assets/ribbons/ribbon-b.png",
+    "https://hkis.edu.hk/userfiles/hkismvc/images/promos/Promo%20-%20About%20HKIS.jpg",
+    "https://hkis.edu.hk/userfiles/hkismvc/images/body/01-about-hkis/Our%20Facilities/DCAA/Climbing%20Wall.jpg?command_1=resize&width_1=500&webp=true"
+  ]
+}

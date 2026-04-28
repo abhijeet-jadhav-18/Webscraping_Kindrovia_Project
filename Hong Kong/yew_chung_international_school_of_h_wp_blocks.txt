@@ -1,0 +1,377 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://object.ycyw.com/ycis-hk/res/hk/images/sch-life/cf-6.jpg" alt="" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html"><br>Elite</a>&#8250; <a href="elite-city-hong-kong.html">Hong Kong</a>&#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>Yew Chung International School of Hong Kong</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Seeking a top International School in Hong Kong? Through-train education for ages 6 months-18 years. Learn more!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>5–18</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ages</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>2800</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Students</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>1:10</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ratio</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>1932</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Founded</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading -->
+<h2 class="wp-block-heading">About <em>Yew Chung International School of Hong Kong</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>* Required The password must contain letters, numbers and special characters, at least 6 characters.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Institution Details</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Type</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ages</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Students</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ratio </h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Founded</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">City</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Annual fee</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">IB World Day School</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">5–18</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">2800</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">1:10</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">1932</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Hong Kong</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">See website</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><a href="https://ycis-hk.com" target="_blank" rel="noreferrer noopener">ycis-hk.com &#8594;</a></h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quotes</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Our unique Western and Chinese co-leadership model attracts top educators from around the world.&rdquo;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Yew Chung International School of Hong Kong</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Philosophy</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>YCIS Hong Kong has played a revolutionary role in developing education in Hong Kong. The school provides through-train, international education to expatriate and local children aged 6 months to 18 years old.<br><br><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Outcomes</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Students use their time at YCIS to improve and prepare for the future. Through career planning workshops and global university networking activities, our dedicated guidance counsellors provide individual and in-depth guidance to all students as they embark on the next steps in their lives.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":441,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://info.ycis-hk.com/hs-fs/hubfs/Artboard%201-4.png?width=8082&height=1041&name=Artboard%201-4.png" alt="" class="wp-image-441"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":449,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://info.ycis-hk.com/hs-fs/hubfs/PRI_Online_EN_v2.jpg?width=1200&height=1200&name=PRI_Online_EN_v2.jpg" alt="" class="wp-image-449"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":450,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://object.ycyw.com/static-images/home/01_Landing_3_Milestone_13_MAIN_2004_GE_Dusseldorf.png" alt="" class="wp-image-450"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":451,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://object.ycyw.com/media-library/ycyw-edu/news/2026%20Drama/News%20OG%20Image-9.png" alt="" class="wp-image-451"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":452,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://object.ycyw.com/ycis-hk/res/hk/images/sch-life/cf-6.jpg" alt="" class="wp-image-452"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How Yew Chung International School of Hong Kong performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Coaching Credentials</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Today, YCIS Hong Kong operates eight campuses across prime locations in Kowloon Tong, along with an additional campus in the heart of Tseung Kwan O. We provide a seamless, world-class educational journey from Early Childhood Education (ECE) through Secondary, welcoming children aged 6 months to 18 years from both local and international families.<br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Student Wellbeing</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ms Ingrid Luk Van graduated from the University of Pennsylvania (MPhilEd, MSEd) and the University of Virginia (BA), specialising in mental health counselling and psychology. She co-authored a scientific literature review for Current Diabetes Reports with the University of Virginia’s School of Medicine.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Academic Integration</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For some Year levels the students enjoy Learning Communities open plan flexible spaces, which provide multiple learning options depending on the task in-hand.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Competitive Pathway</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>YCIS Hong Kong is a fully accredited school recognised by the Council of International Schools (CIS) and an approved Cambridge International Examinations testing centre for the International General Certificate of Secondary Education (IGCSE). As an International Baccalaureate World School (IB World School), we are proud to offer the International Baccalaureate (IB) Diploma Programme as part of our international curriculum.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Facilities &amp; Resources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>YCIS Hong Kong campuses are more than places of education. They are places for students to grow with no boundaries.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Ongoing Accountability</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>All admission related fees are listed clearly in our Admissions and Enrolment pack and on the Yew Chung International School Hong Kong (YCIS HK) website. These fees should be paid directly to the official accounts of YCIS HK.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Enquiries Open</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Year-round</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Application Deadline</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Rolling admissions</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Annual Fee</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>See website</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Location</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hong Kong</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Website</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://ycis-hk.com" target="_blank" rel="noreferrer noopener">ycis-hk.com</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;Our unique Western and Chinese co-leadership model attracts top educators from around the world.&rdquo;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Yew Chung International School of Hong Kong</h5>
+<!-- /wp:heading -->

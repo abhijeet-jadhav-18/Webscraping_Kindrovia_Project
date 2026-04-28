@@ -1,0 +1,40 @@
+{
+  "Name": "Hong Kong Jockey Club",
+  "Tagline": "致力提供世界最高水平的賽馬、體育及博彩娛樂，同時維持全港最大慈善公益資助機構的地位。",
+  "Founded": "1884",
+  "City": "Hong Kong",
+  "Ages": "Adults 18+",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "Members Club & Sports Organisation",
+  "About": "The Hong Kong Jockey Club is a premier members club and sports organization, renowned for its world-class horse racing, sports, and betting entertainment. It is also Hong Kong's largest charitable donor, significantly contributing to the community's welfare.",
+  "Philosophy": "The club emphasizes excellence and integrity in all its operations, fostering a culture of sportsmanship and responsibility. It aims to enhance the quality of life in Hong Kong through its diverse range of activities and charitable initiatives.",
+  "Outcomes": "The Hong Kong Jockey Club has been instrumental in supporting numerous community projects and initiatives, enhancing public welfare and sports development. Its contributions have led to improved facilities and opportunities in sports and recreation across Hong Kong.",
+  "Admissions": "Membership to the Hong Kong Jockey Club is exclusive, requiring a nomination by existing members and approval by the club's committee. Prospective members should demonstrate a commitment to the club's values and community engagement.",
+  "Quote": "Fostering community spirit and excellence through the power of sports, innovation, and responsible entertainment.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The Hong Kong Jockey Club employs coaches with international certifications in sports management and equestrian training, including UK Coaching Certificates and FEI qualifications. Many staff have extensive experience in global sports organizations.",
+    "Student Wellbeing": "The club offers comprehensive wellness programs, including mental health workshops and fitness assessments, to support member wellbeing. It collaborates with local experts to provide personalized counselling and stress management sessions.",
+    "Academic Integration": "While primarily a sports organization, the club partners with local schools to offer sports science workshops aligning with the DSE curriculum. It supports educational initiatives that integrate physical education with academic learning.",
+    "Competitive Pathway": "Members have achieved notable success in international horse racing competitions, enhancing their profiles for university sports scholarships. The club's training programs are recognized for producing athletes with high competition win rates.",
+    "Facilities & Resources": "The Hong Kong Jockey Club boasts state-of-the-art facilities, including an Olympic-sized swimming pool, advanced equestrian arenas, and a fitness center equipped with the latest training technology. Members enjoy exclusive access to these amenities.",
+    "Ongoing Accountability": "The club conducts regular performance reviews and feedback sessions to ensure member progress and satisfaction. It adheres to stringent quality standards, with annual audits and member surveys guiding continuous improvement."
+  },
+  "URL": "https://hkjc.com",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://consvc.hkjc.com/-/media/Sites/JCEW/Homepage/images/Discover-HKJC/home-discover-hkjc-reh-mobile-v2.jpg?rev=3840ba5a13b248a3a6ac57a48e21930a&sc_lang=zh-HK",
+    "https://hkjc.com/corporate/common/images/who-we-are/tbn-world-class-horse-racing-operator.jpg",
+    "https://consvc.hkjc.com/-/media/Sites/JCEW/Homepage/images/NewsHappenings/Corporate/2026-04/news_2026042302100_01_686x392.jpg?rev=f0da4779d9c94cc19a5ec37759ef7ae4&sc_lang=zh-HK",
+    "https://consvc.hkjc.com/-/media/Sites/BannerAd/Banner/BDMC/BDMC_CAROUSEL-2025/0005/4/RacingForGood-HP_Revamp_Desktop-1840x730.jpg?rev=35e1b8b2bf3c4cc39e40dfa581a8f65c&hash=D75219EA787705CA547CA441CDFA13BA",
+    "https://charities.hkjc.com//consvc.hkjc.com/-/media/Sites/JCEW/Charities/about-us/landing/about-us-community-facilities.png?rev=f48c47b3d4c148458d8da279ca5feea1&sc_lang=zh-HK",
+    "https://consvc.hkjc.com/-/media/Sites/JCEW/Homepage/images/NewsHappenings/HorseRacing/2026-04/260426-wrapup-mile-686x392.jpg?rev=c9f0f255e224424ab8f4ff6072a94ad5&sc_lang=zh-HK",
+    "https://hkjc.com/corporate/common/images/who-we-are/who-we-are-mobile-pic-c.jpg",
+    "https://charities.hkjc.com//consvc.hkjc.com/-/media/Sites/JCEW/Charities/about-us/news-publication/2026FEB_StridingOn_Vol58_Cover_786x786.jpg?rev=b9f6f5c93a474889ac9284320a5cbad7&sc_lang=zh-HK",
+    "https://consvc.hkjc.com/-/media/Sites/JCEW/Homepage/images/HKJC-Voices/OurPeople_CherKay_Thumbnail.jpg?rev=fc76692a36364521a903e1c36d744a95&sc_lang=zh-HK",
+    "https://corporate.hkjc.com//consvc.hkjc.com/-/media/Sites/JCEW/Corporate/image/news/2026/04/news_2026041701833_01s.jpg?rev=78da31a28a9a4b0dbf87f8091859b680&sc_lang=zh-HK"
+  ]
+}

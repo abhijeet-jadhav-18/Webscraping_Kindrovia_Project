@@ -1,0 +1,377 @@
+<!-- wp:image {"id":440,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://images.squarespace-cdn.com/content/v1/65a69e9727cdb82a91524455/1770725706078-XOWINDVWO0QBT7BI66MU/image-asset.jpeg" alt="" class="wp-image-440"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="elite-home.html"><br>Elite</a>&#8250; <a href="elite-city-hong-kong.html">Hong Kong</a>&#8250; <a href="elite-program-academic.html">Elite Academic Programs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Elite Academic Programs</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><em>British Tutors</em></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Award-Winning Home Tuition and Education Consultancy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>5–18</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ages</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Students</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>N/A</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ratio</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>2008</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Founded</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading -->
+<h2 class="wp-block-heading">About <em>British Tutors</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Founded in 2008, British Tutors is an award-winning private tuition and education consultancy company. We arrange lessons with top tutors in Hong Kong and Singapore, offering academic support in a wide range of subjects.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Institution Details</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Type</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ages</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Students</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Ratio </h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Founded</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">City</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Annual fee</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Tutoring & Education Consultancy</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">5–18</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">N/A</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">2008</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Hong Kong</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">See website</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><a href="https://britishtutors.com" target="_blank" rel="noreferrer noopener">britishtutors.com &#8594;</a></h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Quotes</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;British Tutors act as teachers and, more importantly, mentors for our children.&rdquo;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">British Tutors</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Philosophy</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>June - September: Research the university and attend open days where possible. For some courses, you’ll be required to sit an admissions test, which the university use to assess your academic potential and suitability for the course.<br><br><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Outcomes</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>British Tutors helps students gain admission to top universities, including Oxford and Cambridge. Their tailored approach enhances academic performance and builds confidence in a wide range of subjects.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":441,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.squarespace-cdn.com/content/v1/65a69e9727cdb82a91524455/1710137043357-IXCU5DE4J587VDPB7KIY/vadim-sherbakov-d6ebY-faOO0-unsplash.jpg" alt="" class="wp-image-441"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":449,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.squarespace-cdn.com/content/v1/65a69e9727cdb82a91524455/60b83c70-12b4-413b-b631-47ec02134965/elephant-sticker-2.png" alt="" class="wp-image-449"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":450,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://images.squarespace-cdn.com/content/v1/65a69e9727cdb82a91524455/641e5c6d-fe10-48f1-a777-38d68fd8d0db/elephant-stickers-4.png" alt="" class="wp-image-450"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":451,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://images.squarespace-cdn.com/content/v1/65a69e9727cdb82a91524455/58d03aa6-ba0a-48db-8425-6657976c0970/playtimes-280x96-1.png" alt="" class="wp-image-451"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":452,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://images.squarespace-cdn.com/content/v1/65a69e9727cdb82a91524455/1770725706078-XOWINDVWO0QBT7BI66MU/image-asset.jpeg" alt="" class="wp-image-452"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Our Assessment</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>How British Tutors performs</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Coaching Credentials</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Suzy holds a first class Bachelor of Science degree in Psychology from The Open University, UK. She works to find the perfect tutor for every British Tutors client.<br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Student Wellbeing</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Founded in 2008, British Tutors is an award-winning private tuition and education consultancy company. We arrange lessons with top tutors in Hong Kong and Singapore, offering academic support in a wide range of subjects.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Academic Integration</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Competitive Pathway</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Both Oxford and Cambridge are known for their prestige, and the competition is certainly fierce. Each year, thousands of talented applicants apply for a limited number of places, so standing out is essential.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Facilities &amp; Resources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our tutors all have access to our library of British teaching materials, bringing the best of British education to their students in Hong Kong and Singapore. As a company, we specialise in teaching children who are entering the British schooling system, to bridge the gap and ease the transition between the local system and that in the UK.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Ongoing Accountability</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Salina heads the accounts department, liaising with clients in both English and Cantonese. Taking pride in her efficiency and keen eye for detail, she is the point of contact for invoicing and sends on detailed monthly progress reports to clients.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We are Asia’s experts in preparing students to apply for Oxford and Cambridge Universities. The application is a multi-step process and our team of Oxbridge graduate tutors and advisors can help you with every step of the journey.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Enquiries Open</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Year-round</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Application Deadline</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Rolling admissions</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Annual Fee</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>See website</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Location</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hong Kong</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Website</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://britishtutors.com" target="_blank" rel="noreferrer noopener">britishtutors.com</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">&ldquo;British Tutors act as teachers and, more importantly, mentors for our children.&rdquo;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">British Tutors</h5>
+<!-- /wp:heading -->

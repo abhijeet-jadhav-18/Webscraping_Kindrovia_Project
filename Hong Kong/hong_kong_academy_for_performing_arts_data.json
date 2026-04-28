@@ -1,0 +1,40 @@
+{
+  "Name": "Hong Kong Academy for Performing Arts",
+  "Tagline": "The Hong Kong Academy for Performing Arts is a leading tertiary institution in performing arts in Asia. The study encompasses Chinese Opera, Dance, Drama, Film and Television, Music, and Theatre and E",
+  "Founded": "1984",
+  "City": "Wan Chai, Hong Kong",
+  "Ages": "18–30",
+  "Students": "1000",
+  "Ratio": "1:10",
+  "Fees": "See website",
+  "Type": "Performing Arts Conservatory",
+  "About": "The Hong Kong Academy for Performing Arts (HKAPA), established by The Hong Kong Academy for Performing Arts Ordinance in 1984, is a world-leading higher education institution for the performing arts. It provides professionally-oriented undergraduate education and postgraduate studies in Chinese Opera, Dance, Drama, Film and Television, Music, and Theatre and Entertainment Arts.",
+  "Philosophy": "As one of the world's leading institutions for performing arts education, HKAPA encompasses six diverse schools—Chinese Opera, Dance, Drama, Music, Film and Television, and Theatre and Entertainment Arts—creating a vibrant, interdisciplinary environment that fosters creativity and cultural exchange. Professor Anna CY Chan is the Director of The Hong Kong Academy for Performing Arts.",
+  "Outcomes": "Graduates of the Hong Kong Academy for Performing Arts have successfully joined prestigious international performing arts companies and have been recipients of numerous awards at global arts competitions. Many alumni have also pursued further studies at top universities worldwide.",
+  "Admissions": "Prospective students must undergo a rigorous audition process and submit academic transcripts. Applications typically open in the fall, with auditions and interviews conducted in the spring for programs commencing in September.",
+  "Quote": "Nurturing creative excellence and cultural innovation, we inspire the next generation of performing artists to transform the world.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Faculty members at HKAPA hold advanced degrees from prestigious institutions and possess extensive international performance experience, ensuring high-quality instruction in their respective disciplines.",
+    "Student Wellbeing": "HKAPA offers comprehensive counselling services and wellness workshops, fostering a supportive environment that prioritizes students' mental health and emotional resilience.",
+    "Academic Integration": "HKAPA's curriculum incorporates both theoretical and practical components, aligning with international standards and offering pathways equivalent to DSE and IB qualifications for specialized performing arts education.",
+    "Competitive Pathway": "HKAPA graduates frequently gain acceptance to top global universities and have achieved notable success in international competitions, reflecting the institution's strong emphasis on excellence and professional readiness.",
+    "Facilities & Resources": "The HKAPA campus in Wan Chai boasts state-of-the-art performance theatres, rehearsal studios, and dedicated spaces for each discipline, providing students with world-class resources for their artistic development.",
+    "Ongoing Accountability": "HKAPA employs regular progress assessments and detailed feedback sessions, ensuring continuous improvement and maintaining high educational standards through rigorous internal and external reviews."
+  },
+  "URL": "https://hkapa.edu",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://hkapa.edu/f/sectionbanner/62630/1920c480/herobanner_SupportServices.webp",
+    "https://hkapa.edu/f/page/68563/1360c765/message-from-director.jpg",
+    "https://hkapa.edu/f/landingpage/211/1056c648/excel-a.webp",
+    "https://hkapa.edu/f/landingpage/211/480c480/6_5RR_0053_1746603422.jpg",
+    "https://hkapa.edu/f/keyvisual/60866/750c1500/mobile-banner-Mar2026.webp",
+    "https://hkapa.edu/f/event/71466/1176p1176/ALEXANDRE%20DUMAS%E2%80%99%20THREE%20MUSKETEERS%20WHEN%20EAST%20MEETS%20WEST%20%28W%291920%20x%20%28H%29768.webp",
+    "https://hkapa.edu/f/event/71476/1176p1176/APA_Monsun_KV_03_OP_file%20copy.webp",
+    "https://hkapa.edu/f/contentblock/13/0p120/foot_manpowerd.webp",
+    "https://hkapa.edu/f/page/66730/856p1056/A7R07244-s.webp",
+    "https://hkapa.edu/f/sectionbanner/62630/1024c512/about_hkapa_m.webp"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "Westminster School",
+  "Tagline": "A progressive school on an ancient site in the heart of the world's most vibrant city.",
+  "Founded": "1179",
+  "City": "Westminster, London, UK",
+  "Ages": "7–18",
+  "Students": "750",
+  "Ratio": "1:8",
+  "Fees": "£41,607 per year",
+  "Type": "Independent Boarding & Day School",
+  "About": "Each year Westminster School offers places to boys and girls at both 13+ and 16+ entry, while Westminster Under School admits pupils at the 4+, 7+, 8+ and 11+ entry points. Information regarding 4+, 7+, 8+ and 11+ entry can be found on the Under School’s website.",
+  "Philosophy": "The pages in this section of the website provide details specifically relating to 13+ and 16+ entry to Westminster School, outlining the application process, registration timelines, eligibility criteria, fees and opportunities for assistance with fees (Scholarships and Bursaries), to ensure that prospective pupils and their parents have everything needed to be able to apply for a place at the School. To support the application process, we have a dedicated and experienced admissions team, who are available to answer any questions applicants may have and who make applying to the School easy and undaunting.",
+  "Outcomes": "Westminster School boasts exceptional A-Level results, with a high percentage of students securing places at Oxbridge and other Russell Group universities. Notable alumni include seven British Prime Ministers and numerous influential figures in arts and sciences.",
+  "Admissions": "Prospective students must register for entry assessments, which include exams and interviews, by specified deadlines. The admissions process is competitive, focusing on academic potential and alignment with the school's ethos.",
+  "Quote": "The final date for online submissions is 30 September.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "Westminster School's faculty includes numerous Oxbridge graduates and highly qualified teachers, all holding enhanced DBS checks. Many staff members have professional backgrounds in their respective fields, ensuring expert guidance and mentorship.",
+    "Student Wellbeing": "The school offers a robust house system and dedicated pastoral tutors to support student wellbeing. Additionally, counselling services and tailored wellbeing programmes are available to nurture emotional and mental health.",
+    "Academic Integration": "Westminster School offers a rigorous curriculum with a focus on A-Levels, complemented by specialist subjects like Classics and Sciences. The teaching approach emphasizes critical thinking and independent learning, fostering academic excellence.",
+    "Competitive Pathway": "Westminster School consistently achieves outstanding A-Level results, with a significant percentage of graduates accepted into Oxbridge and other Russell Group universities. Alumni include influential figures in politics, arts, and sciences.",
+    "Facilities & Resources": "The campus boasts state-of-the-art facilities, including modern science labs, a theatre, and a sports hall. These resources support a diverse range of extracurricular activities and academic pursuits.",
+    "Ongoing Accountability": "Westminster School maintains high standards through regular student progress reports and parent consultations. The school is frequently inspected by ISI, consistently receiving excellent evaluations for quality education and pastoral care."
+  },
+  "URL": "https://westminster.org.uk",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.westminster.org.uk/wp-content/uploads/2024/11/PSX_20241009_153036-v2-scaled.jpg",
+    "https://www.westminster.org.uk/wp-content/uploads/2025/11/IMG_7369-1-2048x1362.jpg",
+    "https://www.westminster.org.uk/wp-content/uploads/2025/12/20250331_182746534_iOS-2048x1365.jpg",
+    "https://www.westminster.org.uk/wp-content/uploads/2024/10/Coward.png",
+    "https://www.westminster.org.uk/wp-content/uploads/2025/03/Greaze-2025-EH-129-scaled.jpg",
+    "https://www.westminster.org.uk/wp-content/uploads/2025/05/Revised-Auditorium.png",
+    "https://www.westminster.org.uk/wp-content/uploads/2024/01/Girl-microscope-2-2048x1638.jpg",
+    "https://www.westminster.org.uk/wp-content/uploads/2025/01/2025-Carousel-2-scaled.jpg",
+    "https://www.westminster.org.uk/wp-content/uploads/2025/11/DSC_7900-scaled.jpg",
+    "https://www.westminster.org.uk/wp-content/uploads/2025/01/md8fvygm.png"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "The Purcell School",
+  "Tagline": "Welcome to Purcell School!",
+  "Founded": "1962",
+  "City": "Harrow, London, UK",
+  "Ages": "10–18",
+  "Students": "180",
+  "Ratio": "1:5",
+  "Fees": "£35,000–£45,000 per year",
+  "Type": "Specialist Music School",
+  "About": "The Purcell School is honoured to have His Majesty King Charles III as our Royal Patron. The former Prince of Wales became Patron of The Purcell School in March 1985 and, following his accession, has confirmed the continued patronage of the School.",
+  "Philosophy": "From my own experience of a specialist musical education, I know that really dedicated musical pupils will flourish in the specialised environment of The Purcell School. I am very pleased to be able to support the school, and to help as many talented young musicians as possible to enjoy the opportunities available.",
+  "Outcomes": "Students at The Purcell School are characteristically motivated both musically and academically, and exam results are consistently strong, with excellence in a number of key subjects, including Music, English and Art. Depending on a student’s age and instrumental commitments, approximately a third of curricular time at The Purcell School is spent on musical activities.",
+  "Admissions": "Entry RequirementsWe are looking for students who can demonstrate their musical skill, desire, commitment and potential. Please see here for further information.",
+  "Quote": "Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The Purcell School boasts a faculty with Oxbridge degrees and professional performance backgrounds, ensuring high-level musical education. All staff hold DBS checks and relevant teaching qualifications, providing a safe and expert learning environment.",
+    "Student Wellbeing": "The Purcell School supports student wellbeing through a comprehensive pastoral system, including dedicated house tutors and access to counselling services. Wellbeing programmes focus on mental health, resilience, and personal development.",
+    "Academic Integration": "Students pursue a rigorous curriculum offering A-Levels and GCSEs, with a strong emphasis on music, English, and art. The school integrates specialist music training with academic excellence, fostering well-rounded development.",
+    "Competitive Pathway": "Graduates often secure places at prestigious institutions, including Oxbridge and Russell Group universities, with notable alumni achieving success in various music and arts fields. Exam results consistently reflect high academic standards.",
+    "Facilities & Resources": "The Purcell School features state-of-the-art facilities, including a concert hall, recording studios, and practice rooms. These resources support both individual practice and ensemble performances, enhancing the musical education experience.",
+    "Ongoing Accountability": "Regular student progress is tracked through detailed reports and parent consultations, ensuring continuous feedback. The school maintains high standards, as evidenced by positive ISI inspection outcomes and regular pastoral reviews."
+  },
+  "URL": "https://purcell-school.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.purcell-school.org/wp-content/uploads/2025/01/Goetzee-Aidan-300x300.jpg",
+    "https://www.purcell-school.org/wp-content/uploads/2025/02/Alissa-Firsova-LondonAigaPhotography-scaled-1-768x768.jpg",
+    "https://www.purcell-school.org/wp-content/uploads/2025/01/Adam-Wroblewski-Website.png",
+    "https://www.purcell-school.org/wp-content/uploads/2025/07/ensembles.png",
+    "https://www.purcell-school.org/wp-content/uploads/2025/01/Richard-Hill-photo-300x300.jpg",
+    "https://www.purcell-school.org/wp-content/uploads/sb-instagram-feed-images/678410735_1566576965471708_514660003565048172_nlow.webp",
+    "https://www.purcell-school.org/wp-content/uploads/2026/03/DSC04978-1024x768.jpg",
+    "https://www.purcell-school.org/wp-content/uploads/2025/01/DSC06709-scaled-1-768x768.jpg",
+    "https://www.purcell-school.org/wp-content/uploads/2025/02/alexis-x1600-2_Cropped_HR-scaled-1-300x300.jpg",
+    "https://www.purcell-school.org/wp-content/uploads/2025/05/csm_Magdalene_Ho_fa8dd40398_HR-768x768.jpg"
+  ]
+}

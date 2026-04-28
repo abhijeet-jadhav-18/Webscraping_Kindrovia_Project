@@ -1,0 +1,40 @@
+{
+  "Name": "National Youth Orchestra",
+  "Tagline": "The National Youth Orchestra - the UK’s leading organisation championing orchestral music as a powerful agent for teenage development.",
+  "Founded": "1948",
+  "City": "London, UK",
+  "Ages": "13–18",
+  "Students": "164",
+  "Ratio": "1:10",
+  "Fees": "See website",
+  "Type": "National Youth Orchestra",
+  "About": "Play your part and support the National Youth Orchestra. Find out how your donation transforms the lives of young people.",
+  "Philosophy": "The National Youth Orchestra fosters a collaborative and immersive environment, encouraging young musicians to explore their creativity and develop technical skills. Through intensive rehearsals and performances, students gain confidence and a deeper understanding of orchestral music.",
+  "Outcomes": "Alumni of the National Youth Orchestra often progress to prestigious music conservatoires and universities, including the Royal Academy of Music and Oxbridge. Many have successful careers in leading orchestras and ensembles worldwide, showcasing their exceptional talent and training.",
+  "Admissions": "Prospective members must audition, demonstrating their musical proficiency and passion for orchestral music. The application process typically opens annually, with auditions held across the UK to ensure accessibility for talented young musicians.",
+  "Quote": "Unite in harmony to empower young talents, transforming dreams into symphonies with every note we play.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "on 17 May",
+  "Performance": {
+    "Student Wellbeing": "Apply to join the biggest orchestral music community you’ve ever seen. Accelerate as a musician with world-class tutoring.",
+    "Ongoing Accountability": "We are all over the nation. Find out where you can join the adventure, and be part of our community and audiences.",
+    "Coaching Credentials": "The National Youth Orchestra's coaches include Oxbridge graduates and professional musicians with extensive performance backgrounds in leading UK orchestras. All staff hold DBS checks and relevant teaching qualifications to ensure high-quality instruction.",
+    "Academic Integration": "The National Youth Orchestra offers a curriculum that complements A-Level and GCSE studies, focusing on advanced orchestral techniques and music theory. Students engage in immersive workshops that enhance their academic and musical proficiency.",
+    "Competitive Pathway": "Graduates of the National Youth Orchestra have high acceptance rates to Oxbridge and Russell Group universities, with many securing positions in top-tier orchestras globally. Alumni consistently achieve distinction in music examinations and competitions.",
+    "Facilities & Resources": "The National Youth Orchestra boasts state-of-the-art rehearsal spaces and a dedicated concert hall in London. These facilities provide students with an inspiring environment to refine their orchestral skills and perform publicly."
+  },
+  "URL": "https://nyo.org.uk",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.nyo.org.uk/wp-content/uploads/NYO-Saffron-Walden-160-768x1116.jpg",
+    "https://nyo.org.uk/wp-content/uploads/Megan-1012x1012.jpg",
+    "https://www.nyo.org.uk/wp-content/uploads/IMG-Copy-2-1-243x337.jpg",
+    "https://www.nyo.org.uk/wp-content/uploads/the-orchestra-768x546.png",
+    "https://www.nyo.org.uk/wp-content/uploads/NYO-Inspire-23-In-School-147-1.jpg",
+    "https://www.nyo.org.uk/wp-content/uploads/history-2021-768x511.jpg",
+    "https://nyo.org.uk/wp-content/uploads/Sophie-Kingham-1012x1012.jpg",
+    "https://www.nyo.org.uk/wp-content/uploads/Rhythm-Lover-1200x700-2-768x448.jpg",
+    "https://www.nyo.org.uk/wp-content/uploads/history-1953.jpg",
+    "https://nyo.org.uk/wp-content/uploads/DSC08743-1012x1012.jpeg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "St Paul's Girls' School",
+  "Tagline": "Empowering young women to excel in academics and beyond.",
+  "Founded": "1904",
+  "City": "Hammersmith, London, UK",
+  "Ages": "11–18",
+  "Students": "750",
+  "Ratio": "1:8",
+  "Fees": "£27,831 per year",
+  "Type": "Independent All-Girls School",
+  "About": "St Paul’s Girls’ School is an extraordinary school, offering a classical yet forward-thinking education. A shared love of academic discovery is enriched by broad co-curricular provision, the kindest and most individual of pastoral care and a commitment to partnerships and service to others.",
+  "Philosophy": "We throw ourselves into anything with enthusiasm, dedication and passion. We expect to be busy; getting involved and participating in as many activities as we can.",
+  "Outcomes": "St Paul's Girls' School consistently achieves outstanding A-Level and GCSE results, with many students progressing to prestigious universities such as Oxbridge and other Russell Group institutions. Alumni include influential leaders in various fields, showcasing the school's commitment to excellence.",
+  "Admissions": "While all our students share a love of learning and a keen academic curiosity, there is no typical Paulina. Every year, students join us from a range of primary and prep schools.",
+  "Quote": "Bringing the best of St Paul’s to the world, and the best of the world to St Paul’s.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "St Paul's Girls' School boasts a faculty with numerous Oxbridge graduates and experienced professionals holding DBS and advanced teaching qualifications, ensuring high-quality education and guidance for students.",
+    "Student Wellbeing": "The school prioritizes student wellbeing through a robust house system, dedicated pastoral tutors, and comprehensive counselling services, fostering a supportive and nurturing environment for all students.",
+    "Academic Integration": "Students at St Paul's Girls' School engage in a rigorous curriculum featuring A-Levels and GCSEs, with specialized instruction in subjects like STEM and humanities, supported by innovative teaching methods.",
+    "Competitive Pathway": "Graduates consistently achieve top A-Level results, with a significant number progressing to Oxbridge and Russell Group universities, reflecting the school's commitment to academic excellence and future success.",
+    "Facilities & Resources": "The campus features state-of-the-art facilities, including a modern concert hall, fully equipped science labs, and a dedicated sports hall, providing students with diverse opportunities for extracurricular engagement.",
+    "Ongoing Accountability": "St Paul's Girls' School maintains high standards through regular progress reports, parent-teacher consultations, and positive ISI inspection outcomes, ensuring continuous improvement and accountability in student development."
+  },
+  "URL": "https://spgs.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://spgs.org/wp-content/uploads/2026/04/IMG_4587-02.ai_-640x766.jpg",
+    "https://spgs.org/wp-content/uploads/2022/12/IMG_0113-300x300.jpg",
+    "https://spgs.org/wp-content/uploads/2021/04/Valediction-1920x1330.jpg",
+    "https://spgs.org/wp-content/uploads/2026/01/161025_SPGS_International_164-640x427.jpg",
+    "https://spgs.org/wp-content/uploads/2021/04/Gala-evening-Aldwych-2-1-640x698.jpg",
+    "https://spgs.org/wp-content/uploads/2020/12/school-history-07.jpg",
+    "https://spgs.org/wp-content/uploads/2025/12/IMG_9007-640x360.jpg",
+    "https://spgs.org/wp-content/uploads/2025/09/Tatler-UK-Schools-Guide-front-cover.jpg",
+    "https://spgs.org/wp-content/uploads/2021/04/Gramophone-640x556.jpg",
+    "https://spgs.org/wp-content/uploads/2023/09/The-Week-Independent-Schools-Guide-2023-216x300.png"
+  ]
+}

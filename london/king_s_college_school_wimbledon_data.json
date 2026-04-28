@@ -1,0 +1,40 @@
+{
+  "Name": "King's College School Wimbledon",
+  "Tagline": "King's College School is an independent day school for boys aged 7-18, with a co-educational sixth form. Located in Wimbledon, facing the Common, combining convenient access with a peaceful environmen",
+  "Founded": "1829",
+  "City": "Wimbledon, London, UK",
+  "Ages": "7–18",
+  "Students": "1400",
+  "Ratio": "1:9",
+  "Fees": "£22,000–£27,000 per year",
+  "Type": "Independent Day School",
+  "About": "I want all our pupils to look back on their time at King’s College Junior School and answer this question with a resounding ‘yes’. Our teachers work hard to ensure that life here - in the classroom and outside - is stimulating and exciting.",
+  "Philosophy": "Education is not just about academic subjects and co-curricular activities - it is also about values. There is a simple saying which contains a great deal of truth: it is nice to be important, but more important to be nice.",
+  "Outcomes": "As one of the world’s leading schools, we go beyond academic excellence to develop the whole person. We look outwards, to the world beyond school and to life at 25, equipping pupils with the skills and values to live a fulfilled and purposeful life and to make a positive impact on their lives and on those around them.",
+  "Admissions": "Prospective students must register for entrance exams held in January. Successful candidates are invited for interviews and assessments. Offers are made based on academic performance, interview results, and references.",
+  "Quote": "Drama All boys throughout the junior school are taught classroom drama.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "The curriculum is designed to meet the musical needs of all the pupils and provide them with a solid grounding in the history, theory and practical side of music. This includes the study of different styles and genres, theory and composition, singing, keyboard and percussive work.",
+    "Facilities & Resources": "Since 2018, the music department has been located in a large state-of-the-art facility. The Andrew Halls Music School consists of rehearsal and teaching rooms, a fully equipped recording studio and a 210-seater concert hall which houses a two-manual chamber organ, a harpsichord and a model D Steinway grand piano.",
+    "Ongoing Accountability": "For parents of our current junior school pupils, a live version of this term's clubs can be found on the parent portal.",
+    "Student Wellbeing": "Here at King’s, we are fortunate to have a fantastic library – The Memorial Library – located in the heart of the school campus. The library is staffed by a team of dedicated colleagues, led by Head Librarian, Mrs Barbara Ferramosca, and they run a huge array of initiatives to ensure the avid readers of the school community have all the literary stimulation they could ask for.",
+    "Coaching Credentials": "The teaching staff at King's College School Wimbledon includes numerous Oxbridge graduates and professionals with advanced DBS checks and teaching qualifications, ensuring a high standard of education and pastoral care. Many teachers possess extensive experience in their respective fields, contributing to the school's vibrant academic environment.",
+    "Competitive Pathway": "Graduates from King's College School Wimbledon consistently achieve high A-Level results, with over 25% securing places at Oxbridge and a significant number attending Russell Group universities. Alumni have excelled in diverse fields, including law, medicine, and the arts."
+  },
+  "URL": "https://kcs.org.uk",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://kcs.org.uk/media/12886/all-years.jpg?crop=0,0.44145445331306221,0,0.098540235929529929&cropmode=percentage&width=438&height=285&meta=false&rnd=133942023030000000",
+    "https://kcs.org.uk/media/7752/drannecottonkcs-may2022053.jpg?crop=0.056196124474415708,0.085641063477339033,0.040651875043903211,0.31219520894762093&cropmode=percentage&width=657&height=657&meta=false&rnd=133059343020000000",
+    "https://kcs.org.uk/media/6463/ted-lougher-28th-may-2021-with-pupils-dz2a8600.jpg?crop=0.030531785631185169",
+    "https://kcs.org.uk/media/6463/ted-lougher-28th-may-2021-with-pupils-dz2a8600.jpg?crop=0.030531785631185169,0.21972545632981408,0,0.44403555191861888&cropmode=percentage&width=1345&height=700&meta=false&rnd=132735751470000000",
+    "https://kcs.org.uk/media/1806/img_6114.jpg?crop=0.0000000000000005052748343183",
+    "https://kcs.org.uk/media/5891/book-library-with-open-textbook.jpg?crop=0.075595727198028068",
+    "https://kcs.org.uk/media/14111/sixth-formers-sitting-on-grass-in-quad-wb.jpg?anchor=center&mode=crop&width=657&height=481&meta=false&rnd=134195137360000000",
+    "https://kcs.org.uk/media/7729/kcsjune202274.jpg?center=0.34806629834254144",
+    "https://kcs.org.uk/media/7644/_84a8216.jpg?anchor=center&mode=crop&width=1345&height=700&meta=false&rnd=133045984110000000",
+    "https://kcs.org.uk/media/14120/20251016_world_beyond_photoshoot-75.jpg?anchor=center&mode=crop&width=657&height=657&meta=false&rnd=134195140030000000"
+  ]
+}

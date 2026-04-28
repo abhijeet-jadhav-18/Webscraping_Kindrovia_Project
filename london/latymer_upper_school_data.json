@@ -1,0 +1,40 @@
+{
+  "Name": "Latymer Upper School",
+  "Tagline": "Situated on the banks of the Thames in West London, Latymer Upper School is one of the country's leading fully co-educational schools for children age",
+  "Founded": "1624",
+  "City": "Hammersmith, London, UK",
+  "Ages": "11–18",
+  "Students": "1400",
+  "Ratio": "1:9",
+  "Fees": "£24,000 per year",
+  "Type": "Independent Day School",
+  "About": "“Unpretentious, cosmopolitan community; highly academic; forward-thinking, with a deep-pocketed bursary programme and a fabulous real-world co-ed buzz.” As London’s leading fully co-educational school, with 1,400 girls and boys (11 to 18-year-olds) of very individual characters, Latymer Upper School is not a ‘one size fits all’ school. ‘Modern’, ‘traditional’, ‘academic’, ‘caring’, ‘ambitious’ and ‘grounded’ are some of the words most commonly used to describe the School.",
+  "Philosophy": "As London’s leading fully co-educational school, with 1,400 girls and boys (11 to 18-year-olds) of very individual characters, Latymer Upper School is not a ‘one size fits all’ school.",
+  "Outcomes": "Latymer Upper School boasts impressive A-Level results, with a high percentage of students securing places at top universities, including Oxbridge and Russell Group institutions. Notable alumni include actors Hugh Grant and Alan Rickman, showcasing the school's strong performing arts tradition.",
+  "Admissions": "We aim for our admissions process and communications to be as clear and easy to follow as possible. We very much look forward to sharing our vision and ethos with you.",
+  "Quote": "Empowering diverse minds to thrive and innovate in a vibrant, inclusive, and forward-thinking community.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Academic Integration": "Our wide-ranging co-curricular programme enhances our pupils’ academic curriculum, helping them to grow and mature both emotionally and socially, creating ‘all-rounders’ who enjoy life to the full.",
+    "Ongoing Accountability": "Joining one of the many exciting clubs or societies on offer, auditioning for a music group, trying out for a sports team, working backstage – or indeed performing in one of the fantastic plays produced each term, are some of the ways in which Latymerians discover new experiences.",
+    "Coaching Credentials": "Latymer Upper School staff includes Oxbridge graduates and professionals with extensive performance backgrounds, ensuring high-quality education. All teachers hold DBS checks and relevant teaching qualifications, maintaining a safe learning environment.",
+    "Student Wellbeing": "The school offers a robust pastoral care system with dedicated tutors and counsellors to support student wellbeing. Regular wellbeing programmes and a structured house system foster a supportive community atmosphere.",
+    "Competitive Pathway": "Graduates achieve impressive A-Level results, with a significant number securing places at Oxbridge and Russell Group universities. Notable alumni, like actors Hugh Grant and Alan Rickman, highlight diverse career successes.",
+    "Facilities & Resources": "Latymer Upper School boasts state-of-the-art facilities, including a modern theatre, sports hall, and science labs. The campus also features a swimming pool and concert hall, supporting diverse extracurricular activities."
+  },
+  "URL": "https://latymer-upper.org",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.latymer-upper.org/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-11.02.26.png",
+    "https://www.latymer-upper.org/wp-content/uploads/2022/12/Project-Uganda-6-200x300.jpg",
+    "https://www.latymer-upper.org/wp-content/uploads/2019/11/Governors-9538-273x378.jpg",
+    "https://www.latymer-upper.org/wp-content/uploads/2019/01/Latymer-Chess-1-273x378.jpg",
+    "https://www.latymer-upper.org/wp-content/uploads/2019/01/Latymer-chemistry-42-e1548165137540-273x378.jpg",
+    "https://www.latymer-upper.org/wp-content/uploads/2021/03/Jamie-Grant-273x378.jpg",
+    "https://www.latymer-upper.org/wp-content/uploads/2018/11/home_football_boy2.png",
+    "https://www.latymer-upper.org/wp-content/uploads/2022/02/the-good-school-guide.png",
+    "https://www.latymer-upper.org/wp-content/uploads/2019/01/Latymer-flute-lesson-2-273x378.jpg",
+    "https://www.latymer-upper.org/wp-content/uploads/2025/09/Governors-9503-273x378.jpg"
+  ]
+}

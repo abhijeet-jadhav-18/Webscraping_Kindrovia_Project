@@ -1,0 +1,40 @@
+{
+  "Name": "The Royal Ballet School",
+  "Tagline": "As the world’s leading centre for classical ballet training, The Royal Ballet School attracts dancers with exceptional potential from the UK and around the",
+  "Founded": "1926",
+  "City": "Covent Garden, London, UK",
+  "Ages": "11–19",
+  "Students": "600",
+  "Ratio": "1:8",
+  "Fees": "See website",
+  "Type": "Specialist Dance School",
+  "About": "– Dame Ninette de Valois, Founder of The Royal Ballet School and Companies The Royal Ballet School is one of the world’s most celebrated centres for classical ballet training. It is the leading classical ballet school in the UK and an international institution, attracting dancers with exceptional potential from the UK and worldwide.",
+  "Philosophy": "Since its founding by Dame Ninette de Valois in 1926, the School has contributed immeasurably to our rich dance heritage, producing dancers and choreographers of international renown for generations. Former students include greats like Margot Fonteyn, Anya Linden, Kenneth MacMillan, Lynn Seymour, David Wall, Antoinette Sibley, Anthony Dowell, Marguerite Porter, Stephen Jefferies, Darcey Bussell and Jonathan Cope.",
+  "Outcomes": "Graduates of The Royal Ballet School often join prestigious companies like The Royal Ballet and Birmingham Royal Ballet. Alumni have achieved international acclaim, contributing significantly to the global ballet scene as principal dancers and choreographers.",
+  "Admissions": "We welcome applications from all, and no student should be discouraged from applying. Admission to the School is based solely on potential in classical ballet, not personal circumstances, or academic ability.",
+  "Quote": "Nurturing the grace of tomorrow's ballet legends with passion, precision, and the spirit of artistic excellence.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "in October",
+  "Performance": {
+    "Academic Integration": "As part of the academic enrichment programme at the Upper School, students may choose to study a range of academic and vocational courses in addition to the degree. One of the options is the Extended Project Qualification, (EPQ).",
+    "Facilities & Resources": "Our students come from across the UK and all over the world and are therefore required to live in boarding houses. Younger pupils live within the grounds of White Lodge, Richmond Park and Upper School students live either in Covent Garden or at our new boarding house in Pimlico.",
+    "Coaching Credentials": "The Royal Ballet School's faculty includes former principal dancers from prestigious companies and Oxbridge-educated academics, all holding enhanced DBS checks and advanced teaching qualifications to ensure high-quality instruction.",
+    "Student Wellbeing": "The Royal Ballet School offers a comprehensive wellbeing programme, including a dedicated house system and access to pastoral tutors and professional counselling services to support students' mental and emotional health.",
+    "Competitive Pathway": "Graduates of The Royal Ballet School often secure positions with leading ballet companies and achieve high acceptance rates at Russell Group universities, contributing significantly to the global ballet community.",
+    "Ongoing Accountability": "The Royal Ballet School maintains rigorous standards through regular student progress reports, parent consultations, and consistently high ISI inspection outcomes, ensuring continuous quality and accountability in education."
+  },
+  "URL": "https://royalballetschool.org.uk",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2016/08/DE-VALOIS-Dame-Ninette-Gordon-Anthony-scaled.jpg",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2026/04/100-years-news-story-template-1-300x200.png",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2024/04/Summer-Fair.jpg",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2026/03/Adults-centenary-clothing-slider.png",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2024/02/170.jpg",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2026/01/Summer-performances-2026.jpg",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2022/04/Academics.jpg",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2022/08/1-1-300x215.jpg",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2016/08/DSC_3040-scaled-1200x420.jpg",
+    "https://www.royalballetschool.org.uk/wp-content/uploads/2021/02/Bridge-of-Aspiration.jpg"
+  ]
+}

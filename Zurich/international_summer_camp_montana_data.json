@@ -1,0 +1,40 @@
+{
+  "Name": "International Summer Camp Montana",
+  "Tagline": "Summer camp Switzerland for kids and teens in Crans-Montana I Since 1961 I Nature✓ sports✓ language school & friends from around the world✓",
+  "Founded": "1961",
+  "City": "Crans-Montana, Switzerland",
+  "Ages": "8–17",
+  "Students": "N/A",
+  "Ratio": "N/A",
+  "Fees": "See website",
+  "Type": "International Summer Camp",
+  "About": "International Summer Camp Montana offers a dynamic blend of outdoor adventures, language learning, and cultural exchange in the picturesque Swiss Alps. Since 1961, it has provided a nurturing environment for children and teens from around the globe.",
+  "Philosophy": "The camp emphasizes experiential learning, fostering personal growth through sports, nature exploration, and language immersion. It upholds Swiss educational values of independence, teamwork, and respect for diverse cultures.",
+  "Outcomes": "Camp alumni often develop lifelong friendships and enhanced language skills, contributing to their personal and academic success. Many participants return with increased confidence and a global perspective, enriching their future educational endeavors.",
+  "Admissions": "To enroll at International Summer Camp Montana, interested families should complete the online application form, available on the camp's website. Early registration is recommended due to limited availability and high demand.",
+  "Quote": "In the heart of the mountains, we nurture global citizens who embrace learning, leadership, and lifelong friendships.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Coaching Credentials": "The staff at International Summer Camp Montana includes certified educators and experienced coaches from Switzerland and abroad, specializing in language instruction, outdoor education, and sports coaching, ensuring a high-quality learning experience.",
+    "Student Wellbeing": "International Summer Camp Montana prioritizes student wellbeing with a dedicated pastoral care team, providing counseling and support through a structured house system that fosters a nurturing and inclusive community environment.",
+    "Academic Integration": "The camp offers immersive language programs and experiential learning activities, integrating Swiss educational values with a focus on practical skills and cultural exchange, rather than formal qualifications like IB or A-Levels.",
+    "Competitive Pathway": "While not focused on formal academic pathways, many alumni of International Summer Camp Montana leverage their enhanced language skills and global perspective to gain acceptance into prestigious international universities and diverse career fields.",
+    "Facilities & Resources": "Set in the Swiss Alps, the camp boasts direct access to ski slopes and hiking trails, alongside modern sports facilities, including a gymnasium and a climbing wall, supporting a wide range of outdoor activities.",
+    "Ongoing Accountability": "Student progress at International Summer Camp Montana is monitored through regular feedback sessions and detailed progress reports, ensuring continuous improvement and alignment with the camp's educational goals."
+  },
+  "URL": "https://www.campmontana.ch/",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.campmontana.ch/wp-content/uploads/2017/10/kayak-1-768x1024.jpg",
+    "https://www.campmontana.ch/wp-content/uploads/2023/05/Why-we-are-the-best-pane.jpg",
+    "https://www.campmontana.ch/wp-content/uploads/2016/01/Basketball2-512x682.jpg",
+    "https://www.campmontana.ch/wp-content/uploads/2017/10/Swimming-12-scaled-550x733.jpg",
+    "https://www.campmontana.ch/wp-content/uploads/2023/05/Pioneers-10-and-11-years-old-512x345.jpg",
+    "https://www.campmontana.ch/wp-content/uploads/2025/11/Kitchen-staff-2025.webp",
+    "https://www.campmontana.ch/wp-content/uploads/2017/10/Excursions-Tile-200x267.jpg",
+    "https://www.campmontana.ch/wp-content/uploads/2025/11/Dining-staff-2025.webp",
+    "https://www.campmontana.ch/wp-content/uploads/2024/11/Padel-1-2-500x667.jpg",
+    "https://www.campmontana.ch/wp-content/uploads/2023/05/Hiking-Tile-683x6832-1.jpg"
+  ]
+}

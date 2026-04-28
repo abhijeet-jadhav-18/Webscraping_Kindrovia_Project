@@ -1,0 +1,40 @@
+{
+  "Name": "La Garenne International School",
+  "Tagline": "Join our international summer camps in Switzerland with boarding and day options. A fun, educational Alpine summer camp for children and teens aged 6–16.",
+  "Founded": "1970",
+  "City": "Château-d'Oex, Switzerland",
+  "Ages": "6–18",
+  "Students": "N/A",
+  "Ratio": "4:1",
+  "Fees": "See website",
+  "Type": "Swiss Boarding School & Summer Camp",
+  "About": "Experience the leading summer camp in Switzerland at La Garenne. Our international camp welcomes children and teenagers aged 6–16 for an unforgettable boarding and day camp experience for students seeking a premium summer programme in Switzerland.",
+  "Philosophy": "La Garenne International School emphasizes a holistic education approach, blending rigorous academics with personal development. The school fosters a nurturing environment that values cultural diversity and the unique Swiss educational tradition.",
+  "Outcomes": "Graduates of La Garenne International School often gain admission to prestigious universities worldwide, reflecting the school's commitment to academic excellence. Alumni are known for their leadership skills and global perspectives, shaped by their formative experiences in the Swiss Alps.",
+  "Admissions": "To apply to La Garenne International School, prospective students must submit an application form, academic records, and a personal statement. The admissions process is rolling, but early applications are encouraged due to limited space.",
+  "Quote": "Nurturing global citizens through adventure, learning, and friendships in the heart of the Swiss Alps.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Student Wellbeing": "Our Summer Camps are organised into three age groups: 6 to 9, 10 to 12 and 13 to 16 years, to ensure that every student enjoys activities tailored to their abilities and interests at every stage of the programme. With around 50 nationalities represented across our international summer camp community, you will meet people from all over the world and make memories for life.",
+    "Facilities & Resources": "Perhaps you are into Robotics and 3D printing, horse riding, splashing about on the lake, an overnight mountain hike, or even a two-day trip to Chamonix or Europa Park? At La Garenne, our boarding summer camps and day camp programmes for children and teenagers aged 6 to 16 offer an unforgettable Alpine experience, combining adventure, creativity, and learning, with English or French language learning, structured supervision and an international atmosphere.",
+    "Coaching Credentials": "La Garenne International School employs a diverse faculty with advanced degrees and certifications, including IB and Swiss teaching qualifications. Many teachers are native English and French speakers, enhancing the multilingual learning environment.",
+    "Academic Integration": "The school offers a robust curriculum featuring the International Baccalaureate (IB) and IGCSE programmes, emphasizing inquiry-based learning and critical thinking. Students engage in subjects ranging from sciences to humanities, fostering a well-rounded education.",
+    "Competitive Pathway": "Graduates from La Garenne consistently gain entry to top universities, such as Oxford, Harvard, and ETH Zurich. The school's rigorous academic preparation ensures high exam scores and successful university applications.",
+    "Ongoing Accountability": "Student progress is meticulously tracked through bi-annual reports and regular parent-teacher conferences. La Garenne's IB accreditation ensures continuous quality assessment and adherence to international educational standards."
+  },
+  "URL": "https://summer.la-garenne.ch",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.la-garenne.ch/wp-content/uploads/2025/08/USE-8E3A0202-1024x683.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2026/03/summer-camps-2026.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2025/01/LA-GARENNE-SUMMER-CAMPS-LAKE-CAMP-1024x683.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2025/01/LA-GARENNE-SUMMER-ICE-SKATING-1024x1024.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2025/08/untitled-1024x768.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2025/01/LA-GARENNE-SUMMER-CAMPS-GO-KARTING-1024x683.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2025/01/LA-GARENNE-SUMMER-CAMPS-CANYONING-1024x683.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2026/01/summer-camp-hero-scaled.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2025/01/LA-GARENNE-SUMMER-SPA-1024x819.jpg",
+    "https://www.la-garenne.ch/wp-content/uploads/2025/01/LA-GARENNE-SUMMER-CAMPS-FUNPARK-2-1024x683.jpg"
+  ]
+}

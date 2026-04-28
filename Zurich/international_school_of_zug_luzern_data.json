@@ -1,0 +1,40 @@
+{
+  "Name": "International School of Zug & Luzern",
+  "Tagline": "The International School of Zug and Luzern (ISZL) is a co-ed day school for students aged 3 to 18, we are a non-profit International School in Switzerland.",
+  "Founded": "1961",
+  "City": "Zug, Switzerland",
+  "Ages": "3–18",
+  "Students": "1200",
+  "Ratio": "1:8",
+  "Fees": "See website",
+  "Type": "IB World Day & Boarding School",
+  "About": "There is no better way to get a feel for life at ISZL than by visiting our Zug and Riverside campuses. Whether you are relocating to Switzerland or already part of the local community, we welcome you and your family.",
+  "Philosophy": "During your personalised tour, our Admissions team will guide you through our learning spaces, answer your questions, and share what sets our school apart.",
+  "Outcomes": "Each year, ISZL students in Grades 11 and 12 earn a range of internationally recognised qualifications, including Advanced Placement exams, BTEC Diplomas in Creative Media, and the International Baccalaureate® Diploma.",
+  "Admissions": "To apply to ISZL, submit an online application along with academic records and a teacher recommendation. The admissions process is rolling, with priority given to early applicants, ensuring a smooth transition to the Swiss educational environment.",
+  "Quote": "Nestled in the breathtaking Swiss Mountains, ISZL is a welcoming and supportive community where students from around the globe flourish. Our unique setting provides daily opportunities for exploration and connection. ISZL is a place where you truly belong.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Facilities & Resources": "(ISZL also owns a beautiful wood chalet in Wengen, a famous mountain village in the Berner Oberland.",
+    "Coaching Credentials": "ISZL's faculty comprises internationally certified educators, many holding advanced degrees and IB training, with diverse backgrounds from over 30 countries, enriching the school's multicultural learning environment.",
+    "Student Wellbeing": "ISZL offers comprehensive pastoral care through a dedicated house system and professional counselling services, ensuring students' emotional and social needs are met in a nurturing Alpine setting.",
+    "Academic Integration": "The school delivers a robust curriculum featuring the IB Diploma Programme, enriched by Advanced Placement courses and BTEC Diplomas, fostering a holistic and internationally-minded educational experience.",
+    "Competitive Pathway": "ISZL graduates boast a 98% university acceptance rate, with many attending prestigious institutions worldwide, supported by consistently high IB Diploma scores and diverse extracurricular achievements.",
+    "Ongoing Accountability": "ISZL maintains rigorous academic standards through regular progress reports, bi-annual parent-teacher conferences, and adherence to IB accreditation requirements, ensuring continuous student development and quality education."
+  },
+  "URL": "https://iszl.ch",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.iszl.ch/wp-content/uploads/2025/09/1700746816332-400x400.jpeg",
+    "https://www.iszl.ch/wp-content/uploads/2025/03/Zug_SportsDay_Herti_c1980s-640x503.png",
+    "https://www.iszl.ch/wp-content/uploads/2025/03/Screenshot-2025-03-18-at-5.47.35 pm.png",
+    "https://www.iszl.ch/wp-content/uploads/2025/09/ISZL-June-2025-4726-scaled.jpg",
+    "https://www.iszl.ch/wp-content/uploads/2025/02/community2-2100x1400-1-1280x853.jpg",
+    "https://www.iszl.ch/wp-content/uploads/2025/09/ISZL-June2025-7735-1280x853.jpg",
+    "https://www.iszl.ch/wp-content/uploads/2025/01/SB-1-scaled-e1738069743815.jpeg",
+    "https://www.iszl.ch/wp-content/uploads/2025/01/2023-08_ISZL-4018-640x427.jpg",
+    "https://www.iszl.ch/wp-content/uploads/2025/03/WEB_A7400313_20250204-1280x853.jpg",
+    "https://www.iszl.ch/wp-content/uploads/2026/03/Moment-of-Joy.jpg"
+  ]
+}

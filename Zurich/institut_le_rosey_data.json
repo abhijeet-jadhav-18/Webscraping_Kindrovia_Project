@@ -1,0 +1,40 @@
+{
+  "Name": "Institut Le Rosey",
+  "Tagline": "A leading boarding school in Switzerland. Where rich tradition meets modern outlook. Bilingual learning in an international community. A School for life.",
+  "Founded": "1880",
+  "City": "Rolle, Switzerland",
+  "Ages": "8–18",
+  "Students": "400",
+  "Ratio": "1:5",
+  "Fees": "See website",
+  "Type": "Independent Boarding School",
+  "About": "Rosey’s alumni have created a powerful and effective association whose members hail from many backgrounds with several of them leaving their mark on the history of the 20th century. Despite Le Rosey’s attachment to its traditions, discipline and educational standards, the school has always been innovative and at the forefront of many pedagogical advances, especially in the areas of language teaching, biculturalism, personal development, the integration of sports and arts in daily life, motivation and the place of values in education.",
+  "Philosophy": "Institut Le Rosey emphasizes a holistic education that integrates rigorous academics with a strong emphasis on arts and sports, fostering personal growth. The school embraces Swiss educational traditions, promoting bilingualism and cultural diversity within its international community.",
+  "Outcomes": "A structured, dynamic network of Anciens (Rosey alumni) with its own resources, the AIAR is present in the majority of countries across the globe as well as most major cities. It is one of the most effective and lively alumni associations in the world.",
+  "Admissions": "Once online application forms and required documents have been received (details below), candidates are invited to spend a day on the campus as soon as possible, but no earlier than 15 months before the start of the desired entry year, to get to know the school and to take entrance tests (in Mathematics, English or French, and their mother tongue). They are interviewed by an academic advisor, who will also answer any questions they may have.",
+  "Quote": "Cultivating a global community of leaders, Le Rosey empowers each student to innovate while honoring timeless traditions.",
+  "EnquiryOpen": "Year-round",
+  "AppDeadline": "Rolling admissions",
+  "Performance": {
+    "Facilities & Resources": "Classes are given here as they are in Rolle, with a few changes: there are classes in the morning only, including on Saturday, with the exception of Thursday when classes are held all day. The other afternoons are reserved for sports on snow and ice!",
+    "Coaching Credentials": "With an international teaching staff, one would expect teaching methods and approaches to vary – and they do. Whilst only selecting highly qualified staff, Le Rosey does not believe in a one-size-fits-all teaching technique.",
+    "Academic Integration": "Rosey students are diverse both in what they know and how they have learnt. Our curriculum is international with the breadth and depth characteristic of the strongest national and international programmes and a strong emphasis on languages.",
+    "Competitive Pathway": "All students proceed to university and over 30% of these to universities ranked in the top 25 across the world including the Ivy League, MIT, Stanford and “Ivy League Plus” in the US, and Oxbridge and other Russell Group universities in the UK.",
+    "Student Wellbeing": "Institut Le Rosey supports student wellbeing through a comprehensive pastoral care system, including dedicated housemasters and housemistresses, and access to professional counselling services, ensuring a nurturing boarding environment in the Swiss Alps.",
+    "Ongoing Accountability": "Le Rosey maintains high educational standards through regular progress reports and biannual parent-teacher meetings, complemented by its adherence to the rigorous International Baccalaureate (IB) accreditation, ensuring continuous student development and accountability."
+  },
+  "URL": "https://rosey.ch",
+  "ImageCount": 10,
+  "ImageURLs": [
+    "https://www.rosey.ch/wp-content/uploads/university-guidance-1.jpg",
+    "https://www.rosey.ch/wp-content/uploads/2015/06/rosey-campus-de-rolle-4-300x199.jpg",
+    "https://www.rosey.ch/wp-content/uploads/rosey-home-academics.jpg",
+    "https://www.rosey.ch/wp-content/uploads/philo-square-300x209.jpg",
+    "https://www.rosey.ch/wp-content/uploads/2015/06/rosey-campus-de-rolle-9.jpg",
+    "https://www.rosey.ch/wp-content/uploads/blason-rvb-01-min.png",
+    "https://www.rosey.ch/wp-content/uploads/2015/06/rosey-campus-de-rolle-11.jpg",
+    "https://www.rosey.ch/wp-content/uploads/2015/07/cadets5.jpg",
+    "https://www.rosey.ch/wp-content/uploads/carousel-gstaad-9.jpg",
+    "https://www.rosey.ch/wp-content/uploads/2015/06/louis-johannot-300x300.jpg"
+  ]
+}
